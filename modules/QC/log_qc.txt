@@ -1,0 +1,402 @@
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_adipose_subcutaneous.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_adipose_subcutaneous.gct.gz"
+[1] "data loaded"
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 60.21" "PC1-4 variance explained: 7.29" 
+[3] "PC1-4 variance explained: 6.25"  "PC1-4 variance explained: 4.33" 
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 28 outliers 
+
+
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 28 outliers 
+
+
+[1] "No. genes after filter: 16386"
+[1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_adipose_subcutaneous.gct.gz"
+[1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/adipose_subcutaneous.normcounts.Rdata"
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_adipose_visceral_omentum.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_adipose_visceral_omentum.gct.gz"
+[1] "data loaded"
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 65.07" "PC1-4 variance explained: 9.06" 
+[3] "PC1-4 variance explained: 4.31"  "PC1-4 variance explained: 3.1"  
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 20 outliers 
+
+
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 28 outliers 
+
+
+[1] "No. genes after filter: 16333"
+[1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_adipose_visceral_omentum.gct.gz"
+[1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/adipose_visceral_omentum.normcounts.Rdata"
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_adrenal_gland.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_adrenal_gland.gct.gz"
+[1] "data loaded"
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 47.25" "PC1-4 variance explained: 35.01"
+[3] "PC1-4 variance explained: 7.13"  "PC1-4 variance explained: 3.17" 
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 13 outliers 
+
+
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 15 outliers 
+
+
+[1] "No. genes after filter: 16270"
+[1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_adrenal_gland.gct.gz"
+[1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/adrenal_gland.normcounts.Rdata"
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_artery_aorta.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_artery_aorta.gct.gz"
+[1] "data loaded"
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 40.76" "PC1-4 variance explained: 14.45"
+[3] "PC1-4 variance explained: 12.97" "PC1-4 variance explained: 4.1"  
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 19 outliers 
+
+
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 4 outliers 
+
+
+[1] "No. genes after filter: 16023"
+[1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_artery_aorta.gct.gz"
+[1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/artery_aorta.normcounts.Rdata"
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_artery_coronary.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_artery_coronary.gct.gz"
+[1] "data loaded"
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 36.9"  "PC1-4 variance explained: 28.64"
+[3] "PC1-4 variance explained: 6.35"  "PC1-4 variance explained: 4.31" 
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 13 outliers 
+
+
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 14 outliers 
+
+
+[1] "No. genes after filter: 16258"
+[1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_artery_coronary.gct.gz"
+[1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/artery_coronary.normcounts.Rdata"
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_artery_tibial.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_artery_tibial.gct.gz"
+[1] "data loaded"
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 41.09" "PC1-4 variance explained: 14.26"
+[3] "PC1-4 variance explained: 11.93" "PC1-4 variance explained: 4.99" 
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 18 outliers 
+
+
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 22 outliers 
+
+
+[1] "No. genes after filter: 15498"
+[1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_artery_tibial.gct.gz"
+[1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/artery_tibial.normcounts.Rdata"
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_bladder.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_bladder.gct.gz"
+[1] "data loaded"
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 44.47" "PC1-4 variance explained: 30.91"
+[3] "PC1-4 variance explained: 9.31"  "PC1-4 variance explained: 4.24" 
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_amygdala.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_amygdala.gct.gz"
+[1] "data loaded"
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 84.38" "PC1-4 variance explained: 8.42" 
+[3] "PC1-4 variance explained: 1.79"  "PC1-4 variance explained: 1.6"  
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 9 outliers 
+
+
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 7 outliers 
+
+
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_anterior_cingulate_cortex_ba24.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_anterior_cingulate_cortex_ba24.gct.gz"
+[1] "data loaded"
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 85.36" "PC1-4 variance explained: 7.14" 
+[3] "PC1-4 variance explained: 2.62"  "PC1-4 variance explained: 1.59" 
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 6 outliers 
+
+
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 15 outliers 
+
+
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_caudate_basal_ganglia.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_caudate_basal_ganglia.gct.gz"
+[1] "data loaded"
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 86.93" "PC1-4 variance explained: 6.63" 
+[3] "PC1-4 variance explained: 2.48"  "PC1-4 variance explained: 0.83" 
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 13 outliers 
+
+
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 9 outliers 
+
+
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_cerebellar_hemisphere.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_cerebellar_hemisphere.gct.gz"
+[1] "data loaded"
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 91.76" "PC1-4 variance explained: 2.52" 
+[3] "PC1-4 variance explained: 1.87"  "PC1-4 variance explained: 1.2"  
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 25 outliers 
+
+
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 20 outliers 
+
+
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_cerebellum.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_cerebellum.gct.gz"
+[1] "data loaded"
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 91.09" "PC1-4 variance explained: 3"    
+[3] "PC1-4 variance explained: 1.56"  "PC1-4 variance explained: 1.11" 
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 20 outliers 
+
+
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 16 outliers 
+
+
+[1] "No. genes after filter: 17737"
+[1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_cerebellum.gct.gz"
+[1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/brain_cerebellum.normcounts.Rdata"
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_cortex.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_cortex.gct.gz"
+[1] "data loaded"
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 82.71" "PC1-4 variance explained: 7.96" 
+[3] "PC1-4 variance explained: 3.08"  "PC1-4 variance explained: 1.67" 
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 11 outliers 
+
+
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 15 outliers 
+
+
+[1] "No. genes after filter: 17637"
+[1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_cortex.gct.gz"
+[1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/brain_cortex.normcounts.Rdata"
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_frontal_cortex_ba9.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_frontal_cortex_ba9.gct.gz"
+[1] "data loaded"
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 81.45" "PC1-4 variance explained: 9.79" 
+[3] "PC1-4 variance explained: 3.51"  "PC1-4 variance explained: 1.54" 
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 19 outliers 
+
+
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 22 outliers 
+
+
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_hippocampus.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_hippocampus.gct.gz"
+[1] "data loaded"
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 84.05" "PC1-4 variance explained: 6.88" 
+[3] "PC1-4 variance explained: 2.93"  "PC1-4 variance explained: 2.32" 
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_hypothalamus.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_hypothalamus.gct.gz"
+[1] "data loaded"
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 78.65" "PC1-4 variance explained: 10.99"
+[3] "PC1-4 variance explained: 3.7"   "PC1-4 variance explained: 2.62" 
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 11 outliers 
+
+
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 12 outliers 
+
+
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_nucleus_accumbens_basal_ganglia.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_nucleus_accumbens_basal_ganglia.gct.gz"
+[1] "data loaded"
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 82.59" "PC1-4 variance explained: 9.98" 
+[3] "PC1-4 variance explained: 2.38"  "PC1-4 variance explained: 1.88" 
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 17 outliers 
+
+
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 25 outliers 
+
+
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_putamen_basal_ganglia.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_putamen_basal_ganglia.gct.gz"
