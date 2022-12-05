@@ -20,8 +20,8 @@ suppressPackageStartupMessages(library(gridExtra))
 suppressPackageStartupMessages(library(ggplot2))
 suppressPackageStartupMessages(library(WGCNA))
 allowWGCNAThreads()
-args <- commandArgs(trailingOnly = TRUE)
-file.fn <- args[1]
+# args <- commandArgs(trailingOnly = TRUE)
+# file.fn <- args[1]
 
 #file.fn = "../../data/adipose_subcutaneous.normcounts.Rdata"
 load(file.fn, verbose = T)
@@ -33,7 +33,7 @@ load(file.fn, verbose = T)
 #
 
 
-source("network.R")
+#source("network.R")
 
 
 # ---------------------------------------
@@ -42,7 +42,7 @@ source("network.R")
 #
 
 
-source("modEigengenes.R")
+#source("modEigengenes.R")
 
 
 
@@ -52,8 +52,12 @@ source("modEigengenes.R")
 #
 
 network.fn <- paste0("intermediateData/", basename(gsub(".normcounts.",".ntwrk.", file.fn)))
-save(bwnet, file = network.fn)
+#save(bwnet, file = network.fn)
+load(network.fn, verbose = T)
 
+# fix soft power mistake
+idxSP <- which(basename(read.table("running.txt")$V2) == basename(file.fn))
+soft_power <- as.numeric(gsub("Using power: ","",read.table("softpower.txt")$V2))[idxSP]
 
 
 # ---------------------------------------
@@ -61,8 +65,11 @@ save(bwnet, file = network.fn)
 # Subset modules to w/  ENSG00000197081 and find hubgenes
 #
 # 
-# 
-# source("interConnectedGenes.R")
+
+source("interConnectedGenes.R")
+
+
+
 # 
 # bwnet$colors[grep("ENSG00000197081", names(bwnet$colors))]
 # mod <- bwnet$colors[bwnet$colors == "white"]

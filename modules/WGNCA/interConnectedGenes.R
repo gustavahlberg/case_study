@@ -5,6 +5,8 @@
 #
 # ---------------------------------------
 
+
+module_eigengenes <- bwnet$MEs
 poi <- "ENSG00000197081.12"
 tissue <- gsub(".normcounts.Rdata" ,"",basename(file.fn))
 
@@ -23,10 +25,18 @@ datKME <- signedKME(norm.counts_lowvar,
 
 
 if(datKME[poi , which.max(datKME[poi,]) ] <= 0.6) {
-  stop("STOP: IGF2R has low connectivity to module. Not printing reuslts")
+  print("STOP: IGF2R has low connectivity to module. Not printing reuslts")
+  next()
 }
 
 namemod <- bwnet$colors[grep("ENSG00000197081", names(bwnet$colors))]
+print(namemod)
+if(namemod == "grey" ) {
+  print("STOP: module is grey")
+  next()
+}
+
+
 geneMod <- names(bwnet$colors[bwnet$colors == namemod])
 mod <- data.frame(ID = geneMod,
                   NAME = descData$Description[descData$Name %in% geneMod],
@@ -69,7 +79,7 @@ mod$sub_clusters <- get_sub_clusters(modTOM)$sub_module
 #
 
 outdir <- paste0("../../results/tissues/", tissue)
-dir.create(outdir)
+dir.create(outdir, showWarnings = F)
 
 outMod.fn <- paste0(outdir, "/module_", tissue, ".tsv")
 edgeFile.fn <- paste0(outdir, "/Cyto_edges_",tissue,".txt")
@@ -81,7 +91,7 @@ cyt <- exportNetworkToCytoscape(modTOM,
                          edgeFile = edgeFile.fn,
                          nodeFile = nodeFile.fn,
                          weighted = TRUE,
-                         threshold = 0.02,
+                         threshold = 0.08,
                          nodeNames = mod$ID,
                          altNodeNames = mod$NAME,
                          nodeAttr = mod[,c("KME","hubGenes","sub_clusters")]
@@ -102,11 +112,11 @@ save(enrichment1, enrichment2, file = enrichment.fn)
 # meta data 
 meta <- data.frame(IGF2R_isHub = mod[poi,]$hubGenes == 1,
                    IGF2R_inCyto = mod[poi,]$ID %in% cyt$nodeData$nodeName,
-                   IGF2R_inTOP30 = mod[poi,]$ID %in% mod$ID[1:30], 
+                   IGF2R_inTOP40 = mod[poi,]$ID %in% mod$ID[1:40], 
                    POI_isinModule = any(mod$ID %in% genes_of_interest),
                    POI_isHub = any(mod$ID[mod$hubGenes == 1] %in% genes_of_interest),
                    POI_inCyto = any(cyt$nodeData$nodeName %in% genes_of_interest),
-                   POI_inTOP30 = any( mod$ID[1:30] %in% genes_of_interest),
+                   POI_inTOP40 = any( mod$ID[1:40] %in% genes_of_interest),
                    MinPval_Enriched1 = min(enrichment1$result$p_value), 
                    MinPval_Enriched2 = min(enrichment2$result$p_value)
                    )
@@ -119,6 +129,8 @@ write.table(meta.fn,
             sep = "\t"
 )
 
+system(paste("gzip ", outdir, "/*tsv" ))
+system(paste("gzip ", outdir, "/*txt" ))
 
 #######################################################
 # EOF # EOF # EOF # EOF # EOF # EOF # EOF # EOF # EOF #
