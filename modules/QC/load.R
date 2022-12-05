@@ -39,8 +39,7 @@ attrData <- read.delim("../../data/GTEx_Analysis_v8_Annotations_SampleAttributes
 attrData <- attrData[which(attrData$SAMPID %in% gsub("\\.","-",colnames(data))),]
 
 colnames(data) <- gsub("\\.","-", 
-                       (gsub("\\.\\d+\\.SM\\..+$","", colnames(data))))
-
+                       (gsub("(GTEX\\.\\w+)\\..+","\\1", colnames(data))))
 
 
 descData <- data[,1:3]

@@ -1,6 +1,11 @@
 running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_adipose_subcutaneous.gct.gz
 [1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_adipose_subcutaneous.gct.gz"
 [1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
  Flagging genes and samples with too many missing values...
   ..step 1
   ..step 2
@@ -28,6 +33,11 @@ Iteration 2000
 running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_adipose_visceral_omentum.gct.gz
 [1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_adipose_visceral_omentum.gct.gz"
 [1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
  Flagging genes and samples with too many missing values...
   ..step 1
   ..step 2
@@ -46,15 +56,20 @@ Iteration 1000
 Iteration 1500
 Iteration 2000
 
- 28 outliers 
+ 29 outliers 
 
 
-[1] "No. genes after filter: 16333"
+[1] "No. genes after filter: 16316"
 [1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_adipose_visceral_omentum.gct.gz"
 [1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/adipose_visceral_omentum.normcounts.Rdata"
 running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_adrenal_gland.gct.gz
 [1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_adrenal_gland.gct.gz"
 [1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
  Flagging genes and samples with too many missing values...
   ..step 1
   ..step 2
@@ -82,6 +97,11 @@ Iteration 2000
 running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_artery_aorta.gct.gz
 [1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_artery_aorta.gct.gz"
 [1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
  Flagging genes and samples with too many missing values...
   ..step 1
   ..step 2
@@ -109,6 +129,11 @@ Iteration 2000
 running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_artery_coronary.gct.gz
 [1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_artery_coronary.gct.gz"
 [1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
  Flagging genes and samples with too many missing values...
   ..step 1
   ..step 2
@@ -127,15 +152,20 @@ Iteration 1000
 Iteration 1500
 Iteration 2000
 
- 14 outliers 
+ 13 outliers 
 
 
-[1] "No. genes after filter: 16258"
+[1] "No. genes after filter: 16254"
 [1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_artery_coronary.gct.gz"
 [1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/artery_coronary.normcounts.Rdata"
 running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_artery_tibial.gct.gz
 [1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_artery_tibial.gct.gz"
 [1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
  Flagging genes and samples with too many missing values...
   ..step 1
   ..step 2
@@ -146,7 +176,7 @@ Iteration 1000
 Iteration 1500
 Iteration 2000
 
- 18 outliers 
+ 17 outliers 
 
 
 Iteration 500
@@ -157,20 +187,34 @@ Iteration 2000
  22 outliers 
 
 
-[1] "No. genes after filter: 15498"
+[1] "No. genes after filter: 15497"
 [1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_artery_tibial.gct.gz"
 [1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/artery_tibial.normcounts.Rdata"
 running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_bladder.gct.gz
 [1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_bladder.gct.gz"
 [1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
  Flagging genes and samples with too many missing values...
   ..step 1
   ..step 2
 [1] "PC1-4 variance explained: 44.47" "PC1-4 variance explained: 30.91"
 [3] "PC1-4 variance explained: 9.31"  "PC1-4 variance explained: 4.24" 
+Error in aberrant(pca.dat[, 1:2], niter = 2000, lambda = 20) : 
+  Iteration without inlier or outlier identified: please provide some priors so that all distributions are well defined
+Calls: source -> withVisible -> eval -> eval -> aberrant
+Execution halted
 running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_amygdala.gct.gz
 [1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_amygdala.gct.gz"
 [1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
  Flagging genes and samples with too many missing values...
   ..step 1
   ..step 2
@@ -189,12 +233,20 @@ Iteration 1000
 Iteration 1500
 Iteration 2000
 
- 7 outliers 
+ 6 outliers 
 
 
+[1] "No. genes after filter: 16784"
+[1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_amygdala.gct.gz"
+[1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/brain_amygdala.normcounts.Rdata"
 running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_anterior_cingulate_cortex_ba24.gct.gz
 [1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_anterior_cingulate_cortex_ba24.gct.gz"
 [1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
  Flagging genes and samples with too many missing values...
   ..step 1
   ..step 2
@@ -213,12 +265,20 @@ Iteration 1000
 Iteration 1500
 Iteration 2000
 
- 15 outliers 
+ 14 outliers 
 
 
+[1] "No. genes after filter: 17205"
+[1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_anterior_cingulate_cortex_ba24.gct.gz"
+[1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/brain_anterior_cingulate_cortex_ba24.normcounts.Rdata"
 running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_caudate_basal_ganglia.gct.gz
 [1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_caudate_basal_ganglia.gct.gz"
 [1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
  Flagging genes and samples with too many missing values...
   ..step 1
   ..step 2
@@ -240,9 +300,17 @@ Iteration 2000
  9 outliers 
 
 
+[1] "No. genes after filter: 17279"
+[1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_caudate_basal_ganglia.gct.gz"
+[1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/brain_caudate_basal_ganglia.normcounts.Rdata"
 running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_cerebellar_hemisphere.gct.gz
 [1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_cerebellar_hemisphere.gct.gz"
 [1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
  Flagging genes and samples with too many missing values...
   ..step 1
   ..step 2
@@ -264,9 +332,17 @@ Iteration 2000
  20 outliers 
 
 
+[1] "No. genes after filter: 17621"
+[1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_cerebellar_hemisphere.gct.gz"
+[1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/brain_cerebellar_hemisphere.normcounts.Rdata"
 running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_cerebellum.gct.gz
 [1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_cerebellum.gct.gz"
 [1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
  Flagging genes and samples with too many missing values...
   ..step 1
   ..step 2
@@ -294,6 +370,11 @@ Iteration 2000
 running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_cortex.gct.gz
 [1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_cortex.gct.gz"
 [1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
  Flagging genes and samples with too many missing values...
   ..step 1
   ..step 2
@@ -304,7 +385,7 @@ Iteration 1000
 Iteration 1500
 Iteration 2000
 
- 11 outliers 
+ 12 outliers 
 
 
 Iteration 500
@@ -315,12 +396,17 @@ Iteration 2000
  15 outliers 
 
 
-[1] "No. genes after filter: 17637"
+[1] "No. genes after filter: 17624"
 [1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_cortex.gct.gz"
 [1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/brain_cortex.normcounts.Rdata"
 running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_frontal_cortex_ba9.gct.gz
 [1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_frontal_cortex_ba9.gct.gz"
 [1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
  Flagging genes and samples with too many missing values...
   ..step 1
   ..step 2
@@ -342,17 +428,34 @@ Iteration 2000
  22 outliers 
 
 
+[1] "No. genes after filter: 17452"
+[1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_frontal_cortex_ba9.gct.gz"
+[1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/brain_frontal_cortex_ba9.normcounts.Rdata"
 running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_hippocampus.gct.gz
 [1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_hippocampus.gct.gz"
 [1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
  Flagging genes and samples with too many missing values...
   ..step 1
   ..step 2
 [1] "PC1-4 variance explained: 84.05" "PC1-4 variance explained: 6.88" 
 [3] "PC1-4 variance explained: 2.93"  "PC1-4 variance explained: 2.32" 
+Error in aberrant(pca.dat[, 1:2], niter = 2000, lambda = 20) : 
+  Iteration without inlier or outlier identified: please provide some priors so that all distributions are well defined
+Calls: source -> withVisible -> eval -> eval -> aberrant
+Execution halted
 running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_hypothalamus.gct.gz
 [1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_hypothalamus.gct.gz"
 [1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
  Flagging genes and samples with too many missing values...
   ..step 1
   ..step 2
@@ -363,7 +466,7 @@ Iteration 1000
 Iteration 1500
 Iteration 2000
 
- 11 outliers 
+ 10 outliers 
 
 
 Iteration 500
@@ -371,12 +474,20 @@ Iteration 1000
 Iteration 1500
 Iteration 2000
 
- 12 outliers 
+ 11 outliers 
 
 
+[1] "No. genes after filter: 17370"
+[1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_hypothalamus.gct.gz"
+[1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/brain_hypothalamus.normcounts.Rdata"
 running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_nucleus_accumbens_basal_ganglia.gct.gz
 [1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_nucleus_accumbens_basal_ganglia.gct.gz"
 [1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
  Flagging genes and samples with too many missing values...
   ..step 1
   ..step 2
@@ -398,5 +509,1066 @@ Iteration 2000
  25 outliers 
 
 
+[1] "No. genes after filter: 17287"
+[1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_nucleus_accumbens_basal_ganglia.gct.gz"
+[1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/brain_nucleus_accumbens_basal_ganglia.normcounts.Rdata"
 running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_putamen_basal_ganglia.gct.gz
 [1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_putamen_basal_ganglia.gct.gz"
+[1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 82.74" "PC1-4 variance explained: 7.83" 
+[3] "PC1-4 variance explained: 2.86"  "PC1-4 variance explained: 2"    
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 3 outliers 
+
+
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 8 outliers 
+
+
+[1] "No. genes after filter: 16684"
+[1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_putamen_basal_ganglia.gct.gz"
+[1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/brain_putamen_basal_ganglia.normcounts.Rdata"
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_spinal_cord_cervical_c-1.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_spinal_cord_cervical_c-1.gct.gz"
+[1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 61.88" "PC1-4 variance explained: 25.28"
+[3] "PC1-4 variance explained: 4.69"  "PC1-4 variance explained: 4.31" 
+Error in aberrant(pca.dat[, 1:2], niter = 2000, lambda = 20) : 
+  Iteration without inlier or outlier identified: please provide some priors so that all distributions are well defined
+Calls: source -> withVisible -> eval -> eval -> aberrant
+Execution halted
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_substantia_nigra.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_brain_substantia_nigra.gct.gz"
+[1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 73.33" "PC1-4 variance explained: 13.3" 
+[3] "PC1-4 variance explained: 6.65"  "PC1-4 variance explained: 2.05" 
+Iteration 500
+Iteration 1000
+Iteration 1500
+Error in aberrant(pca.dat[, 1:2], niter = 2000, lambda = 20) : 
+  Iteration without inlier or outlier identified: please provide some priors so that all distributions are well defined
+Calls: source -> withVisible -> eval -> eval -> aberrant
+Execution halted
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_breast_mammary_tissue.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_breast_mammary_tissue.gct.gz"
+[1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 62.15" "PC1-4 variance explained: 7.82" 
+[3] "PC1-4 variance explained: 5.23"  "PC1-4 variance explained: 4.19" 
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 25 outliers 
+
+
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 12 outliers 
+
+
+[1] "No. genes after filter: 16547"
+[1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_breast_mammary_tissue.gct.gz"
+[1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/breast_mammary_tissue.normcounts.Rdata"
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_cells_cultured_fibroblasts.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_cells_cultured_fibroblasts.gct.gz"
+[1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 80.98" "PC1-4 variance explained: 5.67" 
+[3] "PC1-4 variance explained: 3.36"  "PC1-4 variance explained: 2.81" 
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 8 outliers 
+
+
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 23 outliers 
+
+
+[1] "No. genes after filter: 14718"
+[1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_cells_cultured_fibroblasts.gct.gz"
+[1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/cells_cultured_fibroblasts.normcounts.Rdata"
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_cells_ebv-transformed_lymphocytes.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_cells_ebv-transformed_lymphocytes.gct.gz"
+[1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 49.41" "PC1-4 variance explained: 11.45"
+[3] "PC1-4 variance explained: 8.75"  "PC1-4 variance explained: 6.7"  
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 6 outliers 
+
+
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 8 outliers 
+
+
+[1] "No. genes after filter: 14895"
+[1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_cells_ebv-transformed_lymphocytes.gct.gz"
+[1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/cells_ebv-transformed_lymphocytes.normcounts.Rdata"
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_cervix_ectocervix.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_cervix_ectocervix.gct.gz"
+[1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 67.07" "PC1-4 variance explained: 11.52"
+[3] "PC1-4 variance explained: 10.41" "PC1-4 variance explained: 4.31" 
+Error in aberrant(pca.dat[, 1:2], niter = 2000, lambda = 20) : 
+  Iteration without inlier or outlier identified: please provide some priors so that all distributions are well defined
+Calls: source -> withVisible -> eval -> eval -> aberrant
+Execution halted
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_cervix_endocervix.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_cervix_endocervix.gct.gz"
+[1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 32.35" "PC1-4 variance explained: 28.91"
+[3] "PC1-4 variance explained: 18.48" "PC1-4 variance explained: 7.28" 
+Error in aberrant(pca.dat[, 1:2], niter = 2000, lambda = 20) : 
+  Iteration without inlier or outlier identified: please provide some priors so that all distributions are well defined
+Calls: source -> withVisible -> eval -> eval -> aberrant
+Execution halted
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_colon_sigmoid.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_colon_sigmoid.gct.gz"
+[1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 43.81" "PC1-4 variance explained: 23.87"
+[3] "PC1-4 variance explained: 10.98" "PC1-4 variance explained: 4.32" 
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 19 outliers 
+
+
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 15 outliers 
+
+
+[1] "No. genes after filter: 16613"
+[1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_colon_sigmoid.gct.gz"
+[1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/colon_sigmoid.normcounts.Rdata"
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_colon_transverse.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_colon_transverse.gct.gz"
+[1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 81.46" "PC1-4 variance explained: 8"    
+[3] "PC1-4 variance explained: 2.73"  "PC1-4 variance explained: 1.75" 
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 7 outliers 
+
+
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 23 outliers 
+
+
+[1] "No. genes after filter: 16671"
+[1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_colon_transverse.gct.gz"
+[1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/colon_transverse.normcounts.Rdata"
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_esophagus_gastroesophageal_junction.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_esophagus_gastroesophageal_junction.gct.gz"
+[1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 57.23" "PC1-4 variance explained: 21.08"
+[3] "PC1-4 variance explained: 6.84"  "PC1-4 variance explained: 4.46" 
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 45 outliers 
+
+
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 9 outliers 
+
+
+[1] "No. genes after filter: 16336"
+[1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_esophagus_gastroesophageal_junction.gct.gz"
+[1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/esophagus_gastroesophageal_junction.normcounts.Rdata"
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_esophagus_mucosa.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_esophagus_mucosa.gct.gz"
+[1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 51.27" "PC1-4 variance explained: 24.16"
+[3] "PC1-4 variance explained: 9.61"  "PC1-4 variance explained: 2.97" 
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 25 outliers 
+
+
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 13 outliers 
+
+
+[1] "No. genes after filter: 16307"
+[1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_esophagus_mucosa.gct.gz"
+[1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/esophagus_mucosa.normcounts.Rdata"
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_esophagus_muscularis.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_esophagus_muscularis.gct.gz"
+[1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 57.9"  "PC1-4 variance explained: 22.74"
+[3] "PC1-4 variance explained: 6.3"   "PC1-4 variance explained: 2.02" 
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 34 outliers 
+
+
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 12 outliers 
+
+
+[1] "No. genes after filter: 16261"
+[1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_esophagus_muscularis.gct.gz"
+[1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/esophagus_muscularis.normcounts.Rdata"
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_fallopian_tube.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_fallopian_tube.gct.gz"
+[1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 33.09" "PC1-4 variance explained: 25.89"
+[3] "PC1-4 variance explained: 19.33" "PC1-4 variance explained: 12.55"
+Error in aberrant(pca.dat[, 1:2], niter = 2000, lambda = 20) : 
+  Iteration without inlier or outlier identified: please provide some priors so that all distributions are well defined
+Calls: source -> withVisible -> eval -> eval -> aberrant
+Execution halted
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_heart_atrial_appendage.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_heart_atrial_appendage.gct.gz"
+[1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 64.69" "PC1-4 variance explained: 16.22"
+[3] "PC1-4 variance explained: 5.08"  "PC1-4 variance explained: 4.48" 
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 24 outliers 
+
+
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 14 outliers 
+
+
+[1] "No. genes after filter: 15886"
+[1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_heart_atrial_appendage.gct.gz"
+[1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/heart_atrial_appendage.normcounts.Rdata"
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_heart_left_ventricle.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_heart_left_ventricle.gct.gz"
+[1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 68.93" "PC1-4 variance explained: 16.19"
+[3] "PC1-4 variance explained: 4.84"  "PC1-4 variance explained: 3.35" 
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 6 outliers 
+
+
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 14 outliers 
+
+
+[1] "No. genes after filter: 14757"
+[1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_heart_left_ventricle.gct.gz"
+[1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/heart_left_ventricle.normcounts.Rdata"
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_kidney_cortex.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_kidney_cortex.gct.gz"
+[1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 70.35" "PC1-4 variance explained: 19.69"
+[3] "PC1-4 variance explained: 5.15"  "PC1-4 variance explained: 1.41" 
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 9 outliers 
+
+
+Error in aberrant(pca.dat[, 3:4], niter = 2000, lambda = 20) : 
+  Iteration without inlier or outlier identified: please provide some priors so that all distributions are well defined
+Calls: source -> withVisible -> eval -> eval -> aberrant
+Execution halted
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_kidney_medulla.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_kidney_medulla.gct.gz"
+[1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 77.78" "PC1-4 variance explained: 14.36"
+[3] "PC1-4 variance explained: 7.86"  "PC1-4 variance explained: 0"    
+Error in colMeans(x[!out, ]) : 
+  'x' must be an array of at least two dimensions
+Calls: source ... withVisible -> eval -> eval -> aberrant -> colMeans
+Execution halted
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_liver.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_liver.gct.gz"
+[1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 65.68" "PC1-4 variance explained: 13.47"
+[3] "PC1-4 variance explained: 12.24" "PC1-4 variance explained: 2.32" 
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 9 outliers 
+
+
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 6 outliers 
+
+
+[1] "No. genes after filter: 15113"
+[1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_liver.gct.gz"
+[1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/liver.normcounts.Rdata"
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_lung.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_lung.gct.gz"
+[1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 49.13" "PC1-4 variance explained: 16.09"
+[3] "PC1-4 variance explained: 6.32"  "PC1-4 variance explained: 3.26" 
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 15 outliers 
+
+
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 22 outliers 
+
+
+[1] "No. genes after filter: 17099"
+[1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_lung.gct.gz"
+[1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/lung.normcounts.Rdata"
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_minor_salivary_gland.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_minor_salivary_gland.gct.gz"
+[1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 74.93" "PC1-4 variance explained: 9.19" 
+[3] "PC1-4 variance explained: 4.58"  "PC1-4 variance explained: 3.55" 
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 35 outliers 
+
+
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 8 outliers 
+
+
+[1] "No. genes after filter: 17583"
+[1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_minor_salivary_gland.gct.gz"
+[1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/minor_salivary_gland.normcounts.Rdata"
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_muscle_skeletal.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_muscle_skeletal.gct.gz"
+[1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 45.69" "PC1-4 variance explained: 23.41"
+[3] "PC1-4 variance explained: 6.42"  "PC1-4 variance explained: 4.33" 
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 20 outliers 
+
+
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 19 outliers 
+
+
+[1] "No. genes after filter: 14303"
+[1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_muscle_skeletal.gct.gz"
+[1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/muscle_skeletal.normcounts.Rdata"
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_nerve_tibial.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_nerve_tibial.gct.gz"
+[1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 50.63" "PC1-4 variance explained: 13.02"
+[3] "PC1-4 variance explained: 7.86"  "PC1-4 variance explained: 4.64" 
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 27 outliers 
+
+
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 12 outliers 
+
+
+[1] "No. genes after filter: 17334"
+[1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_nerve_tibial.gct.gz"
+[1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/nerve_tibial.normcounts.Rdata"
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_ovary.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_ovary.gct.gz"
+[1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 45.33" "PC1-4 variance explained: 17.92"
+[3] "PC1-4 variance explained: 5.29"  "PC1-4 variance explained: 4.44" 
+Error in aberrant(pca.dat[, 1:2], niter = 2000, lambda = 20) : 
+  Iteration without inlier or outlier identified: please provide some priors so that all distributions are well defined
+Calls: source -> withVisible -> eval -> eval -> aberrant
+Execution halted
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_pancreas.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_pancreas.gct.gz"
+[1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 55.21" "PC1-4 variance explained: 20"   
+[3] "PC1-4 variance explained: 7.93"  "PC1-4 variance explained: 3.97" 
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 11 outliers 
+
+
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 9 outliers 
+
+
+[1] "No. genes after filter: 15732"
+[1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_pancreas.gct.gz"
+[1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/pancreas.normcounts.Rdata"
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_pituitary.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_pituitary.gct.gz"
+[1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 50.86" "PC1-4 variance explained: 25.36"
+[3] "PC1-4 variance explained: 14.95" "PC1-4 variance explained: 5.87" 
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 20 outliers 
+
+
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 15 outliers 
+
+
+[1] "No. genes after filter: 18381"
+[1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_pituitary.gct.gz"
+[1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/pituitary.normcounts.Rdata"
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_prostate.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_prostate.gct.gz"
+[1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 60.7"  "PC1-4 variance explained: 11.37"
+[3] "PC1-4 variance explained: 10.19" "PC1-4 variance explained: 4.9"  
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 11 outliers 
+
+
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 15 outliers 
+
+
+[1] "No. genes after filter: 17655"
+[1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_prostate.gct.gz"
+[1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/prostate.normcounts.Rdata"
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_skin_not_sun_exposed_suprapubic.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_skin_not_sun_exposed_suprapubic.gct.gz"
+[1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 47.58" "PC1-4 variance explained: 29"   
+[3] "PC1-4 variance explained: 3.52"  "PC1-4 variance explained: 2.57" 
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 23 outliers 
+
+
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 17 outliers 
+
+
+[1] "No. genes after filter: 16890"
+[1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_skin_not_sun_exposed_suprapubic.gct.gz"
+[1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/skin_not_sun_exposed_suprapubic.normcounts.Rdata"
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_skin_sun_exposed_lower_leg.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_skin_sun_exposed_lower_leg.gct.gz"
+[1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 45.73" "PC1-4 variance explained: 28.69"
+[3] "PC1-4 variance explained: 5.52"  "PC1-4 variance explained: 3.35" 
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 23 outliers 
+
+
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 21 outliers 
+
+
+[1] "No. genes after filter: 17001"
+[1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_skin_sun_exposed_lower_leg.gct.gz"
+[1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/skin_sun_exposed_lower_leg.normcounts.Rdata"
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_small_intestine_terminal_ileum.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_small_intestine_terminal_ileum.gct.gz"
+[1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 60.59" "PC1-4 variance explained: 15.11"
+[3] "PC1-4 variance explained: 4.72"  "PC1-4 variance explained: 3.84" 
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 6 outliers 
+
+
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 9 outliers 
+
+
+[1] "No. genes after filter: 17363"
+[1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_small_intestine_terminal_ileum.gct.gz"
+[1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/small_intestine_terminal_ileum.normcounts.Rdata"
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_spleen.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_spleen.gct.gz"
+[1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 40.71" "PC1-4 variance explained: 28.44"
+[3] "PC1-4 variance explained: 5.62"  "PC1-4 variance explained: 4.7"  
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 10 outliers 
+
+
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 18 outliers 
+
+
+[1] "No. genes after filter: 17487"
+[1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_spleen.gct.gz"
+[1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/spleen.normcounts.Rdata"
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_stomach.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_stomach.gct.gz"
+[1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 58.8"  "PC1-4 variance explained: 24.86"
+[3] "PC1-4 variance explained: 4.88"  "PC1-4 variance explained: 3.56" 
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 6 outliers 
+
+
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 11 outliers 
+
+
+[1] "No. genes after filter: 15931"
+[1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_stomach.gct.gz"
+[1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/stomach.normcounts.Rdata"
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_testis.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_testis.gct.gz"
+[1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 79.82" "PC1-4 variance explained: 7.11" 
+[3] "PC1-4 variance explained: 5.97"  "PC1-4 variance explained: 1.92" 
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 7 outliers 
+
+
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 14 outliers 
+
+
+[1] "No. genes after filter: 23842"
+[1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_testis.gct.gz"
+[1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/testis.normcounts.Rdata"
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_thyroid.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_thyroid.gct.gz"
+[1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 51.08" "PC1-4 variance explained: 27.45"
+[3] "PC1-4 variance explained: 5.64"  "PC1-4 variance explained: 2.7"  
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 29 outliers 
+
+
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 21 outliers 
+
+
+[1] "No. genes after filter: 17481"
+[1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_thyroid.gct.gz"
+[1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/thyroid.normcounts.Rdata"
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_uterus.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_uterus.gct.gz"
+[1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 39.83" "PC1-4 variance explained: 22.45"
+[3] "PC1-4 variance explained: 9.57"  "PC1-4 variance explained: 4.71" 
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 2 outliers 
+
+
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 4 outliers 
+
+
+[1] "No. genes after filter: 16674"
+[1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_uterus.gct.gz"
+[1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/uterus.normcounts.Rdata"
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_vagina.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_vagina.gct.gz"
+[1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 53.33" "PC1-4 variance explained: 17.34"
+[3] "PC1-4 variance explained: 4.6"   "PC1-4 variance explained: 4.17" 
+Error in aberrant(pca.dat[, 1:2], niter = 2000, lambda = 20) : 
+  Iteration without inlier or outlier identified: please provide some priors so that all distributions are well defined
+Calls: source -> withVisible -> eval -> eval -> aberrant
+Execution halted
+running /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_whole_blood.gct.gz
+[1] "/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_whole_blood.gct.gz"
+[1] "data loaded"
+Warning messages:
+1: package ‘GenomeInfoDb’ was built under R version 4.0.5 
+2: package ‘tidyr’ was built under R version 4.0.5 
+3: package ‘readr’ was built under R version 4.0.5 
+4: package ‘dplyr’ was built under R version 4.0.5 
+ Flagging genes and samples with too many missing values...
+  ..step 1
+  ..step 2
+[1] "PC1-4 variance explained: 93.99" "PC1-4 variance explained: 2.95" 
+[3] "PC1-4 variance explained: 1.2"   "PC1-4 variance explained: 0.44" 
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 23 outliers 
+
+
+Iteration 500
+Iteration 1000
+Iteration 1500
+Iteration 2000
+
+ 22 outliers 
+
+
+[1] "No. genes after filter: 12773"
+[1] "norm counts created for: /Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/gene_reads_2017-06-05_v8_whole_blood.gct.gz"
+[1] "out file:/Users/gustavahlberg/Dropbox/ADMIN/CV/intomics_221017/case_study/modules/QC/../../data/whole_blood.normcounts.Rdata"

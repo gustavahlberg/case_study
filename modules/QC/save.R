@@ -14,7 +14,7 @@ if(nrow(norm.counts_lowvar) < 20)
 out.fn <- paste0(gsub("gene_reads_2017-06-05_v8_(.+)\\.gct.gz","\\1", file.fn),
                 ".normcounts.Rdata")
 
-save(norm.counts_lowvar,phenoData,attrData, 
+save(norm.counts_lowvar,phenoData,attrData, descData,
      file = out.fn,
      compress = TRUE)
 
