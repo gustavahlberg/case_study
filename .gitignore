@@ -1,0 +1,16 @@
+**/.DS_Store
+**/*.Rhistory
+**/*~
+.DS_Store
+data/
+doc
+**/*Rproj
+**/*.Rproj.user
+**/*.RData
+.Rproj.user
+modules/WGNCA/intermediateData/
+modules/WGNCA/CytoscapeInput-edges-white.txt
+modules/WGNCA/CytoscapeInput-nodes-white.txt
+results/tissues/*
+!results/tissues/adipose_subcutaneous/
+
