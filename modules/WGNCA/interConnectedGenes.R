@@ -129,8 +129,8 @@ write.table(meta.fn,
             sep = "\t"
 )
 
-system(paste("gzip ", outdir, "/*tsv" ))
-system(paste("gzip ", outdir, "/*txt" ))
+system(paste0("gzip ", outdir, "/*tsv" ))
+system(paste0("gzip ", outdir, "/*txt" ))
 
 #######################################################
 # EOF # EOF # EOF # EOF # EOF # EOF # EOF # EOF # EOF #

@@ -33,7 +33,7 @@ load(file.fn, verbose = T)
 #
 
 
-#source("network.R")
+source("network.R")
 
 
 # ---------------------------------------
@@ -53,11 +53,11 @@ load(file.fn, verbose = T)
 
 network.fn <- paste0("intermediateData/", basename(gsub(".normcounts.",".ntwrk.", file.fn)))
 #save(bwnet, file = network.fn)
-load(network.fn, verbose = T)
-
+ load(network.fn, verbose = T)
+print(soft_power)
 # fix soft power mistake
-idxSP <- which(basename(read.table("running.txt")$V2) == basename(file.fn))
-soft_power <- as.numeric(gsub("Using power: ","",read.table("softpower.txt")$V2))[idxSP]
+#idxSP <- which(basename(read.table("running.txt")$V2) == basename(file.fn))
+#soft_power <- as.numeric(gsub("Using power: ","",read.table("softpower.txt")$V2))[idxSP]
 
 
 # ---------------------------------------

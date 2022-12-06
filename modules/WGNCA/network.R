@@ -46,19 +46,19 @@ temp_cor <- cor
 cor <- WGCNA::cor
 
 # memory estimate w.r.t blocksize
-bwnet <- blockwiseModules(norm.counts_lowvar,
-                          maxBlockSize = 18000,
-                          networkType = "signed",
-                          TOMType = "signed",
-                          saveTOMFileBase = "ER",
-                          saveTOMs = TRUE,
-                          power = soft_power,
-                          mergeCutHeight = 0.25,
-                          minModuleSize = 20,
-                          numericLabels = FALSE,
-                          randomSeed = 1234,
-                          verbose = 3)
-
+# bwnet <- blockwiseModules(norm.counts_lowvar,
+#                           maxBlockSize = 18000,
+#                           networkType = "signed",
+#                           TOMType = "signed",
+#                           saveTOMFileBase = "ER",
+#                           saveTOMs = TRUE,
+#                           power = soft_power,
+#                           mergeCutHeight = 0.25,
+#                           minModuleSize = 20,
+#                           numericLabels = FALSE,
+#                           randomSeed = 1234,
+#                           verbose = 3)
+# 
 
 
 cor <- temp_cor
