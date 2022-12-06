@@ -42,15 +42,18 @@ source("hpaExp.R")
 
 # --------------------------------
 #
-#  annotate w/ gwas catalog
+#  annotate w/ gwas catalog & fda
 #
 
-
+source("annotateGWAScat.R")
 
 # --------------------------------
 #
 #  print results
 #
+
+source("print.R")
+
 
 
 
