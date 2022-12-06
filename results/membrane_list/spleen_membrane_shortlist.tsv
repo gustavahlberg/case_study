@@ -1,0 +1,42 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000128271	ADORA2A	spleen	15.2	1	Adenosine A2a receptor	1	Acne (severe);Coffee consumption;Caffeine consumption from tea;Caffeine consumption from coffee or tea;Coronary artery disease
+ENSG00000160791	CCR5	spleen	9.4	1	C-C motif chemokine receptor 5	1	Cerebrospinal fluid levels of Alzheimers disease-related proteins;Blood protein levels in cardiovascular risk;Granulocyte percentage of myeloid white cells;Ulcerative colitis
+ENSG00000116824	CD2	spleen	44.1	1	CD2 molecule	1	Amyotrophic lateral sclerosis (sporadic);Metabolite levels;Acne (severe);Rheumatoid arthritis
+ENSG00000012124	CD22	spleen	161.6	1	CD22 molecule	1	Rheumatoid arthritis;Plateletcrit;Immature fraction of reticulocytes;Platelet distribution width
+ENSG00000105383	CD33	spleen	23.9	1	CD33 molecule	1	Alzheimers disease;Plateletcrit;White blood cell count;Platelet count
+ENSG00000167286	CD3D	spleen	60.9	1	CD3d molecule	1	Pulse pressure
+ENSG00000198851	CD3E	spleen	78.9	1	CD3e molecule	1	Lung cancer in ever smokers;Pulse pressure;Alzheimers disease or HDL levels (pleiotropy)
+ENSG00000160654	CD3G	spleen	11.5	1	CD3g molecule	0	
+ENSG00000010610	CD4	spleen	164.4	1	CD4 molecule	1	Schizophrenia;Height;Systemic lupus erythematosus;Rheumatoid arthritis
+ENSG00000007312	CD79B	spleen	147.7	1	CD79b molecule	1	Height;Hip circumference adjusted for BMI
+ENSG00000114013	CD86	spleen	23.4	1	CD86 molecule	1	Follicular lymphoma;Gut microbiota (functional units);Eosinophil counts;Multiple sclerosis;Eosinophil percentage of white cells
+ENSG00000188822	CNR2	spleen	8.8	1	Cannabinoid receptor 2	1	Eosinophil percentage of granulocytes;Eosinophil counts;Eosinophil percentage of white cells;Multiple sclerosis
+ENSG00000182578	CSF1R	spleen	113.3	1	Colony stimulating factor 1 receptor	1	Granulocyte percentage of myeloid white cells;Monocyte percentage of white cells;Monocyte count
+ENSG00000100368	CSF2RB	spleen	22.8	1	Colony stimulating factor 2 receptor subunit beta	1	Blood protein levels;Eosinophil counts;Multiple sclerosis
+ENSG00000121966	CXCR4	spleen	346.5	1	C-X-C motif chemokine receptor 4	1	Amyotrophic lateral sclerosis (sporadic);Telomere length;Smoking status (ever vs never smokers);Lung function (low FEV1 vs high FEV1);Arthritis (juvenile idiopathic)
+ENSG00000173198	CYSLTR1	spleen	10.6	1	Cysteinyl leukotriene receptor 1	1	Potassium levels
+ENSG00000181104	F2R	spleen	69.5	1	Coagulation factor II thrombin receptor	1	LDL cholesterol levels;Blood protein levels;Phenylephrine infusion rate during anesthesia;Apolipoprotein B levels
+ENSG00000158869	FCER1G	spleen	470.1	1	Fc fragment of IgE receptor Ig	1	Aggressive periodontitis;Asthma;Allergic disease (asthma, hay fever or eczema);Platelet distribution width;Allergy
+ENSG00000150337	FCGR1A	spleen	12.5	1	Fc fragment of IgG receptor Ia	0	
+ENSG00000198019	FCGR1B	spleen	7.2	1	Fc fragment of IgG receptor Ib	0	
+ENSG00000143226	FCGR2A	spleen	61.8	1	Fc fragment of IgG receptor IIa	1	Kawasaki disease;Systemic lupus erythematosus;Rheumatoid arthritis;Blood protein levels
+ENSG00000203747	FCGR3A	spleen	306.8	1	Fc fragment of IgG receptor IIIa	1	Functional impairment in major depressive disorder, bipolar disorder and schizophrenia;Ulcerative colitis;Inflammatory bowel disease;Basophil count
+ENSG00000162747	FCGR3B	spleen	82	1	Fc fragment of IgG receptor IIIb	1	Hemoglobin levels;Ulcerative colitis;Inflammatory bowel disease;Basophil percentage of white cells;Basophil percentage of granulocytes
+ENSG00000122025	FLT3	spleen	5.7	1	Fms related receptor tyrosine kinase 3	1	HDL cholesterol levels;Apolipoprotein A1 levels;Sum neutrophil eosinophil counts;White blood cell count
+ENSG00000255398	HCAR3	spleen	19.6	1	Hydroxycarboxylic acid receptor 3	1	Thrombin-activatable fibrinolysis inhibitor levels;Waist-to-hip ratio adjusted for BMI (recessive genetic model);Waist-to-hip ratio adjusted for BMI
+ENSG00000211893	IGHG2	spleen	4319.4	1	Immunoglobulin heavy constant gamma 2 (G2m marker)	1	IgG levels;Composite immunoglobulin trait (IgA/IgG)
+ENSG00000211892	IGHG4	spleen	831.6	1	Immunoglobulin heavy constant gamma 4 (G4m marker)	0	
+ENSG00000134460	IL2RA	spleen	7.5	1	Interleukin 2 receptor subunit alpha	1	Vitiligo;Rheumatoid arthritis;Response to anti-retroviral therapy (ddI/d4T) in HIV-1 infection (Grade 3 peripheral neuropathy)
+ENSG00000100385	IL2RB	spleen	50.2	1	Interleukin 2 receptor subunit beta	1	Rheumatoid arthritis;Rheumatoid arthritis (ACPA-positive);Mean corpuscular volume;Juvenile idiopathic arthritis (oligoarticular or rheumatoid factor-negative polyarticular);Eosinophil counts
+ENSG00000147168	IL2RG	spleen	119.4	1	Interleukin 2 receptor subunit gamma	0	
+ENSG00000005961	ITGA2B	spleen	11.2	1	Integrin subunit alpha 2b	1	Platelet distribution width;Platelet count;Mean platelet volume;Brain morphology (MOSTest)
+ENSG00000005844	ITGAL	spleen	64.9	1	Integrin subunit alpha L	1	White blood cell count;Lymphocyte count;Ulcerative colitis;Chronic inflammatory diseases (ankylosing spondylitis, Crohns disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy);Lymphocyte percentage of white cells
+ENSG00000139626	ITGB7	spleen	30	1	Integrin subunit beta 7	1	Obesity-related traits;Type 1 diabetes
+ENSG00000177272	KCNA3	spleen	6	1	Potassium voltage-gated channel subfamily A member 3	1	Acute lymphoblastic leukemia (childhood)
+ENSG00000156738	MS4A1	spleen	253.8	1	Membrane spanning 4-domains A1	1	Post bronchodilator FEV1;Supramarginal gyrus volume;Congenital heart disease (maternal effect);Major depressive disorder;Recurrent major depressive disorder
+ENSG00000169313	P2RY12	spleen	5.5	1	Purinergic receptor P2Y12	1	Diverticular disease
+ENSG00000188389	PDCD1	spleen	7	1	Programmed cell death 1	1	Schizophrenia;Blood protein levels;White matter hyperintensity burden;Autism spectrum disorder or schizophrenia
+ENSG00000169403	PTAFR	spleen	14.4	1	Platelet activating factor receptor	1	Blond vs. brown/black hair color
+ENSG00000026751	SLAMF7	spleen	42.3	1	SLAM family member 7	1	Blood protein levels;Microalbuminuria;Inflammatory bowel disease;Multiple sclerosis
+ENSG00000137462	TLR2	spleen	35.9	1	Toll like receptor 2	1	Body fat mass
+ENSG00000102524	TNFSF13B	spleen	15.9	1	TNF superfamily member 13b	1	Metabolite levels;HDL cholesterol levels;Apolipoprotein A1 levels;White blood cell count;Plateletcrit

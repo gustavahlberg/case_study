@@ -1,0 +1,58 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000176171	BNIP3	pancreas	361.5	0		1	High light scatter reticulocyte count;Night sleep phenotypes;High light scatter reticulocyte percentage of red cells;Red cell distribution width;Immature fraction of reticulocytes
+ENSG00000114529	C3orf52	pancreas	17.4	0		1	Eosinophil counts;Eosinophil percentage of white cells
+ENSG00000133962	CATSPERB	pancreas	10.7	0		1	Venous thromboembolism;Daytime sleep phenotypes;Waist-to-hip ratio adjusted for BMI;Waist-to-hip ratio adjusted for BMI x sex x age interaction (4df test);Mean platelet volume
+ENSG00000001626	CFTR	pancreas	210.7	1	CF transmembrane conductance regulator	1	Response to methotrexate in juvenile idiopathic arthritis;Waist-to-hip ratio adjusted for BMI;Waist-to-hip ratio adjusted for BMI x sex x age interaction (4df test);Barretts esophagus  or Esophageal adenocarcinoma
+ENSG00000134873	CLDN10	pancreas	216.5	0		1	Metabolite levels;Psychosis proneness (hypomanic personality scale);Iron status biomarkers (ferritin levels);Estimated glomerular filtration rate;Dental caries (decayed and filled deciduous teeth)
+ENSG00000170293	CMTM8	pancreas	47.7	0		1	Periodontal disease-related phenotype (Socransky);Height;Urinary magnesium excretion;HIV-1 viral setpoint;Diabetic retinopathy in type 2 diabetes
+ENSG00000157613	CREB3L1	pancreas	133.9	0		1	Systolic blood pressure;Peripheral artery disease;HDL cholesterol levels;Apolipoprotein A1 levels;Autism spectrum disorder or schizophrenia
+ENSG00000099958	DERL3	pancreas	60.8	0		1	IgG galactosylation phenotypes (multivariate analysis);IgG digalactosylation phenotypes (multivariate analysis);IgG bisecting N-acetyl glucosamine phenotypes (multivariate analysis);IgG sialylation phenotypes (multivariate analysis);IgG disialylation phenotypes (multivariate analysis)
+ENSG00000175497	DPP10	pancreas	17.3	0		1	Systolic blood pressure in sickle cell anemia;Hip circumference adjusted for BMI;High chromosomal aberration frequency (chromatid type) in genotoxic compound exposure;Urate levels (BMI interaction);Daytime sleep phenotypes
+ENSG00000145194	ECE2	pancreas	25.2	0		1	Menarche (age at onset);Major depressive disorder;Body mass index;Daytime nap
+ENSG00000172071	EIF2AK3	pancreas	19.6	0		1	Height;Adverse response to drug;Progressive supranuclear palsy
+ENSG00000178607	ERN1	pancreas	66.7	0		1	Liver injury in anti-retroviral drug treated HIV;Chronic inflammatory diseases (ankylosing spondylitis, Crohns disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy);Liver enzyme levels (alkaline phosphatase)
+ENSG00000185442	FAM174B	pancreas	76.6	0		1	Systolic blood pressure;Pulse pressure;Night sleep phenotypes;HIV-1 susceptibility
+ENSG00000104059	FAM189A1	pancreas	5.3	0		1	Skin pigmentation (conditioned on rs1426654 and rs35397);Triglyceride levels;Obesity-related traits;Femur bone mineral density x serum urate levels interaction
+ENSG00000183844	FAM3B	pancreas	212.3	0		1	Glycemic traits (pregnancy);Elevated serum carcinoembryonic antigen levels;Blood protein levels;Tumor biomarkers
+ENSG00000164049	FBXW12	pancreas	6.1	0		1	Brain morphology (MOSTest);Subcortical volume (MOSTest);Brain morphology (min-P);Cortical surface area (MOSTest);Subcortical volume (min-P)
+ENSG00000174951	FUT1	pancreas	27.5	0		1	Dietary macronutrient intake;Fish- and plant-related diet;Processed meat consumption;Non-oily fish consumption
+ENSG00000176402	GJC3	pancreas	11.1	0		1	Refractive error
+ENSG00000112164	GLP1R	pancreas	7	1	Glucagon like peptide 1 receptor	1	Type 2 diabetes;Blood sugar levels;Fasting blood glucose;Fasting blood glucose adjusted for BMI;Fasting glucose
+ENSG00000169347	GP2	pancreas	35381.6	0		1	Diastolic blood pressure x smoking status (ever vs never) interaction (2df test);Diastolic blood pressure x smoking status (ever vs never) interaction (1df test);Type 2 diabetes;Smoking initiation (ever regular vs never regular);Body mass index
+ENSG00000126010	GRPR	pancreas	20.3	0		1	Lung function (FEV1/FVC)
+ENSG00000105707	HPN	pancreas	272.1	0		1	Colorectal cancer;Triglyceride levels;Urinary albumin-to-creatinine ratio in diabetes;Urinary albumin-to-creatinine ratio
+ENSG00000120457	KCNJ5	pancreas	20.4	0		1	Refractive error;Spherical equivalent or myopia (age of diagnosis);Resting heart rate;Atrial fibrillation
+ENSG00000126259	KIRREL2	pancreas	70	0		1	Urinary metabolite levels in chronic kidney disease
+ENSG00000144749	LRIG1	pancreas	144.4	0		1	Response to anti-retroviral therapy (ddI/d4T) in HIV-1 infection (Grade 3 peripheral neuropathy);QRS duration;Vertical cup-disc ratio (multi-trait analysis)
+ENSG00000079277	MKNK1	pancreas	128.6	0		1	Urate levels in obese individuals;Triglyceride levels;Schizophrenia
+ENSG00000156968	MPV17L	pancreas	14.1	0		1	Glycerophospholipid levels;Testicular germ cell tumor;Multiple sclerosis;Serum alkaline phosphatase levels;Waist-to-hip ratio adjusted for BMI (additive genetic model)
+ENSG00000185164	NOMO2	pancreas	300.4	0		1	Smoking initiation (ever regular vs never regular)
+ENSG00000103226	NOMO3	pancreas	30	0		1	Blood protein levels
+ENSG00000108405	P2RX1	pancreas	65.1	0		1	Systemic sclerosis (anti-topoisomerase-positive);Mean platelet volume;Plateletcrit;Platelet count
+ENSG00000076356	PLXNA2	pancreas	35.1	0		1	Lung cancer in never smokers;Squamous cell lung carcinoma;Risk-taking tendency (4-domain principal component model);General risk tolerance (MTAG);Smoking status (ever vs never smokers)
+ENSG00000171522	PTGER4	pancreas	54.2	1	Prostaglandin E receptor 4	1	Self-reported allergy;Crohns disease;Allergic disease (asthma, hay fever or eczema);Serum urea levels;Ankylosing spondylitis
+ENSG00000155093	PTPRN2	pancreas	98.1	0		1	Inflammatory skin disease;Myopia (pathological);Plasma anti-thyroid peroxidase levels;Refractive error;Chronic rhinosinusitis
+ENSG00000178828	RNF186	pancreas	43.4	0		1	Ulcerative colitis;Inflammatory bowel disease;Chronic inflammatory diseases (ankylosing spondylitis, Crohns disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)
+ENSG00000125844	RRBP1	pancreas	497.7	0		1	Height;HDL cholesterol levels;Apolipoprotein A1 levels;Frontotemporal dementia (age at onset);Eosinophil counts
+ENSG00000080293	SCTR	pancreas	68.2	1	Secretin receptor	1	Bipolar disorder;Type 2 diabetes
+ENSG00000146555	SDK1	pancreas	12.6	0		1	Adventurousness;Risk-taking tendency (4-domain principal component model);Smoking status (ever vs never smokers);Smoking initiation
+ENSG00000071537	SEL1L	pancreas	403.4	0		1	Periodontal disease-related phenotype (Socransky);Night sleep phenotypes;Metabolite levels;Cadmium levels;Body size at age 10
+ENSG00000102743	SLC25A15	pancreas	52.1	0		1	Crohns disease;Keratoconus
+ENSG00000177542	SLC25A22	pancreas	83.4	0		1	Fuchss corneal dystrophy;Intraocular pressure;Keratoconus
+ENSG00000162241	SLC25A45	pancreas	34.2	0		1	Acne (severe);Refractive error;Symmetrical dimethylarginine levels;Serum metabolite levels
+ENSG00000164756	SLC30A8	pancreas	61.8	0		1	Type 2 diabetes;Intraocular pressure;Fasting plasma glucose;Glycated hemoglobin levels
+ENSG00000017483	SLC38A5	pancreas	237.2	0		1	Mean corpuscular hemoglobin;Mean corpuscular volume
+ENSG00000104635	SLC39A14	pancreas	252.7	0		1	Verbal declarative memory;B-type natriuretic peptide to N-terminal pro B-type natriuretic peptide ratio
+ENSG00000138079	SLC3A1	pancreas	217.5	0		1	Refractive error;antipsychotic drug dosage in schizophrenia or schizoaffective disorder
+ENSG00000080493	SLC4A4	pancreas	260.3	0		1	Fractional exhaled nitric oxide (childhood);Heel bone mineral density;Refractive error;Diastolic blood pressure
+ENSG00000136840	ST6GALNAC4	pancreas	72	0		1	Body mass index
+ENSG00000147642	SYBU	pancreas	140.5	0		1	Ankle-brachial index;Schizophrenia x sex interaction
+ENSG00000111490	TBC1D30	pancreas	12	0		1	Face memory;Cognitive performance;Proinsulin levels (late-phase conversion)
+ENSG00000110719	TCIRG1	pancreas	289.2	0		1	Heel bone mineral density;Reticulocyte count
+ENSG00000157315	TMED6	pancreas	298.9	0		1	Body mass index;Logical memory (delayed recall) in normal cognition
+ENSG00000152128	TMEM163	pancreas	27.8	0		1	Parkinsons disease;Spatial memory;Blond vs. brown/black hair color;Parkinsons disease or first degree relation to individual with Parkinsons disease
+ENSG00000109084	TMEM97	pancreas	322	0		1	Osteoprotegerin levels;Blood protein levels;Cerebrospinal fluid AB1-42 levels;Cerebrospinal AB1-42 levels in mild cognitive impairment;Advanced age-related macular degeneration
+ENSG00000072657	TRHDE	pancreas	10.3	0		1	General risk tolerance (MTAG);Perioperative myocardial infarction in coronary artery bypass surgery;Diastolic blood pressure;Chemerin levels;Rheumatoid arthritis
+ENSG00000165125	TRPV6	pancreas	38.3	0		1	Anxiety;Mastocytosis;Alcoholic chronic pancreatitis;Cancer
+ENSG00000134258	VTCN1	pancreas	30.1	0		1	Arthritis (juvenile idiopathic);Triglyceride levels x SSRI levels (escitalopram or citalopram) interaction in schizophrenia or bipolar disorder
+ENSG00000100219	XBP1	pancreas	1159	0		1	Esophageal squamous cell carcinoma;Hemoglobin levels;Whole brain grey matter density;Pancreatic cancer;Heel bone mineral density

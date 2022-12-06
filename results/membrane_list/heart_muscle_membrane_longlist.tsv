@@ -1,0 +1,80 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000173175	ADCY5	heart_muscle	105.2	0		1	Birth weight;Type 2 diabetes;Heel bone mineral density
+ENSG00000111452	ADGRD1	heart_muscle	62.4	0		1	Heel bone mineral density;Appendicular lean mass
+ENSG00000043591	ADRB1	heart_muscle	23.7	1	Adrenoceptor beta 1	1	Birth weight;Diastolic blood pressure (cigarette smoking interaction);Systolic blood pressure (cigarette smoking interaction)
+ENSG00000151320	AKAP6	heart_muscle	54.6	0		1	Bipolar disorder;Type 2 diabetes;Refractive error;HDL cholesterol levels;Spherical equivalent or myopia (age of diagnosis)
+ENSG00000165269	AQP7	heart_muscle	108.5	0		1	Lung adenocarcinoma;Urinary albumin excretion
+ENSG00000105409	ATP1A3	heart_muscle	157.7	0		1	Meat-related diet;Brain morphology (MOSTest)
+ENSG00000162630	B3GALT2	heart_muscle	21	0		1	Metabolite levels;Cerebrospinal fluid t-tau levels;Cerebrospinal fluid t-tau:AB1-42 ratio
+ENSG00000172270	BSG	heart_muscle	1535	0		1	Alzheimers disease (late onset)
+ENSG00000112276	BVES	heart_muscle	27.8	0		1	QT interval;Creatine kinase levels;Menarche (age at onset);Height
+ENSG00000184601	C14orf180	heart_muscle	109.5	0		1	Bipolar I disorder;Bipolar disorder;Rheumatoid arthritis
+ENSG00000151067	CACNA1C	heart_muscle	27.1	1	Calcium voltage-gated channel subunit alpha1 C	1	Fractional exhaled nitric oxide (childhood);Schizophrenia;Schizophrenia or bipolar disorder
+ENSG00000145349	CAMK2D	heart_muscle	159.3	0		1	Chronic lymphocytic leukemia;Hip circumference adjusted for BMI;TPE interval (resting);Small vessel stroke (CCS and TOAST classification);Parkinsons disease or first degree relation to individual with Parkinsons disease
+ENSG00000163492	CCDC141	heart_muscle	74.6	0		1	Psychosis proneness (revised physical anhedonia scale);Psychosis proneness (hypomanic personality scale and revised physical anhedonia scale);Pulse pressure;Diastolic blood pressure;Serum polyunsaturated fatty acid concentration x Mediterranean diet adherence interaction in metabolic syndrome
+ENSG00000071991	CDH19	heart_muscle	37.1	0		1	Blood pressure (smoking interaction);Non-response to selective serotonin reuptake inhibitors and depression;Metabolite levels;Chronotype;Depression in smokers
+ENSG00000170558	CDH2	heart_muscle	196	0		1	Bipolar disorder (body mass index interaction);Metabolite levels;Kidney function decline traits;Periodontal disease-related phenotype (Socransky);Schizophrenia
+ENSG00000181072	CHRM2	heart_muscle	36.1	1	Cholinergic receptor muscarinic 2	1	General risk tolerance (MTAG);Resting heart rate;Heart rate response to recovery post exercise (40 sec);Heart rate response to recovery post exercise (50 sec);Heart rate response to recovery post exercise (30 sec)
+ENSG00000153132	CLGN	heart_muscle	59.5	0		1	Systolic blood pressure x sodium interaction (2df test);Diastolic blood pressure x sodium interaction (2df test);Mean arterial pressure x sodium interaction (2df test);Triglyceride levels in HIV infection;Select biomarker traits
+ENSG00000145244	CORIN	heart_muscle	56.9	0		1	Gut microbiota (bacterial taxa, hurdle binary method)
+ENSG00000109846	CRYAB	heart_muscle	10683.1	0		1	PR interval;Birth weight;Hip circumference adjusted for BMI
+ENSG00000073737	DHRS9	heart_muscle	53.9	0		1	Apolipoprotein A1 levels;Serum alkaline phosphatase levels;Gut microbiota (bacterial taxa, hurdle binary method);Hippocampal volume in Alzheimers disease dementia
+ENSG00000175920	DOK7	heart_muscle	41.9	0		1	Height;LDL cholesterol levels x short total sleep time interaction (2df test);Fibrinogen levels;Gut microbiota (bacterial taxa, hurdle binary method)
+ENSG00000106991	ENG	heart_muscle	528.7	0		1	Body mass index;Metabolic syndrome;Blood protein levels;Monocyte count;Pre-treatment viral load in HIV-1 infection
+ENSG00000130054	FAM155B	heart_muscle	43.5	0		1	Chronotype
+ENSG00000197296	FITM2	heart_muscle	67.4	0		1	Response to ketamine in bipolar disorder or major depression (dissociation effects);Platelet count;Sum neutrophil eosinophil counts;Granulocyte percentage of myeloid white cells
+ENSG00000172159	FRMD3	heart_muscle	85	0		1	Metabolite levels;Loneliness (multivariate analysis);Hypertension;Blood pressure traits (multi-trait analysis);Lewy body disease
+ENSG00000121743	GJA3	heart_muscle	7.8	0		1	Facial emotion recognition (happy faces);Pericalcarine cortex volume;Body fat mass
+ENSG00000265107	GJA5	heart_muscle	36.7	0		1	PR interval;Atrial fibrillation;Methotrexate-induced interstitial lung disease in rheumatoid arthritis
+ENSG00000203618	GP1BB	heart_muscle	27.1	0		1	Platelet distribution width;Platelet count;Mean platelet volume;DNA methylation (parent-of-origin);Rheumatoid arthritis
+ENSG00000144230	GPR17	heart_muscle	19.8	0		1	Bone mineral density;Proportion of activated microglia (inferior temporal cortex);Logical memory (immediate recall) in normal cognition;Ovarian cancer;Metabolite levels
+ENSG00000172209	GPR22	heart_muscle	8.2	0		1	Waist-to-hip ratio adjusted for BMI;Waist-to-hip ratio adjusted for BMI x sex x age interaction (4df test);Liver enzyme levels (alkaline phosphatase)
+ENSG00000181773	GPR3	heart_muscle	5.4	0		1	Social autistic-like traits;Refractive error;Cutaneous malignant melanoma;Nevus count or cutaneous melanoma;Granulocyte percentage of myeloid white cells
+ENSG00000161509	GRIN2C	heart_muscle	18.6	1	Glutamate ionotropic receptor NMDA type subunit 2C	1	Congenital heart disease (maternal effect);Femur bone mineral density x serum urate levels interaction
+ENSG00000113749	HRH2	heart_muscle	26.3	1	Histamine receptor H2	1	Night sleep phenotypes;Mosquito bite size;Anti-thyroid peroxidase (TPOAb) levels in Hashimotos thyroiditis
+ENSG00000149596	JPH2	heart_muscle	85.2	0		1	Systolic blood pressure;Pulse pressure
+ENSG00000121361	KCNJ8	heart_muscle	71.3	1	Potassium inwardly rectifying channel subfamily J member 8	1	Birth weight
+ENSG00000136153	LMO7	heart_muscle	248.8	0		1	Glaucoma (multi-trait analysis);Intraocular pressure;Incident chronic kidney disease;Cutaneous melanoma or hair colour;Initial pursuit acceleration
+ENSG00000179564	LSMEM2	heart_muscle	23.9	0		1	Brain morphology (MOSTest);Subcortical volume (MOSTest);Brain morphology (min-P);Cortical surface area (MOSTest);Depressive symptom (appetite changes) (binary trait)
+ENSG00000116688	MFN2	heart_muscle	270.4	0		1	Inflammatory skin disease;Platelet count;Tuberculosis;Plasma homocysteine levels;Plateletcrit
+ENSG00000198888	MT-ND1	heart_muscle	127951.9	1	Mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 1	0	
+ENSG00000198763	MT-ND2	heart_muscle	130517.4	0		1	Age-related macular degeneration (SNP x mitochondrial A4917G interaction)
+ENSG00000198786	MT-ND5	heart_muscle	26116.9	0		1	Age-related macular degeneration (SNP x mitochondrial G12771A interaction)
+ENSG00000149294	NCAM1	heart_muscle	145.5	0		1	Suicide attempts in depression or bipolar disorder;Smoking status (ever vs never smokers);Risk-taking tendency (4-domain principal component model);Number of sexual partners
+ENSG00000103034	NDRG4	heart_muscle	352.7	0		1	Oily fish consumption;Pork consumption;QT interval;Electrocardiographic traits
+ENSG00000189043	NDUFA4	heart_muscle	513.5	0		1	Metabolite levels;Schizophrenia;Asthma;Egg allergy (maternal genetic effects);Autism spectrum disorder or schizophrenia
+ENSG00000145730	PAM	heart_muscle	1560.4	0		1	Cholesterol, total;LDL cholesterol;Bronchopulmonary dysplasia;Type 2 diabetes;Height
+ENSG00000188389	PDCD1	heart_muscle	6.7	1	Programmed cell death 1	1	Schizophrenia;Blood protein levels;White matter hyperintensity burden;Autism spectrum disorder or schizophrenia
+ENSG00000172572	PDE3A	heart_muscle	43.4	1	Phosphodiesterase 3A	1	Systolic blood pressure (alcohol consumption interaction);HDL cholesterol;Response to platinum-based chemotherapy (carboplatin);Systolic blood pressure (cigarette smoking interaction);Lung adenocarcinoma
+ENSG00000164530	PI16	heart_muscle	127.7	0		1	Acne (severe);Chemerin levels;Diverticular disease;Atrial fibrillation;Schizophrenia x sex interaction
+ENSG00000132429	POPDC3	heart_muscle	23	0		1	Metabolite levels;Menarche (age at onset);Height;Multiple sclerosis
+ENSG00000162409	PRKAA2	heart_muscle	40.8	1	Protein kinase AMP-activated catalytic subunit alpha 2	1	Lymphocyte count
+ENSG00000152061	RABGAP1L	heart_muscle	121	0		1	Caffeine consumption from coffee or tea;Caffeine consumption from tea;Cerebrospinal fluid t-tau:AB1-42 ratio;Systemic lupus erythematosus;Adult body size
+ENSG00000172348	RCAN2	heart_muscle	199.5	0		1	PR interval;Body mass index
+ENSG00000154153	RETREG1	heart_muscle	91.4	0		1	Diffusing capacity of carbon monoxide;Orofacial cleft x maternal periconceptional multivitamin use interaction (1df)
+ENSG00000198626	RYR2	heart_muscle	132	1	Ryanodine receptor 2	1	Lipid traits;Metabolite levels;Response to taxane treatment (docetaxel);General risk tolerance (MTAG)
+ENSG00000168079	SCARA5	heart_muscle	90	0		1	Venous thromboembolism;Factor VIII levels
+ENSG00000149575	SCN2B	heart_muscle	12.8	1	Sodium voltage-gated channel beta subunit 2	1	Preeclampsia
+ENSG00000183873	SCN5A	heart_muscle	42.8	1	Sodium voltage-gated channel alpha subunit 5	1	PR interval;QRS duration
+ENSG00000170624	SGCD	heart_muscle	39.1	0		1	Airway responsiveness in chronic obstructive pulmonary disease;Pulse pressure;Smoking initiation
+ENSG00000178343	SHISA3	heart_muscle	15.5	0		1	Anthracycline-induced cardiotoxicity in early breast cancer;Type 2 diabetes (age of onset);Impulsivity (attentional)
+ENSG00000113504	SLC12A7	heart_muscle	77.3	0		1	Lung adenocarcinoma;Hemoglobin levels;JT interval;Sum neutrophil eosinophil counts;Myeloid white cell count
+ENSG00000118596	SLC16A7	heart_muscle	34.4	0		1	Adventurousness;General risk tolerance (MTAG);Logical memory (delayed recall) in normal cognition;Logical memory (immediate recall) in normal cognition
+ENSG00000113396	SLC27A6	heart_muscle	23.5	0		1	Night sleep phenotypes;PR interval;Brain morphology (MOSTest);Subcortical volume (MOSTest)
+ENSG00000181856	SLC2A4	heart_muscle	98.8	0		1	Birth weight;Diastolic blood pressure x smoking status (ever vs never) interaction (2df test);Alzheimers disease;LDL cholesterol levels;Meat-related diet
+ENSG00000133065	SLC41A1	heart_muscle	99.3	0		1	Prostate cancer;Monocyte count;Allergic sensitization;Brain morphology (MOSTest);Cortical thickness (MOSTest)
+ENSG00000183023	SLC8A1	heart_muscle	117.5	1	Solute carrier family 8 member A1	1	PR interval;Immune response to measles-mumps-rubella vaccine;Alzheimers disease;Electrocardiographic traits;Mitochondrial DNA levels
+ENSG00000235169	SMIM1	heart_muscle	40.3	0		1	Mean corpuscular hemoglobin concentration;Triglyceride levels;Smoking status (ever vs never smokers);Triglyceride levels x thiazide or thiazide-like diuretics use interaction;Hemoglobin levels
+ENSG00000162009	SSTR5	heart_muscle	6.9	1	Somatostatin receptor 5	1	Polycystic ovary syndrome;Height;Heel bone mineral density;Logical memory (immediate recall) in normal cognition;Appendicular lean mass
+ENSG00000101463	SYNDIG1	heart_muscle	26.9	0		1	LDL cholesterol levels in HIV infection;Sucrose liking
+ENSG00000205678	TECRL	heart_muscle	554.3	0		1	Gut microbiota (bacterial taxa, hurdle binary method);Mercury levels;Triptolide cytotoxicity;Disease progression in age-related macular degeneration (adjusted for baseline)
+ENSG00000261115	TMEM178B	heart_muscle	11.3	0		1	Bipolar disorder;Gut microbiota alpha diversity (Chao1 index);Femur bone mineral density x serum urate levels interaction
+ENSG00000165071	TMEM71	heart_muscle	37.1	0		1	Thyroid stimulating hormone levels
+ENSG00000167874	TMEM88	heart_muscle	98.5	0		1	Brain morphology (MOSTest)
+ENSG00000186827	TNFRSF4	heart_muscle	10.3	0		1	Inflammatory bowel disease
+ENSG00000140416	TPM1	heart_muscle	10621	0		1	Parkinsons disease;Triglyceride levels;Refractive error;HDL cholesterol levels;Apolipoprotein A1 levels
+ENSG00000186439	TRDN	heart_muscle	421.6	0		1	Metabolite levels;Borderline personality disorder;Intraocular pressure;Night sleep phenotypes;Post bronchodilator FEV1
+ENSG00000157570	TSPAN18	heart_muscle	83.5	0		1	Diastolic blood pressure x smoking status (current vs non-current) interaction (2df test);Diastolic blood pressure x smoking status (current vs non-current) interaction (1df test);Intraocular pressure;Gut microbiota (bacterial taxa, rank normal transformation method);Serum metabolite levels
+ENSG00000011105	TSPAN9	heart_muscle	128.8	0		1	Amyotrophic lateral sclerosis (sporadic);Urinary albumin-to-creatinine ratio;Heel bone mineral density;Platelet distribution width;Glomerular filtration rate (creatinine)
+ENSG00000155657	TTN	heart_muscle	167.2	0		1	Type 2 diabetes;Glaucoma;Smoking status (ever vs never smokers);Intraocular pressure;Refractive error
+ENSG00000183785	TUBA8	heart_muscle	128.9	0		1	Cerebrospinal T-tau levels;Atrial fibrillation

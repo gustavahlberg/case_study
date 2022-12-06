@@ -1,0 +1,16 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000043591	ADRB1	placenta	29.1	1	Adrenoceptor beta 1	1	Birth weight;Diastolic blood pressure (cigarette smoking interaction);Systolic blood pressure (cigarette smoking interaction)
+ENSG00000144891	AGTR1	placenta	141.6	1	Angiotensin II receptor type 1	1	Height;Chin dimples;Monobrow;Lead levels in blood;Birth weight
+ENSG00000182578	CSF1R	placenta	103.3	1	Colony stimulating factor 1 receptor	1	Granulocyte percentage of myeloid white cells;Monocyte percentage of white cells;Monocyte count
+ENSG00000198223	CSF2RA	placenta	64.4	1	Colony stimulating factor 2 receptor subunit alpha	1	Schizophrenia;Mitochondrial heteroplasmy measurement
+ENSG00000137869	CYP19A1	placenta	124.4	1	Cytochrome P450 family 19 subfamily A member 1	1	Height;Follicle stimulating hormone levels;Hormone measurements
+ENSG00000152207	CYSLTR2	placenta	25.8	1	Cysteinyl leukotriene receptor 2	1	Response to inhaled corticosteroid treatment in asthma (change in FEV1);Post bronchodilator FEV1/FVC ratio;Systemic juvenile idiopathic arthritis;3-month functional outcome in ischaemic stroke (modified Rankin score)
+ENSG00000197406	DIO3	placenta	17.8	1	Iodothyronine deiodinase 3	1	Metabolite levels;Type 1 diabetes;Free thyroxine concentration;Body mass index (alcohol intake interaction);Pulse pressure
+ENSG00000136160	EDNRB	placenta	127.8	1	Endothelin receptor type B	1	Craniofacial microsomia;Total ventricular volume (Alzheimers disease interaction);Hair color;Appendicular lean mass
+ENSG00000143226	FCGR2A	placenta	107.3	1	Fc fragment of IgG receptor IIa	1	Kawasaki disease;Systemic lupus erythematosus;Rheumatoid arthritis;Blood protein levels
+ENSG00000072694	FCGR2B	placenta	398.2	1	Fc fragment of IgG receptor IIb	1	Birth weight;HDL cholesterol levels;Apolipoprotein A1 levels;Sum neutrophil eosinophil counts;Monocyte percentage of white cells
+ENSG00000102755	FLT1	placenta	432.4	1	Fms related receptor tyrosine kinase 1	1	Triglyceride levels;Refractive error;Acute respiratory distress syndrome in sepsis;Spherical equivalent or myopia (age of diagnosis);Body mass index
+ENSG00000203857	HSD3B1	placenta	77.7	1	Hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 1	1	Diisocyanate-induced asthma
+ENSG00000100385	IL2RB	placenta	36.3	1	Interleukin 2 receptor subunit beta	1	Rheumatoid arthritis;Rheumatoid arthritis (ACPA-positive);Mean corpuscular volume;Juvenile idiopathic arthritis (oligoarticular or rheumatoid factor-negative polyarticular);Eosinophil counts
+ENSG00000120156	TEK	placenta	46.3	1	TEK receptor tyrosine kinase	1	Lung adenocarcinoma;Age-related cognitive decline (attention/processing speed) (slope of z-scores);Neonatal total 25-hydroxyvitamin D levels (maternal genetic effect);Blood protein levels in cardiovascular risk;Resting heart rate
+ENSG00000196664	TLR7	placenta	6.4	1	Toll like receptor 7	1	Celiac disease

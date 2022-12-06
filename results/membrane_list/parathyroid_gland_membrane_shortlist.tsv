@@ -1,0 +1,5 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000163399	ATP1A1	parathyroid_gland	1482.3	1	ATPase Na+/K+ transporting subunit alpha 1	1	HDL cholesterol levels in HIV infection;Coffee consumption;Macular thickness;Hip index
+ENSG00000036828	CASR	parathyroid_gland	654.4	1	Calcium sensing receptor	1	Phosphorus levels;QT interval;Cardiac Troponin-T levels;Serum parathyroid hormone levels;Eosinophil counts
+ENSG00000010610	CD4	parathyroid_gland	173.8	1	CD4 molecule	1	Schizophrenia;Height;Systemic lupus erythematosus;Rheumatoid arthritis
+ENSG00000159164	SV2A	parathyroid_gland	48.4	1	Synaptic vesicle glycoprotein 2A	1	Height;Lung function (FEV1);Anthropometric traits

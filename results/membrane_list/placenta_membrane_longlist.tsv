@@ -1,0 +1,61 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000144648	ACKR2	placenta	16	0		1	Blood protein levels;Eosinophil percentage of white cells;Eosinophil counts;Granulocyte percentage of myeloid white cells
+ENSG00000148848	ADAM12	placenta	166.5	0		1	Endometrial cancer;Heel bone mineral density;Loneliness;Blood protein levels
+ENSG00000112414	ADGRG6	placenta	47.4	0		1	Height;Chronic obstructive pulmonary disease
+ENSG00000043591	ADRB1	placenta	29.1	1	Adrenoceptor beta 1	1	Birth weight;Diastolic blood pressure (cigarette smoking interaction);Systolic blood pressure (cigarette smoking interaction)
+ENSG00000144891	AGTR1	placenta	141.6	1	Angiotensin II receptor type 1	1	Height;Chin dimples;Monobrow;Lead levels in blood;Birth weight
+ENSG00000109321	AREG	placenta	328.8	0		1	Blond vs. brown/black hair color;Breast size;Mammographic density (dense area);Spherical equivalent (joint analysis main effects and education interaction)
+ENSG00000132681	ATP1A4	placenta	6.3	0		1	Gout;Composite immunoglobulin trait (IgA/IgG)
+ENSG00000162706	CADM3	placenta	80.6	0		1	Inflammatory biomarkers;Neutrophil count in HIV-infection;Allergic disease (asthma, hay fever or eczema);Asthma
+ENSG00000090659	CD209	placenta	22.8	0		1	Blood protein levels
+ENSG00000161649	CD300LG	placenta	58.6	0		1	Triglyceride levels;HDL cholesterol levels;Apolipoprotein A1 levels;HDL cholesterol
+ENSG00000125810	CD93	placenta	137.6	0		1	Venous thromboembolism;Liver enzyme levels (alanine transaminase);Obesity-related traits
+ENSG00000140937	CDH11	placenta	122.2	0		1	Lung cancer in never smokers;Intraocular pressure;Blood protein levels;Systolic blood pressure;Pulse pressure
+ENSG00000179776	CDH5	placenta	235.9	0		1	Gut microbiota (bacterial taxa, hurdle binary method);High light scatter reticulocyte count;Iron status biomarkers (ferritin levels);Molar-incisor hypomineralization;Body size at age 10
+ENSG00000150048	CLEC1A	placenta	49	0		1	Metabolite levels
+ENSG00000131055	COX4I2	placenta	115.4	0		1	Heel bone mineral density;Brain morphology (MOSTest);Oppositional defiant disorder dimensions in attention-deficit hyperactivity disorder
+ENSG00000150938	CRIM1	placenta	163.8	0		1	Height;QRS duration
+ENSG00000182578	CSF1R	placenta	103.3	1	Colony stimulating factor 1 receptor	1	Granulocyte percentage of myeloid white cells;Monocyte percentage of white cells;Monocyte count
+ENSG00000198223	CSF2RA	placenta	64.4	1	Colony stimulating factor 2 receptor subunit alpha	1	Schizophrenia;Mitochondrial heteroplasmy measurement
+ENSG00000137869	CYP19A1	placenta	124.4	1	Cytochrome P450 family 19 subfamily A member 1	1	Height;Follicle stimulating hormone levels;Hormone measurements
+ENSG00000152207	CYSLTR2	placenta	25.8	1	Cysteinyl leukotriene receptor 2	1	Response to inhaled corticosteroid treatment in asthma (change in FEV1);Post bronchodilator FEV1/FVC ratio;Systemic juvenile idiopathic arthritis;3-month functional outcome in ischaemic stroke (modified Rankin score)
+ENSG00000197406	DIO3	placenta	17.8	1	Iodothyronine deiodinase 3	1	Metabolite levels;Type 1 diabetes;Free thyroxine concentration;Body mass index (alcohol intake interaction);Pulse pressure
+ENSG00000136160	EDNRB	placenta	127.8	1	Endothelin receptor type B	1	Craniofacial microsomia;Total ventricular volume (Alzheimers disease interaction);Hair color;Appendicular lean mass
+ENSG00000197977	ELOVL2	placenta	35.3	0		1	Blood metabolite ratios;Blood metabolite levels;Red blood cell fatty acid levels;Plasma omega-6 polyunsaturated fatty acid levels (adrenic acid);Response to (pegylated) interferon in HBeAg-negative hepatitis B
+ENSG00000197594	ENPP1	placenta	44	0		1	Height;Obesity-related traits
+ENSG00000226887	ERVMER34-1	placenta	10.8	0		1	Moderate or severe prolonged lymphopenia in dimethyl fumarate-treated relapsing-remitting multiple sclerosis;Response to citalopram or escitalopram and depression;Brain morphology (MOSTest);Subcortical volume (MOSTest);Brain morphology (min-P)
+ENSG00000183807	FAM162B	placenta	65.2	0		1	Inflammatory bowel disease
+ENSG00000143226	FCGR2A	placenta	107.3	1	Fc fragment of IgG receptor IIa	1	Kawasaki disease;Systemic lupus erythematosus;Rheumatoid arthritis;Blood protein levels
+ENSG00000072694	FCGR2B	placenta	398.2	1	Fc fragment of IgG receptor IIb	1	Birth weight;HDL cholesterol levels;Apolipoprotein A1 levels;Sum neutrophil eosinophil counts;Monocyte percentage of white cells
+ENSG00000102755	FLT1	placenta	432.4	1	Fms related receptor tyrosine kinase 1	1	Triglyceride levels;Refractive error;Acute respiratory distress syndrome in sepsis;Spherical equivalent or myopia (age of diagnosis);Body mass index
+ENSG00000265107	GJA5	placenta	85.4	0		1	PR interval;Atrial fibrillation;Methotrexate-induced interstitial lung disease in rheumatoid arthritis
+ENSG00000147257	GPC3	placenta	574.9	0		1	Relative hand skill;Educational attainment (years of education)
+ENSG00000203857	HSD3B1	placenta	77.7	1	Hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 1	1	Diisocyanate-induced asthma
+ENSG00000167244	IGF2	placenta	2749.2	0		1	Infant length;Type 2 diabetes;Height
+ENSG00000081985	IL12RB2	placenta	7	0		1	Systemic seropositive rheumatic diseases (Systemic sclerosis or systemic lupus erythematosus or rheumatoid arthritis or idiopathic inflammatory myopathies);Ulcerative colitis;Inflammatory bowel disease;Crohns disease;Severe malaria (adjusted for sickle cell variant rs334)
+ENSG00000100385	IL2RB	placenta	36.3	1	Interleukin 2 receptor subunit beta	1	Rheumatoid arthritis;Rheumatoid arthritis (ACPA-positive);Mean corpuscular volume;Juvenile idiopathic arthritis (oligoarticular or rheumatoid factor-negative polyarticular);Eosinophil counts
+ENSG00000154721	JAM2	placenta	63.5	0		1	Metabolite levels;Carboplatin disposition in epthelial ovarian cancer;Longitudinal change in brain amyloid plaque burden;Cognitive performance
+ENSG00000139292	LGR5	placenta	19	0		1	Type 2 diabetes
+ENSG00000133800	LYVE1	placenta	149.3	0		1	Blood protein levels
+ENSG00000110079	MS4A4A	placenta	63.1	0		1	Fibrinogen levels;Cerebrospinal fluid sTREM-2 levels;Alzheimers disease in APOE e4- carriers;Alzheimers disease (late onset)
+ENSG00000123572	NRK	placenta	24.2	0		1	Metabolite levels;Gastroesophageal reflux disease;Obesity-related traits
+ENSG00000173391	OLR1	placenta	114.5	0		1	Waist-to-hip ratio adjusted for BMI (age <50);Waist-to-hip ratio adjusted for BMI (age >50);Body mass index;Waist-to-hip ratio adjusted for BMI;Waist-to-hip ratio adjusted for BMI x sex x age interaction (4df test)
+ENSG00000054277	OPN3	placenta	18.7	0		1	Daytime sleep phenotypes;Pancreatic ductal adenocarcinoma x smoking interaction
+ENSG00000180785	OR51E1	placenta	7.4	0		1	Malaria;Diastolic blood pressure
+ENSG00000169860	P2RY1	placenta	25.4	0		1	Metabolite levels;Rheumatoid arthritis;Narcolepsy;Body mass index (change over time) in gastrointestinal cancer or chronic obstructive pulmonary disease
+ENSG00000174944	P2RY14	placenta	31.7	0		1	Eosinophil counts;Diverticular disease;White blood cell count
+ENSG00000116183	PAPPA2	placenta	56.8	0		1	Fractional exhaled nitric oxide (childhood);Height;Automobile speeding propensity;Pulse pressure
+ENSG00000113555	PCDH12	placenta	30.2	0		1	Initial pursuit acceleration;Initial pursuit acceleration in psychotic disorders;Asthma
+ENSG00000189184	PCDH18	placenta	44.2	0		1	Refractive error;Triglyceride levels x short total sleep time interaction (2df test);Adverse response to radiation therapy;Urate levels (BMI interaction);Essential hypertension (time to event)
+ENSG00000261371	PECAM1	placenta	455.1	0		1	Pulse pressure;Systolic blood pressure;Coronary artery disease
+ENSG00000183668	PSG9	placenta	106.3	0		1	Blood protein levels
+ENSG00000137872	SEMA6D	placenta	43.1	0		1	Response to radiotherapy in cancer (late toxicity);Lung cancer;Fish- and plant-related diet;Oily fish consumption
+ENSG00000105492	SIGLEC6	placenta	106.7	0		1	Blood protein levels;Carotid intima media thickness
+ENSG00000135917	SLC19A3	placenta	24.1	0		1	Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis);Allergic disease (asthma, hay fever and/or eczema) (age of onset);Obesity-related traits;Type 2 diabetes (SNP x SNP interaction, 2df);Asthma onset (childhood vs adult)
+ENSG00000117394	SLC2A1	placenta	98.7	0		1	Metabolite levels;Parkinsons disease;High chromosomal aberration frequency (chromosome type);Disability (impaired activities of daily living);Sleep duration (> 10 hours)
+ENSG00000177058	SLC38A9	placenta	57.8	0		1	Height;Heel bone mineral density
+ENSG00000170545	SMAGP	placenta	102.1	0		1	Mean platelet volume
+ENSG00000120156	TEK	placenta	46.3	1	TEK receptor tyrosine kinase	1	Lung adenocarcinoma;Age-related cognitive decline (attention/processing speed) (slope of z-scores);Neonatal total 25-hydroxyvitamin D levels (maternal genetic effect);Blood protein levels in cardiovascular risk;Resting heart rate
+ENSG00000218336	TENM3	placenta	13.1	0		1	Smoking initiation;Colorectal cancer (calcium intake interaction);Abstraction and mental flexibility;General risk tolerance (MTAG);Refractive error
+ENSG00000196664	TLR7	placenta	6.4	1	Toll like receptor 7	1	Celiac disease
+ENSG00000137672	TRPC6	placenta	20.8	0		1	Lung adenocarcinoma;General risk tolerance (MTAG);Menarche (age at onset);Change in LVEF in response to paclitaxel and trastuzumab in HER2+ breast cancer;Monocyte count

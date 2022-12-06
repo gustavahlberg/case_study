@@ -1,0 +1,8 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000184160	ADRA2C	endometrium	57.6	1	Adrenoceptor alpha 2C	1	Lung cancer in ever smokers;Urinary potassium excretion;Blood urea nitrogen levels;Nickel levels
+ENSG00000151067	CACNA1C	endometrium	20.7	1	Calcium voltage-gated channel subunit alpha1 C	1	Fractional exhaled nitric oxide (childhood);Schizophrenia;Schizophrenia or bipolar disorder
+ENSG00000135914	HTR2B	endometrium	18.8	1	5-hydroxytryptamine receptor 2B	1	Proportion of activated microglia (midfrontal cortex);Thiazide-induced adverse metabolic effects in hypertensive patients
+ENSG00000156113	KCNMA1	endometrium	138.7	1	Potassium calcium-activated channel subfamily M alpha 1	1	Hypospadias;Educational attainment;Blood pressure;Heel bone mineral density
+ENSG00000145936	KCNMB1	endometrium	59.2	1	Potassium calcium-activated channel subfamily M regulatory beta subunit 1	1	Acne (severe);Liver transplant-free survival in primary sclerosing cholangitis (time to event)
+ENSG00000050628	PTGER3	endometrium	95.2	1	Prostaglandin E receptor 3	1	Proximal colorectal cancer;Colon cancer;Dental caries (decayed, missing and filled teeth);Verbal declarative memory;Intelligence (MTAG)
+ENSG00000132329	RAMP1	endometrium	706	1	Receptor activity modifying protein 1	1	Resting metabolic rate;Epilepsy and lamotrigine-induced maculopapular eruptions;Obesity-related traits

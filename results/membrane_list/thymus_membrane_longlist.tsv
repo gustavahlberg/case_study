@@ -1,0 +1,166 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000128271	ADORA2A	thymus	54.1	1	Adenosine A2a receptor	1	Acne (severe);Coffee consumption;Caffeine consumption from tea;Caffeine consumption from coffee or tea;Coronary artery disease
+ENSG00000074370	ATP2A3	thymus	97.5	0		1	Glucose homeostasis traits;Metabolite levels;Refractive error;Apolipoprotein A1 levels;Diastolic blood pressure
+ENSG00000186265	BTLA	thymus	7.7	0		1	Cognitive decline rate in late mild cognitive impairment
+ENSG00000186470	BTN3A2	thymus	38.3	0		1	Lung cancer in ever smokers;Squamous cell lung carcinoma;Fish- and plant-related diet
+ENSG00000197405	C5AR1	thymus	7.1	0		1	Chronic periodontitis
+ENSG00000188820	CALHM6	thymus	14	0		1	Childhood steroid-sensitive nephrotic syndrome
+ENSG00000271503	CCL5	thymus	29.5	0		1	Blood protein levels
+ENSG00000163823	CCR1	thymus	5.7	0		1	Heel bone mineral density;Ulcerative colitis;Juvenile idiopathic arthritis (oligoarticular or rheumatoid factor-negative polyarticular);Keratinocyte cancer (MTAG);Basal cell carcinoma
+ENSG00000183813	CCR4	thymus	13	1	C-C motif chemokine receptor 4	1	Psychosis proneness (revised social anhedonia scale);Psychosis proneness (hypomanic personality scale and revised social anhedonia scale);Psychosis proneness (perceptual aberration scale and revised social anhedonia scale);Psychosis proneness (revised physical anhedonia scale and revised social anhedonia scale);Celiac disease
+ENSG00000126353	CCR7	thymus	58.8	0		1	Allergic disease (asthma, hay fever or eczema);Lymphocyte count;Allergic rhinitis;Eczema
+ENSG00000179934	CCR8	thymus	7.7	0		1	Daytime sleep phenotypes;Medication use (thyroid preparations)
+ENSG00000173585	CCR9	thymus	124.3	0		1	Severe COVID-19 infection with respiratory failure (analysis I);Severe COVID-19 infection with respiratory failure (analysis II);Celiac disease;Liver enzyme levels (alkaline phosphatase)
+ENSG00000177575	CD163	thymus	18.7	0		1	High density lipoprotein cholesterol levels;HDL cholesterol levels;Intracranial aneurysm
+ENSG00000158477	CD1A	thymus	318	0		1	Change in neurofilament light levels;Dental caries (decayed and filled deciduous teeth)
+ENSG00000158481	CD1C	thymus	130.4	0		1	Dental caries (decayed and filled deciduous teeth)
+ENSG00000158488	CD1E	thymus	962.6	0		1	QRS duration
+ENSG00000116824	CD2	thymus	249.8	1	CD2 molecule	1	Amyotrophic lateral sclerosis (sporadic);Metabolite levels;Acne (severe);Rheumatoid arthritis
+ENSG00000012124	CD22	thymus	11.4	1	CD22 molecule	1	Rheumatoid arthritis;Plateletcrit;Immature fraction of reticulocytes;Platelet distribution width
+ENSG00000139193	CD27	thymus	44.7	0		1	Bipolar disorder;Cold medicine-related Stevens-Johnson syndrome/toxic epidermal necrolysis (SJS/TEN) with severe ocular complications;Multiple sclerosis;Tourette syndrome;Erythema nodosum in inflammatory bowel disease
+ENSG00000167851	CD300A	thymus	14.1	0		1	Blood protein levels;Neurological blood protein biomarker levels
+ENSG00000167286	CD3D	thymus	906.7	1	CD3d molecule	1	Pulse pressure
+ENSG00000198851	CD3E	thymus	640.4	1	CD3e molecule	1	Lung cancer in ever smokers;Pulse pressure;Alzheimers disease or HDL levels (pleiotropy)
+ENSG00000160654	CD3G	thymus	94.7	1	CD3g molecule	0	
+ENSG00000010610	CD4	thymus	219.3	1	CD4 molecule	1	Schizophrenia;Height;Systemic lupus erythematosus;Rheumatoid arthritis
+ENSG00000102245	CD40LG	thymus	15.5	0		1	CD40 ligand levels;Pediatric autoimmune diseases;Lymphocyte count;Plateletcrit
+ENSG00000110448	CD5	thymus	46.5	0		1	Metabolite levels;Rheumatoid arthritis;Type 2 diabetes;Fruit consumption;Refractive error
+ENSG00000143119	CD53	thymus	144.9	0		1	Cytomegalovirus antibody response;Obesity-related traits
+ENSG00000013725	CD6	thymus	39.6	0		1	White coat effect (clinic diastolic blood pressure minus ambulatory diastolic blood pressure);Smoking status (ever vs never smokers);Refractive error;Chronic inflammatory diseases (ankylosing spondylitis, Crohns disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)
+ENSG00000129226	CD68	thymus	44.2	0		1	Refractive error;Brain morphology (MOSTest);Metabolic syndrome;Post bronchodilator FEV1/FVC ratio;Heel bone mineral density
+ENSG00000173762	CD7	thymus	48.8	0		1	Electroencephalogram traits;Height;Crohns disease;Inflammatory bowel disease;Asthma
+ENSG00000137101	CD72	thymus	6.9	0		1	Electroencephalogram traits;Blood protein levels
+ENSG00000019582	CD74	thymus	2160.2	0		1	Crohns disease;Inflammatory bowel disease;Post bronchodilator FEV1/FVC ratio
+ENSG00000007312	CD79B	thymus	27.1	1	CD79b molecule	1	Height;Hip circumference adjusted for BMI
+ENSG00000066294	CD84	thymus	9.9	0		1	Response to anti-TNF therapy in rheumatoid arthritis
+ENSG00000114013	CD86	thymus	10.6	1	CD86 molecule	1	Follicular lymphoma;Gut microbiota (functional units);Eosinophil counts;Multiple sclerosis;Eosinophil percentage of white cells
+ENSG00000153563	CD8A	thymus	369	0		1	Blood protein levels
+ENSG00000172116	CD8B	thymus	459.6	0		1	Progressive supranuclear palsy
+ENSG00000153283	CD96	thymus	61.8	0		1	Current cigarettes per day in chronic obstructive pulmonary disease;Anti-adalimumab antibody production in response to treatment in Crohns disease
+ENSG00000138135	CH25H	thymus	35.3	0		1	Heart failure;Atrioventricular conduction
+ENSG00000132514	CLEC10A	thymus	7.8	0		1	GIP levels in response to oral glucose tolerance test (120 minutes);Carotid intima media thickness x smoking interaction;Neurological blood protein biomarker levels;Liver enzyme levels (alkaline phosphatase)
+ENSG00000150048	CLEC1A	thymus	50.2	0		1	Metabolite levels
+ENSG00000069493	CLEC2D	thymus	31.6	0		1	HDL cholesterol levels x short total sleep time interaction (1df test);HDL cholesterol levels x short total sleep time interaction (2df test);Multiple sclerosis;Autoimmune thyroid disease
+ENSG00000117322	CR2	thymus	15.2	0		1	Cerebrospinal fluid levels of Alzheimers disease-related proteins;Height;Age-related cognitive decline (language) (slope of z-scores);Refractive error;Pulse pressure
+ENSG00000182578	CSF1R	thymus	14.3	1	Colony stimulating factor 1 receptor	1	Granulocyte percentage of myeloid white cells;Monocyte percentage of white cells;Monocyte count
+ENSG00000100368	CSF2RB	thymus	9.8	1	Colony stimulating factor 2 receptor subunit beta	1	Blood protein levels;Eosinophil counts;Multiple sclerosis
+ENSG00000163599	CTLA4	thymus	10.1	1	Cytotoxic T-lymphocyte associated protein 4	1	Rheumatoid arthritis;Heel bone mineral density;Rheumatoid arthritis (ACPA-positive)
+ENSG00000121966	CXCR4	thymus	491.2	1	C-X-C motif chemokine receptor 4	1	Amyotrophic lateral sclerosis (sporadic);Telomere length;Smoking status (ever vs never smokers);Lung function (low FEV1 vs high FEV1);Arthritis (juvenile idiopathic)
+ENSG00000051523	CYBA	thymus	87.1	0		1	Glycated hemoglobin levels;Hair color
+ENSG00000155016	CYP2U1	thymus	84.9	0		1	Appendicular lean mass
+ENSG00000173253	DMRT2	thymus	20.9	0		1	Triglyceride levels;HDL cholesterol levels;Nose size;Night sleep phenotypes
+ENSG00000167261	DPEP2	thymus	9	0		1	Schizophrenia;Refractive error;HDL cholesterol levels x alcohol consumption (drinkers vs non-drinkers) interaction (2df);Triglyceride levels in current drinkers
+ENSG00000133740	E2F5	thymus	10.7	0		1	Plasma amyloid beta peptide concentrations (ABx-40)
+ENSG00000118402	ELOVL4	thymus	105.5	1	ELOVL fatty acid elongase 4	1	Daytime sleep phenotypes;Chronic obstructive pulmonary disease;Aging;Partial epilepsies
+ENSG00000135476	ESPL1	thymus	10.7	0		1	Lumbar spine bone mineral density;Femoral neck bone mineral density
+ENSG00000126860	EVI2A	thymus	105.1	0		1	Brain morphology (MOSTest);Endometrial cancer (endometrioid histology);Endometrial cancer
+ENSG00000185862	EVI2B	thymus	76.4	0		1	Oily fish consumption;Pork consumption;Brain morphology (MOSTest);Aspartate aminotransferase levels
+ENSG00000143340	FAM163A	thymus	15.2	0		1	Age-related cognitive decline (memory) (slope of z-scores);Smoking initiation (ever regular vs never regular);Monocyte percentage of white cells
+ENSG00000140525	FANCI	thymus	44.2	0		1	Height;Serum immune biomarker levels;Menopause (age at onset)
+ENSG00000158869	FCER1G	thymus	62.7	1	Fc fragment of IgE receptor Ig	1	Aggressive periodontitis;Asthma;Allergic disease (asthma, hay fever or eczema);Platelet distribution width;Allergy
+ENSG00000104921	FCER2	thymus	6.3	0		1	Post bronchodilator FEV1;Blood protein levels
+ENSG00000143226	FCGR2A	thymus	9.8	1	Fc fragment of IgG receptor IIa	1	Kawasaki disease;Systemic lupus erythematosus;Rheumatoid arthritis;Blood protein levels
+ENSG00000203747	FCGR3A	thymus	9.3	1	Fc fragment of IgG receptor IIIa	1	Functional impairment in major depressive disorder, bipolar disorder and schizophrenia;Ulcerative colitis;Inflammatory bowel disease;Basophil count
+ENSG00000162747	FCGR3B	thymus	6.1	1	Fc fragment of IgG receptor IIIb	1	Hemoglobin levels;Ulcerative colitis;Inflammatory bowel disease;Basophil percentage of white cells;Basophil percentage of granulocytes
+ENSG00000132185	FCRLA	thymus	7.7	0		1	Response to cyclophosphamide in systemic lupus erythematosus with lupus nephritis;Inflammatory bowel disease;Lymphocyte percentage of white cells;Lymphocyte count;Liver enzyme levels (gamma-glutamyl transferase)
+ENSG00000184922	FMNL1	thymus	49.7	0		1	Asthma;Craniofacial microsomia;Hypothyroidism;Thyroid stimulating hormone levels;Male-pattern baldness
+ENSG00000171051	FPR1	thymus	8.4	0		1	Neutrophil percentage of granulocytes;Eosinophil counts;Tourette syndrome;Eosinophil percentage of white cells;Alopecia areata
+ENSG00000213203	GIMAP1	thymus	6.6	0		1	Coronary artery calcified atherosclerotic plaque (130 HU threshold) in type 2 diabetes
+ENSG00000106560	GIMAP2	thymus	50.2	0		1	Age at smoking initiation in chronic obstructive pulmonary disease
+ENSG00000133574	GIMAP4	thymus	30.5	0		1	Triglyceride levels;vWF levels
+ENSG00000196329	GIMAP5	thymus	25.1	0		1	Coronary artery calcified atherosclerotic plaque (130 HU threshold) in type 2 diabetes
+ENSG00000106415	GLCCI1	thymus	33.7	0		1	Cognitive function;Intraocular pressure;Height;Night sleep phenotypes;Granulocyte percentage of myeloid white cells
+ENSG00000147138	GPR174	thymus	16.9	0		1	Graves disease
+ENSG00000125245	GPR18	thymus	7.9	0		1	Triglyceride levels;Asthma
+ENSG00000169508	GPR183	thymus	31.8	0		1	Asthma;Inflammatory bowel disease;Type 1 diabetes
+ENSG00000135077	HAVCR2	thymus	9.1	0		1	Blood protein levels;Hypertriglyceridemia;Iris heterochromicity
+ENSG00000242574	HLA-DMB	thymus	9.9	0		1	Squamous cell lung carcinoma;Asthma;Autism spectrum disorder or schizophrenia;Lung cancer
+ENSG00000204252	HLA-DOA	thymus	7	0		1	Asthma;Prostate cancer;Red wine liking;White wine liking;Chronic hepatitis B infection
+ENSG00000231389	HLA-DPA1	thymus	30.2	0		1	Sjögrens syndrome;IgA nephropathy;Lung cancer in ever smokers
+ENSG00000223865	HLA-DPB1	thymus	10.9	0		1	Sjögrens syndrome;Chronic hepatitis B infection;IgA nephropathy
+ENSG00000196735	HLA-DQA1	thymus	234.3	0		1	Autoimmune hepatitis type-1;Vitiligo;Self-reported allergy;Sjögrens syndrome;Systemic lupus erythematosus
+ENSG00000179344	HLA-DQB1	thymus	108.2	0		1	Self-reported allergy;Systemic lupus erythematosus;IgA nephropathy
+ENSG00000204287	HLA-DRA	thymus	198.8	0		1	Frontotemporal dementia;Vitiligo;Sjögrens syndrome;Antinuclear antibody levels;Tuberculosis
+ENSG00000196126	HLA-DRB1	thymus	254.3	0		1	Multiple sclerosis;Sjögrens syndrome;Systemic lupus erythematosus;Rheumatoid arthritis
+ENSG00000198502	HLA-DRB5	thymus	165.8	0		1	Frontotemporal dementia;Sjögrens syndrome;Antinuclear antibody levels;Acute anterior uveitis (with or without ankylosing spondylitis);Alzheimers disease
+ENSG00000100292	HMOX1	thymus	25.1	0		1	Waist-to-hip ratio adjusted for BMI (age >50);Waist-to-hip ratio adjusted for BMI x sex x age interaction (4df test);Plasma proprotein convertase subtilisin/kexin type 9 levels in stable coronary artery disease;Hippocampal volume in mild cognitive impairment
+ENSG00000122986	HVCN1	thymus	16.2	0		1	Composite immunoglobulin trait (IgA/IgG);Red blood cell count
+ENSG00000068001	HYAL2	thymus	9.5	0		1	Body mass index;Brain morphology (MOSTest);Subcortical volume (MOSTest);Brain morphology (min-P);Cortical surface area (MOSTest)
+ENSG00000108622	ICAM2	thymus	31.5	0		1	Allergic disease (asthma, hay fever or eczema);Response to antidepressants (symptom improvement)
+ENSG00000216490	IFI30	thymus	91.9	0		1	Multiple sclerosis;Mental health study participation (completed survey);Serum alkaline phosphatase levels;Waist-to-hip ratio adjusted for BMI (additive genetic model)
+ENSG00000211898	IGHD	thymus	8.3	0		1	Blood protein levels
+ENSG00000211893	IGHG2	thymus	16.7	1	Immunoglobulin heavy constant gamma 2 (G2m marker)	1	IgG levels;Composite immunoglobulin trait (IgA/IgG)
+ENSG00000211892	IGHG4	thymus	49.9	1	Immunoglobulin heavy constant gamma 4 (G4m marker)	0	
+ENSG00000110324	IL10RA	thymus	16.9	0		1	Obesity-related traits
+ENSG00000096996	IL12RB1	thymus	6.6	0		1	Mental health study participation (completed survey);Pulmonary function in asthmatics;Systemic sclerosis;Waist circumference adjusted for body mass index
+ENSG00000115590	IL1R2	thymus	7.4	0		1	Fibrinogen;Parkinsons disease;Asthma;Crohns disease
+ENSG00000104998	IL27RA	thymus	11.1	0		1	Immune response to measles-mumps-rubella vaccine;Blood protein levels;Lymphocyte percentage of white cells;Lymphocyte count
+ENSG00000134460	IL2RA	thymus	5.2	1	Interleukin 2 receptor subunit alpha	1	Vitiligo;Rheumatoid arthritis;Response to anti-retroviral therapy (ddI/d4T) in HIV-1 infection (Grade 3 peripheral neuropathy)
+ENSG00000100385	IL2RB	thymus	14.9	1	Interleukin 2 receptor subunit beta	1	Rheumatoid arthritis;Rheumatoid arthritis (ACPA-positive);Mean corpuscular volume;Juvenile idiopathic arthritis (oligoarticular or rheumatoid factor-negative polyarticular);Eosinophil counts
+ENSG00000147168	IL2RG	thymus	346.4	1	Interleukin 2 receptor subunit gamma	0	
+ENSG00000168685	IL7R	thymus	183.7	0		1	Asthma;Allergic disease (asthma, hay fever or eczema);Primary biliary cirrhosis;Lymphocyte percentage of white cells;Neutrophil percentage of white cells
+ENSG00000005844	ITGAL	thymus	55.2	1	Integrin subunit alpha L	1	White blood cell count;Lymphocyte count;Ulcerative colitis;Chronic inflammatory diseases (ankylosing spondylitis, Crohns disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy);Lymphocyte percentage of white cells
+ENSG00000160255	ITGB2	thymus	87.2	0		1	Neonatal white matter microstructure;Heel bone mineral density;Lymphocyte count
+ENSG00000139626	ITGB7	thymus	8.6	1	Integrin subunit beta 7	1	Obesity-related traits;Type 1 diabetes
+ENSG00000078596	ITM2A	thymus	322.9	0		1	Nose size;Graves disease;Height;Birth weight;Thyrotoxic hypokalemic periodic paralysis and Graves disease
+ENSG00000160593	JAML	thymus	24.3	0		1	Sleep duration (long sleep)
+ENSG00000177272	KCNA3	thymus	25.4	1	Potassium voltage-gated channel subfamily A member 3	1	Acute lymphoblastic leukemia (childhood)
+ENSG00000111796	KLRB1	thymus	5.7	0		1	Gut microbiota (bacterial taxa, hurdle binary method);Blood protein levels;Obesity (extreme)
+ENSG00000213809	KLRK1	thymus	9.9	0		1	Interleukin-1-receptor antagonist levels;Psoriasis;Obesity-related traits
+ENSG00000162511	LAPTM5	thymus	298.3	0		1	Loneliness;Loneliness (linear analysis);Neutrophil count;White blood cell count
+ENSG00000213658	LAT	thymus	117.9	0		1	Acne (severe);Educational attainment;Glaucoma;Refractive error;Blood protein levels
+ENSG00000122188	LAX1	thymus	11.1	0		1	Malaria;Male-pattern baldness
+ENSG00000168675	LDLRAD4	thymus	49.3	0		1	Gut microbiota (functional units);Adverse response to drug;Depressive symptom improvement;Serum alkaline phosphatase levels
+ENSG00000064547	LPAR2	thymus	10	0		1	Bipolar II disorder;Bipolar I disorder;Bipolar disorder;Refractive error;Brain morphology (MOSTest)
+ENSG00000054219	LY75	thymus	78.4	0		1	Proportion of activated microglia (inferior temporal cortex);Plateletcrit;Myeloid white cell count
+ENSG00000122224	LY9	thymus	25.5	0		1	Lymphocyte percentage of white cells;Lymphocyte count;Blood protein levels;Postoperative atrial fibrillation in coronary artery bypass grafting surgery
+ENSG00000145416	MARCHF1	thymus	5.6	0		1	Heel bone mineral density x serum urate levels interaction
+ENSG00000197629	MPEG1	thymus	42.8	0		1	Hepatitis B surface antigen seroclearance in chronic hepatitis B infection
+ENSG00000156738	MS4A1	thymus	50.6	1	Membrane spanning 4-domains A1	1	Post bronchodilator FEV1;Supramarginal gyrus volume;Congenital heart disease (maternal effect);Major depressive disorder;Recurrent major depressive disorder
+ENSG00000166927	MS4A7	thymus	18.2	0		1	Iron status biomarkers (ferritin levels);Monocyte count;Monocyte percentage of white cells
+ENSG00000123338	NCKAP1L	thymus	37.4	0		1	Hip circumference adjusted for BMI;Obesity-related traits
+ENSG00000146938	NLGN4X	thymus	14.3	0		1	Schizophrenia;Metabolite levels;Tuberculosis (SNP x SNP interaction)
+ENSG00000132182	NUP210	thymus	41.7	0		1	Fish- and plant-related diet;Fruit consumption;Cooked vegetable consumption;Platelet distribution width
+ENSG00000078589	P2RY10	thymus	10.3	0		1	Rheumatoid arthritis
+ENSG00000138964	PARVG	thymus	18.4	0		1	Metabolite levels;Survival in colon cancer;Fasting glucose
+ENSG00000197646	PDCD1LG2	thymus	5	0		1	Blood protein levels;Serum alkaline phosphatase levels
+ENSG00000171611	PTCRA	thymus	128.6	0		1	Plasma omega-6 polyunsaturated fatty acid levels (arachidonic acid)
+ENSG00000175354	PTPN2	thymus	99.8	0		1	Vitiligo;Rheumatoid arthritis;Thyroid peroxidase antibody levels
+ENSG00000081237	PTPRC	thymus	306.9	0		1	LDL cholesterol levels;Asthma;Apolipoprotein B levels;Refractive error
+ENSG00000213413	PVRIG	thymus	38.1	0		1	Refractive error;Ticagrelor levels in individuals with acute coronary syndromes treated with ticagrelor;Brain morphology (MOSTest);Subcortical volume (MOSTest);Monocyte count
+ENSG00000161929	SCIMP	thymus	5.1	0		1	Alzheimers disease;Alzheimers disease or family history of Alzheimers disease;Family history of Alzheimers disease;Alzheimers disease (late onset)
+ENSG00000091490	SEL1L3	thymus	18.7	0		1	Systolic blood pressure
+ENSG00000110876	SELPLG	thymus	52.1	0		1	Conduct disorder (symptom count);Acne (severe);Blood protein levels;Brain morphology (MOSTest)
+ENSG00000138623	SEMA7A	thymus	9.4	0		1	Alcohol consumption (drinks per week);HDL cholesterol levels;Hypertension;Apolipoprotein A1 levels;Craniofacial microsomia
+ENSG00000125089	SH3TC1	thymus	28	0		1	Idiopathic downbeat nystagmus;Response to metformin (IC50);Response to cognitive-behavioural therapy in major depressive disorder
+ENSG00000089012	SIRPG	thymus	39.1	0		1	Gut microbiota (bacterial taxa, hurdle binary method);Blood protein levels;Intracranial aneurysm;Meningococcal C functional antibody titers post childhood immunization
+ENSG00000137078	SIT1	thymus	95.4	0		1	Adverse response to chemotherapy (neutropenia/leucopenia) (paclitaxel)
+ENSG00000117090	SLAMF1	thymus	76.6	0		1	Memory decline;Multiple sclerosis;Eosinophil percentage of white cells;Eosinophil counts;Microalbuminuria
+ENSG00000162739	SLAMF6	thymus	19.3	0		1	Multiple sclerosis;Blood protein levels;Graves disease;Rheumatoid arthritis
+ENSG00000026751	SLAMF7	thymus	14.7	1	SLAM family member 7	1	Blood protein levels;Microalbuminuria;Inflammatory bowel disease;Multiple sclerosis
+ENSG00000158714	SLAMF8	thymus	10.5	0		1	Crohns disease
+ENSG00000165349	SLC7A3	thymus	19.8	1	Solute carrier family 7 member 3	1	Refractive error
+ENSG00000137571	SLCO5A1	thymus	6.5	0		1	Basophil count;Lateral ventricle volume;Metabolite levels;Cervical cancer;Metabolite levels  (X-11787)
+ENSG00000103056	SMPD3	thymus	52	0		1	Height;Refractive error;Hemoglobin levels;Offspring birth weight;Birth weight
+ENSG00000278195	SSTR3	thymus	11.1	1	Somatostatin receptor 3	0	
+ENSG00000010327	STAB1	thymus	6.8	0		1	HDL cholesterol;Schizophrenia;Height;Bipolar disorder;Urinary albumin-to-creatinine ratio
+ENSG00000157303	SUSD3	thymus	31.8	0		1	Plateletcrit
+ENSG00000059377	TBXAS1	thymus	15.1	0		1	Amyotrophic lateral sclerosis (sporadic);Heel bone mineral density;Systolic blood pressure;Cerebellum growth;Gray matter volume (schizophrenia interaction)
+ENSG00000174125	TLR1	thymus	8.1	0		1	Self-reported allergy;Asthma;Alcohol consumption;Allergic disease (asthma, hay fever or eczema);Diabetes in response to antihypertensive drug treatment (treatment strategy interaction)
+ENSG00000174123	TLR10	thymus	5.1	0		1	Self-reported allergy;Asthma;Diabetes in response to antihypertensive drug treatment (treatment strategy interaction);Allergic rhinitis
+ENSG00000141524	TMC6	thymus	26.3	0		1	Hemoglobin levels;High light scatter reticulocyte count;Plateletcrit;Reticulocyte count
+ENSG00000121895	TMEM156	thymus	5.1	0		1	Eosinophil counts;Eosinophil percentage of white cells;Monocyte count;Monocyte percentage of white cells;Femur bone mineral density x serum urate levels interaction
+ENSG00000167664	TMIGD2	thymus	35.3	0		1	Post-bronchodilator lung function in asthma (FVC)
+ENSG00000120802	TMPO	thymus	139.9	0		1	Metabolite levels
+ENSG00000048462	TNFRSF17	thymus	14.8	0		1	Phenylephrine infusion rate during anesthesia;Testicular germ cell tumor;QT interval;Blood protein levels
+ENSG00000028137	TNFRSF1B	thymus	12.7	0		1	Blood protein levels in cardiovascular risk;Urate levels (BMI interaction);Eosinophil counts;Eosinophil percentage of white cells;Tuberculosis
+ENSG00000102524	TNFSF13B	thymus	5.3	1	TNF superfamily member 13b	1	Metabolite levels;HDL cholesterol levels;Apolipoprotein A1 levels;White blood cell count;Plateletcrit
+ENSG00000106952	TNFSF8	thymus	26.9	0		1	Eosinophil counts;Chronic inflammatory diseases (ankylosing spondylitis, Crohns disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy);Eosinophil percentage of granulocytes;Neutrophil percentage of granulocytes;Eosinophil percentage of white cells
+ENSG00000009790	TRAF3IP3	thymus	130.5	0		1	Mean corpuscular volume;Red blood cell count;Mean corpuscular hemoglobin;Alopecia areata;Worry too long after an embarrassing experience
+ENSG00000163519	TRAT1	thymus	79.8	0		1	Autoimmune thyroid disease
+ENSG00000112195	TREML2	thymus	6.9	0		1	Blood protein levels;Monocyte count;Waist circumference;Calcific aortic valve stenosis
+ENSG00000168671	UGT3A2	thymus	14.7	0		1	Cleft palate;Gut microbiota (bacterial taxa, rank normal transformation method)
+ENSG00000162692	VCAM1	thymus	24.6	0		1	Sjögrens syndrome;Multiple sclerosis
+ENSG00000128815	WDFY4	thymus	12.3	0		1	Airway responsiveness in chronic obstructive pulmonary disease;Systemic lupus erythematosus;Rheumatoid arthritis
+ENSG00000198554	WDHD1	thymus	8	0		1	Response to anti-retroviral therapy (ddI/d4T) in HIV-1 infection (Grade 2 peripheral neuropathy);Mean corpuscular hemoglobin;Chronotype;Mean spheric corpuscular volume;Mean corpuscular volume
+ENSG00000173578	XCR1	thymus	8.8	0		1	Interferon alpha levels in systemic lupus erythematosus;Inflammatory bowel disease;Basophil count;Severe COVID-19 infection with respiratory failure (analysis I);Severe COVID-19 infection with respiratory failure (analysis II)

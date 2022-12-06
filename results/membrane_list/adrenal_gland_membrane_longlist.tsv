@@ -1,0 +1,50 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000085563	ABCB1	adrenal_gland	101.7	0		1	Systolic blood pressure in sickle cell anemia;Cholesterol, total;Glycated hemoglobin levels;Type 2 diabetes;Low density lipoprotein cholesterol levels
+ENSG00000164199	ADGRV1	adrenal_gland	533	0		1	Small cell lung carcinoma;Blond vs. brown/black hair color;Bone mineral content;Bone mineral density;Initial pursuit acceleration
+ENSG00000162551	ALPL	adrenal_gland	60.7	0		1	Vitamin B levels in ischemic stroke;Blood metabolite ratios;Phosphorus levels;Metabolite levels
+ENSG00000151572	ANO4	adrenal_gland	12	0		1	Response to methotrexate in juvenile idiopathic arthritis;Post bronchodilator FEV1/FVC ratio;Attention deficit hyperactivity disorder (hyperactivity-impulsivity symptoms);Stress sensitivity (neuroticism score x major depressive disorder status interaction)
+ENSG00000152092	ASTN1	adrenal_gland	14.9	0		1	Coronary artery calcified atherosclerotic plaque score in type 2 diabetes;Hip circumference adjusted for BMI
+ENSG00000166148	AVPR1A	adrenal_gland	56.6	1	Arginine vasopressin receptor 1A	1	Diastolic blood pressure x smoking status (ever vs never) interaction (2df test);Hippocampal volume;Morning person
+ENSG00000175344	CHRNA7	adrenal_gland	7.8	1	Cholinergic receptor nicotinic alpha 7 subunit	1	Hepatocyte growth factor levels
+ENSG00000103018	CYB5B	adrenal_gland	318	0		1	Blood pressure (smoking interaction);Heel bone mineral density;Body mass index;Blood osmolality (transformed sodium)
+ENSG00000116133	DHCR24	adrenal_gland	1129.5	0		1	Visceral fat, circulating phospholipid PC(16:0/2:0) and white matter microstructure (shared variance)
+ENSG00000187957	DNER	adrenal_gland	73	0		1	Type 2 diabetes;Metabolite levels;Carotid intima media thickness x smoking interaction;Pulmonary function (smoking interaction)
+ENSG00000175497	DPP10	adrenal_gland	10.7	0		1	Systolic blood pressure in sickle cell anemia;Hip circumference adjusted for BMI;High chromosomal aberration frequency (chromatid type) in genotoxic compound exposure;Urate levels (BMI interaction);Daytime sleep phenotypes
+ENSG00000178607	ERN1	adrenal_gland	53	0		1	Liver injury in anti-retroviral drug treated HIV;Chronic inflammatory diseases (ankylosing spondylitis, Crohns disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy);Liver enzyme levels (alkaline phosphatase)
+ENSG00000134824	FADS2	adrenal_gland	364.1	1	Fatty acid desaturase 2	1	Laryngeal squamous cell carcinoma;Triglycerides;Red blood cell fatty acid levels
+ENSG00000115226	FNDC4	adrenal_gland	124.2	0		1	Metabolite levels
+ENSG00000159248	GJD2	adrenal_gland	5.9	0		1	Hyperopia;Myopia;Congenital left-sided heart lesions;Refractive error;High myopia
+ENSG00000023171	GRAMD1B	adrenal_gland	258.8	0		1	Schizophrenia;Chronic lymphocytic leukemia;Refractive error;B-cell malignancies (chronic lymphocytic leukemia, Hodgkin lymphoma or multiple myeloma) (pleiotropy)
+ENSG00000203859	HSD3B2	adrenal_gland	2174.8	1	Hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 2	0	
+ENSG00000135914	HTR2B	adrenal_gland	17.4	1	5-hydroxytryptamine receptor 2B	1	Proportion of activated microglia (midfrontal cortex);Thiazide-induced adverse metabolic effects in hypertensive patients
+ENSG00000120457	KCNJ5	adrenal_gland	64.3	0		1	Refractive error;Spherical equivalent or myopia (age of diagnosis);Resting heart rate;Atrial fibrillation
+ENSG00000082482	KCNK2	adrenal_gland	53	1	Potassium two pore domain channel subfamily K member 2	1	White matter hyperintensity volume (adjusted for hypertension);White matter hyperintensity volume;Brain morphology (MOSTest)
+ENSG00000171303	KCNK3	adrenal_gland	181.6	1	Potassium two pore domain channel subfamily K member 3	1	Systolic blood pressure (cigarette smoking interaction);Diastolic blood pressure (cigarette smoking interaction);Triglyceride levels;LDL cholesterol levels;Diastolic blood pressure
+ENSG00000080709	KCNN2	adrenal_gland	27.8	1	Potassium calcium-activated channel subfamily N member 2	1	Generalized epilepsy;Diastolic blood pressure;Systolic blood pressure
+ENSG00000053918	KCNQ1	adrenal_gland	197.1	1	Potassium voltage-gated channel subfamily Q member 1	1	Glucose homeostasis traits;Type 2 diabetes;Plasma amyloid beta peptide concentrations (ABx-40);Height
+ENSG00000130164	LDLR	adrenal_gland	112.1	0		1	LDL cholesterol;Cholesterol, total;Alzheimers disease (age of onset)
+ENSG00000173114	LRRN3	adrenal_gland	23.2	0		1	Autism spectrum disorder or schizophrenia;Schizophrenia
+ENSG00000125505	MBOAT7	adrenal_gland	108.4	0		1	Blood metabolite ratios;Blood metabolite levels;Serum metabolite levels;Phosphatidylinositol levels
+ENSG00000185231	MC2R	adrenal_gland	57.9	1	Melanocortin 2 receptor	1	Femoral neck bone mineral density;Femoral neck bone mineral density and trunk fat mass adjusted by trunk lean mass;Parental longevity (both parents in top 10%);Parental longevity (combined parental attained age, Martingale residuals);Negative urgency
+ENSG00000008394	MGST1	adrenal_gland	1137.3	0		1	Colorectal cancer (aspirin and/or NSAID use interaction);Household income (MTAG);Metabolite levels;Visceral fat;Barretts esophagus or esophageal adenocarcinoma x sex interaction (2df test)
+ENSG00000154654	NCAM2	adrenal_gland	12	0		1	Blood protein levels;Rosacea symptom severity;Gut microbiota (bacterial taxa, rank normal transformation method);Colorectal or endometrial cancer;Metabolite levels
+ENSG00000091129	NRCAM	adrenal_gland	37.3	0		1	White matter hyperintensity burden;Systolic blood pressure;Diastolic blood pressure;Waist-to-hip ratio adjusted for BMI;Waist-to-hip ratio adjusted for BMI x sex x age interaction (4df test)
+ENSG00000123572	NRK	adrenal_gland	16.1	0		1	Metabolite levels;Gastroesophageal reflux disease;Obesity-related traits
+ENSG00000119973	PRLHR	adrenal_gland	5.2	0		1	Triglyceride levels;Height;Pancreatic cancer;Body size at age 10;Leisure-time exercise behaviour (age-stratified)
+ENSG00000203722	RAET1G	adrenal_gland	8.4	0		1	Brain morphology (MOSTest);Subcortical volume (MOSTest);Heel bone mineral density x serum urate levels interaction
+ENSG00000115841	RMDN2	adrenal_gland	42.5	0		1	Melanoma;Eosinophil counts;Cutaneous malignant melanoma;Childhood asthma exacerbations in long-acting beta2-agonist treatment
+ENSG00000171509	RXFP1	adrenal_gland	5.3	0		1	Acute lymphoblastic leukemia (childhood);Waist circumference adjusted for body mass index
+ENSG00000114650	SCAP	adrenal_gland	135.2	0		1	Blood metabolite levels;Triglyceride levels;Refractive error;Neonatal white matter microstructure;Estimated glomerular filtration rate
+ENSG00000073060	SCARB1	adrenal_gland	995.8	0		1	HDL cholesterol;LDL cholesterol levels;Low density lipoprotein cholesterol levels;Triglyceride levels;Apolipoprotein B levels
+ENSG00000145284	SCD5	adrenal_gland	156.7	0		1	Type 2 diabetes;Eosinophil percentage of white cells;Eosinophil counts;Venous thromboembolism adjusted for sickle cell variant rs77121243-T;Sum neutrophil eosinophil counts
+ENSG00000092421	SEMA6A	adrenal_gland	60.1	0		1	Eosinophilic esophagitis;Amyotrophic lateral sclerosis;High chromosomal aberration frequency (chromatid type);Blood protein levels;Brain morphology (MOSTest)
+ENSG00000036565	SLC18A1	adrenal_gland	25.1	1	Solute carrier family 18 member A1	1	Triglycerides;Triglyceride levels;Cholesterol
+ENSG00000089057	SLC23A2	adrenal_gland	99.3	0		1	Height;Mean corpuscular hemoglobin;Mean corpuscular volume;Femur bone mineral density x serum urate levels interaction;Red cell distribution width
+ENSG00000113396	SLC27A6	adrenal_gland	24.4	0		1	Night sleep phenotypes;PR interval;Brain morphology (MOSTest);Subcortical volume (MOSTest)
+ENSG00000142494	SLC47A1	adrenal_gland	127.3	0		1	Lymphocyte count;Glomerular filtration rate (creatinine);Intracranial aneurysm;Chronic kidney disease;Estimated glomerular filtration rate
+ENSG00000179542	SLITRK4	adrenal_gland	11.1	0		1	Severe influenza A (H1N1) infection;Creatine kinase levels
+ENSG00000168273	SMIM4	adrenal_gland	121.9	0		1	Schizophrenia;Bipolar disorder;Autism spectrum disorder or schizophrenia
+ENSG00000057252	SOAT1	adrenal_gland	165.3	1	Sterol O-acyltransferase 1	1	Metabolite levels
+ENSG00000072310	SREBF1	adrenal_gland	219.2	0		1	Schizophrenia;Resting heart rate;Eosinophil counts;TB-LM or TBLH-BMD (pleiotropy)
+ENSG00000115525	ST3GAL5	adrenal_gland	47.4	0		1	Mean platelet volume;Mean spheric corpuscular volume
+ENSG00000101638	ST8SIA5	adrenal_gland	12.2	0		1	Fruit consumption

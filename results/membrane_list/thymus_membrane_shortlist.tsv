@@ -1,0 +1,33 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000128271	ADORA2A	thymus	54.1	1	Adenosine A2a receptor	1	Acne (severe);Coffee consumption;Caffeine consumption from tea;Caffeine consumption from coffee or tea;Coronary artery disease
+ENSG00000183813	CCR4	thymus	13	1	C-C motif chemokine receptor 4	1	Psychosis proneness (revised social anhedonia scale);Psychosis proneness (hypomanic personality scale and revised social anhedonia scale);Psychosis proneness (perceptual aberration scale and revised social anhedonia scale);Psychosis proneness (revised physical anhedonia scale and revised social anhedonia scale);Celiac disease
+ENSG00000116824	CD2	thymus	249.8	1	CD2 molecule	1	Amyotrophic lateral sclerosis (sporadic);Metabolite levels;Acne (severe);Rheumatoid arthritis
+ENSG00000012124	CD22	thymus	11.4	1	CD22 molecule	1	Rheumatoid arthritis;Plateletcrit;Immature fraction of reticulocytes;Platelet distribution width
+ENSG00000167286	CD3D	thymus	906.7	1	CD3d molecule	1	Pulse pressure
+ENSG00000198851	CD3E	thymus	640.4	1	CD3e molecule	1	Lung cancer in ever smokers;Pulse pressure;Alzheimers disease or HDL levels (pleiotropy)
+ENSG00000160654	CD3G	thymus	94.7	1	CD3g molecule	0	
+ENSG00000010610	CD4	thymus	219.3	1	CD4 molecule	1	Schizophrenia;Height;Systemic lupus erythematosus;Rheumatoid arthritis
+ENSG00000007312	CD79B	thymus	27.1	1	CD79b molecule	1	Height;Hip circumference adjusted for BMI
+ENSG00000114013	CD86	thymus	10.6	1	CD86 molecule	1	Follicular lymphoma;Gut microbiota (functional units);Eosinophil counts;Multiple sclerosis;Eosinophil percentage of white cells
+ENSG00000182578	CSF1R	thymus	14.3	1	Colony stimulating factor 1 receptor	1	Granulocyte percentage of myeloid white cells;Monocyte percentage of white cells;Monocyte count
+ENSG00000100368	CSF2RB	thymus	9.8	1	Colony stimulating factor 2 receptor subunit beta	1	Blood protein levels;Eosinophil counts;Multiple sclerosis
+ENSG00000163599	CTLA4	thymus	10.1	1	Cytotoxic T-lymphocyte associated protein 4	1	Rheumatoid arthritis;Heel bone mineral density;Rheumatoid arthritis (ACPA-positive)
+ENSG00000121966	CXCR4	thymus	491.2	1	C-X-C motif chemokine receptor 4	1	Amyotrophic lateral sclerosis (sporadic);Telomere length;Smoking status (ever vs never smokers);Lung function (low FEV1 vs high FEV1);Arthritis (juvenile idiopathic)
+ENSG00000118402	ELOVL4	thymus	105.5	1	ELOVL fatty acid elongase 4	1	Daytime sleep phenotypes;Chronic obstructive pulmonary disease;Aging;Partial epilepsies
+ENSG00000158869	FCER1G	thymus	62.7	1	Fc fragment of IgE receptor Ig	1	Aggressive periodontitis;Asthma;Allergic disease (asthma, hay fever or eczema);Platelet distribution width;Allergy
+ENSG00000143226	FCGR2A	thymus	9.8	1	Fc fragment of IgG receptor IIa	1	Kawasaki disease;Systemic lupus erythematosus;Rheumatoid arthritis;Blood protein levels
+ENSG00000203747	FCGR3A	thymus	9.3	1	Fc fragment of IgG receptor IIIa	1	Functional impairment in major depressive disorder, bipolar disorder and schizophrenia;Ulcerative colitis;Inflammatory bowel disease;Basophil count
+ENSG00000162747	FCGR3B	thymus	6.1	1	Fc fragment of IgG receptor IIIb	1	Hemoglobin levels;Ulcerative colitis;Inflammatory bowel disease;Basophil percentage of white cells;Basophil percentage of granulocytes
+ENSG00000211893	IGHG2	thymus	16.7	1	Immunoglobulin heavy constant gamma 2 (G2m marker)	1	IgG levels;Composite immunoglobulin trait (IgA/IgG)
+ENSG00000211892	IGHG4	thymus	49.9	1	Immunoglobulin heavy constant gamma 4 (G4m marker)	0	
+ENSG00000134460	IL2RA	thymus	5.2	1	Interleukin 2 receptor subunit alpha	1	Vitiligo;Rheumatoid arthritis;Response to anti-retroviral therapy (ddI/d4T) in HIV-1 infection (Grade 3 peripheral neuropathy)
+ENSG00000100385	IL2RB	thymus	14.9	1	Interleukin 2 receptor subunit beta	1	Rheumatoid arthritis;Rheumatoid arthritis (ACPA-positive);Mean corpuscular volume;Juvenile idiopathic arthritis (oligoarticular or rheumatoid factor-negative polyarticular);Eosinophil counts
+ENSG00000147168	IL2RG	thymus	346.4	1	Interleukin 2 receptor subunit gamma	0	
+ENSG00000005844	ITGAL	thymus	55.2	1	Integrin subunit alpha L	1	White blood cell count;Lymphocyte count;Ulcerative colitis;Chronic inflammatory diseases (ankylosing spondylitis, Crohns disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy);Lymphocyte percentage of white cells
+ENSG00000139626	ITGB7	thymus	8.6	1	Integrin subunit beta 7	1	Obesity-related traits;Type 1 diabetes
+ENSG00000177272	KCNA3	thymus	25.4	1	Potassium voltage-gated channel subfamily A member 3	1	Acute lymphoblastic leukemia (childhood)
+ENSG00000156738	MS4A1	thymus	50.6	1	Membrane spanning 4-domains A1	1	Post bronchodilator FEV1;Supramarginal gyrus volume;Congenital heart disease (maternal effect);Major depressive disorder;Recurrent major depressive disorder
+ENSG00000026751	SLAMF7	thymus	14.7	1	SLAM family member 7	1	Blood protein levels;Microalbuminuria;Inflammatory bowel disease;Multiple sclerosis
+ENSG00000165349	SLC7A3	thymus	19.8	1	Solute carrier family 7 member 3	1	Refractive error
+ENSG00000278195	SSTR3	thymus	11.1	1	Somatostatin receptor 3	0	
+ENSG00000102524	TNFSF13B	thymus	5.3	1	TNF superfamily member 13b	1	Metabolite levels;HDL cholesterol levels;Apolipoprotein A1 levels;White blood cell count;Plateletcrit

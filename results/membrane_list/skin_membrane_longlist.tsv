@@ -1,0 +1,102 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000167769	ACER1	skin	88.1	0		1	Diffusing capacity of carbon monoxide
+ENSG00000185101	ANO9	skin	27.8	0		1	Nevus count or cutaneous melanoma;Metastatic colorectal cancer survival in treatment with chemotherapy plus biologics
+ENSG00000154856	APCDD1	skin	129.8	0		1	Triglyceride levels;Non-small cell lung cancer;Cardiovascular risk factors (age interaction);Serum protein levels (sST2);Metabolite levels (Pyroglutamine)
+ENSG00000165272	AQP3	skin	581.9	0		1	Lung adenocarcinoma;Neuroblastoma or malignant cutaneous melanoma
+ENSG00000062096	ARSF	skin	5.6	0		1	Tuberculosis (SNP x SNP interaction)
+ENSG00000128203	ASPHD2	skin	11.1	0		1	Metabolite levels;3-month functional outcome in ischaemic stroke (modified Rankin score)
+ENSG00000244617	ASPRV1	skin	424	0		1	Acne (severe)
+ENSG00000181652	ATG9B	skin	11.5	0		1	Eyebrow thickness;Femur bone mineral density x serum urate levels interaction
+ENSG00000064270	ATP2C2	skin	26	1	ATPase secretory pathway Ca2+ transporting 2	1	Metabolite levels;Chronic obstructive pulmonary disease-related biomarkers;Peanut allergy (parent-of-origin effect);Cardiovascular death, myocardial infarction or stroke in response to clopidogrel treatment;Attention deficit hyperactivity disorder
+ENSG00000114529	C3orf52	skin	26.3	0		1	Eosinophil counts;Eosinophil percentage of white cells
+ENSG00000074410	CA12	skin	142.1	1	Carbonic anhydrase 12	1	Number of decayed, missing and filled tooth surfaces or use of dentures;Number of decayed, missing and filled tooth surfaces;Dentures;Refractive error;Daytime nap
+ENSG00000116031	CD207	skin	87.7	0		1	Acne (severe);Gut microbiota (bacterial taxa, rank normal transformation method);Serum metabolite levels;Erythema nodosum in inflammatory bowel disease;Atopic dermatitis
+ENSG00000075275	CELSR1	skin	31.5	0		1	Heel bone mineral density;Urate levels in obese individuals;HDL cholesterol change in response to fenofibrate in statin-treated type 2 diabetes;Disease progression in age-related macular degeneration (adjusted for baseline);Iris color (L* coordinate)
+ENSG00000154227	CERS3	skin	64	0		1	Childhood body mass index;Cotinine glucuronidation
+ENSG00000137975	CLCA2	skin	88.7	0		1	Hallux valgus;Crohns disease-related phenotypes
+ENSG00000163347	CLDN1	skin	288.2	0		1	Metabolite levels;Bone mineral density;Psychosis proneness (hypomanic personality scale)
+ENSG00000188393	CLEC2A	skin	57.6	0		1	Malaria
+ENSG00000065618	COL17A1	skin	580.3	0		1	Cardiac hypertrophy
+ENSG00000109182	CWH43	skin	25.5	0		1	Diastolic blood pressure;Systolic blood pressure;Estimated glomerular filtration rate;Response to hepatitis C treatment;Uterine fibroids
+ENSG00000171954	CYP4F22	skin	58.6	0		1	Lymphocyte count
+ENSG00000163331	DAPL1	skin	301	0		1	LDL cholesterol levels x long total sleep time interaction (2df test);LDL cholesterol levels x long total sleep time interaction (1df test);Alzheimers disease in APOE e4+ carriers;Obesity-related traits
+ENSG00000080166	DCT	skin	107.4	0		1	Metabolite levels
+ENSG00000143753	DEGS1	skin	535.6	0		1	Red blood cell count
+ENSG00000168350	DEGS2	skin	54.2	0		1	White matter hyperintensities;White matter hyperintensity volume (adjusted for hypertension);White matter hyperintensity volume;Periventricular white matter hyperintensities
+ENSG00000171462	DLK2	skin	12.7	0		1	Waist-to-hip ratio adjusted for BMI (age <50);Waist-to-hip ratio adjusted for BMI (age >50);Waist-to-hip ratio adjusted for BMI;Waist-to-hip ratio adjusted for BMI x sex x age interaction (4df test);Blood protein levels
+ENSG00000134765	DSC1	skin	228.8	0		1	Multiple sclerosis
+ENSG00000134760	DSG1	skin	564.4	0		1	Eosinophilic esophagitis (pediatric);Yeast infection;perceptual and visual search speed (trail making test A) (age interaction);Schizophrenia
+ENSG00000143590	EFNA3	skin	102.4	0		1	Refractive error;Body fat distribution (leg fat ratio);Body fat distribution (trunk fat ratio);Cataracts (operation)
+ENSG00000243364	EFNA4	skin	30.2	0		1	Adventurousness;Body fat distribution (leg fat ratio);Body fat distribution (trunk fat ratio)
+ENSG00000119915	ELOVL3	skin	30.5	0		1	Refractive error;Smoking initiation;Waist-to-hip ratio adjusted for BMI (age >50);Waist-to-hip ratio adjusted for BMI;Waist-to-hip ratio adjusted for BMI x sex x age interaction (4df test)
+ENSG00000182580	EPHB3	skin	51.5	0		1	Nose size;Nicotine dependence symptom count;White matter hyperintensity volume x hypertension interaction (2df);Facial morphology traits (63 three-dimensional facial segments)
+ENSG00000158220	ESYT3	skin	7.7	0		1	Chronotype;Hodgkins lymphoma
+ENSG00000086570	FAT2	skin	56	0		1	Stroke
+ENSG00000179639	FCER1A	skin	33.6	1	Fc fragment of IgE receptor Ia	1	C-reactive protein;White blood cell count;IgE levels
+ENSG00000068078	FGFR3	skin	271.5	1	Fibroblast growth factor receptor 3	1	Bladder cancer;Chronic obstructive pulmonary disease-related biomarkers;Plateletcrit;Neutrophil percentage of white cells
+ENSG00000111432	FZD10	skin	9.4	0		1	Male-pattern baldness;Gambling;Femur bone mineral density x serum urate levels interaction
+ENSG00000197093	GAL3ST4	skin	27.7	0		1	Refractive error;Brain morphology (MOSTest);Subcortical volume (MOSTest)
+ENSG00000167741	GGT6	skin	56.2	0		1	Rheumatoid arthritis;Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)
+ENSG00000189433	GJB4	skin	43.1	0		1	Triglyceride levels x thiazide or thiazide-like diuretics use interaction
+ENSG00000063660	GPC1	skin	226	0		1	Blood protein levels;Brain imaging in schizophrenia (dorsolateral prefrontal cortex interaction);BMI x SSRI levels interaction in schizophrenia or bipolar disorder
+ENSG00000136235	GPNMB	skin	581.2	0		1	Parkinsons disease;Parkinsons disease or first degree relation to individual with Parkinsons disease;Blood protein levels
+ENSG00000132975	GPR12	skin	5.4	0		1	Birth length;Height;Waist circumference adjusted for BMI (adjusted for smoking behaviour)
+ENSG00000111291	GPRC5D	skin	47.8	0		1	Femur bone mineral density x serum urate levels interaction
+ENSG00000182782	HCAR2	skin	30.2	1	Hydroxycarboxylic acid receptor 2	1	Metabolic syndrome;Lead levels;High altitude adaptation;Reticulocyte count
+ENSG00000255398	HCAR3	skin	17.4	1	Hydroxycarboxylic acid receptor 3	1	Thrombin-activatable fibrinolysis inhibitor levels;Waist-to-hip ratio adjusted for BMI (recessive genetic model);Waist-to-hip ratio adjusted for BMI
+ENSG00000232629	HLA-DQB2	skin	52.4	0		1	Chronic hepatitis B infection;Hepatitis B;Squamous cell lung carcinoma;Asthma
+ENSG00000123388	HOXC11	skin	5	0		1	Waist-to-hip ratio adjusted for BMI (age <50);Waist-to-hip ratio adjusted for BMI (age >50);Waist-to-hip ratio adjusted for BMI;Waist-to-hip ratio adjusted for BMI x sex x age interaction (4df test);Haemorrhoidal disease
+ENSG00000085552	IGSF9	skin	23.3	0		1	Schizophrenia;Parkinsons disease;Bipolar disorder;Parkinsons disease or first degree relation to individual with Parkinsons disease;Autism spectrum disorder or schizophrenia
+ENSG00000163701	IL17RE	skin	31	0		1	Acne (severe);Ulcerative colitis;Heel bone mineral density x serum urate levels interaction
+ENSG00000115598	IL1RL2	skin	12.3	0		1	Self-reported allergy;Asthma;Blood protein levels
+ENSG00000016402	IL20RA	skin	37.7	0		1	Type 2 diabetes;Multiple sclerosis
+ENSG00000260458	KCNJ18	skin	7.6	0		1	Body mass index
+ENSG00000173338	KCNK7	skin	90	0		1	Acne (severe);Rosacea symptom severity
+ENSG00000256797	KLRF2	skin	11.9	0		1	Malaria
+ENSG00000172061	LRRC15	skin	7.3	0		1	Blood protein levels
+ENSG00000213903	LTB4R	skin	110.1	0		1	Parent of origin effect on language impairment (paternal);Anorectal malformation;Height
+ENSG00000213906	LTB4R2	skin	46.4	0		1	Anorectal malformation;Height
+ENSG00000204421	LY6G6C	skin	511.5	0		1	Asthma;Asthma (childhood onset);Asthma and major depressive disorder
+ENSG00000244355	LY6G6D	skin	24.7	0		1	Asthma;Asthma (childhood onset);Asthma and major depressive disorder
+ENSG00000124466	LYPD3	skin	669.3	0		1	Cotinine glucuronidation
+ENSG00000159871	LYPD5	skin	50.6	0		1	Reading or mathematical ability;Breast cancer
+ENSG00000168389	MFSD2A	skin	87.8	0		1	Triglyceride levels;Time to smoke first cigarette in the morning;Refractive error;Hematocrit;Hemoglobin
+ENSG00000120215	MLANA	skin	42.9	0		1	Asthma;Hippocampal volume in mild cognitive impairment;Multiple sclerosis
+ENSG00000204420	MPIG6B	skin	8.3	0		1	Hypertension
+ENSG00000160588	MPZL3	skin	30.4	0		1	Non-small cell lung cancer;Sleep duration (long sleep);Monocyte percentage of white cells
+ENSG00000164078	MST1R	skin	62.3	0		1	Ulcerative colitis;Refractive error;Body mass index;Age at first birth
+ENSG00000136997	MYC	skin	289.1	0		1	Urinary bladder cancer;Chronic lymphocytic leukemia;Renal cell carcinoma;Height;Metabolite levels
+ENSG00000163293	NIPAL1	skin	25.7	0		1	Gout;Renal underexcretion gout;Serum metabolite levels;Uterine fibroids;Spondylosis
+ENSG00000172548	NIPAL4	skin	61.2	0		1	Asthma
+ENSG00000179846	NKPD1	skin	15.9	0		1	Cerebrospinal fluid AB1-42 levels;Alzheimers disease or HDL levels (pleiotropy);Alzheimers disease or family history of Alzheimers disease
+ENSG00000168824	NSG1	skin	120.9	0		1	Peginterferon alfa-2a treatment response in chronic hepatitis B infection
+ENSG00000112378	PERP	skin	1115.1	0		1	Systemic lupus erythematosus;Alanine aminotransferase (ALT) levels after remission induction therapy in actute lymphoblastic leukemia (ALL);Bulimia nervosa
+ENSG00000106278	PTPRZ1	skin	31.9	0		1	Lung adenocarcinoma;Heel bone mineral density;Hand grip strength
+ENSG00000164520	RAET1E	skin	21.6	0		1	Brain morphology (MOSTest);Subcortical volume (MOSTest)
+ENSG00000168476	REEP4	skin	91	0		1	Hypertriglyceridemia;Frailty index
+ENSG00000115884	SDC1	skin	447.4	0		1	Amyotrophic lateral sclerosis (sporadic);Seasonality;Triglyceride levels;LDL cholesterol levels;HDL cholesterol levels
+ENSG00000170786	SDR16C5	skin	62.6	0		1	Height;Refractive error
+ENSG00000142178	SIK1	skin	88	0		1	Red vs. brown/black hair color;Blond vs. brown/black hair color;Diastolic blood pressure;Systolic blood pressure
+ENSG00000145283	SLC10A6	skin	13.4	0		1	Refractive error;Eyebrow thickness;Insulin-related traits
+ENSG00000188467	SLC24A5	skin	8.2	0		1	Adventurousness;Skin pigmentation;Cutaneous melanoma or hair colour
+ENSG00000117394	SLC2A1	skin	79.8	0		1	Metabolite levels;Parkinsons disease;High chromosomal aberration frequency (chromosome type);Disability (impaired activities of daily living);Sleep duration (> 10 hours)
+ENSG00000137968	SLC44A5	skin	10.7	0		1	Self-reported tiredness;Serum metabolite levels;Serum metabolite concentrations in chronic kidney disease;Serum metabolite ratios in chronic kidney disease
+ENSG00000196517	SLC6A9	skin	46.6	0		1	Refractive error;Autism spectrum disorder or schizophrenia;Attention deficit hyperactivity disorder or cannabis use;Mean corpuscular volume;Mean corpuscular hemoglobin
+ENSG00000196542	SPTSSB	skin	45.5	0		1	Parkinsons disease;Number of sexual partners;Parkinsons disease or first degree relation to individual with Parkinsons disease;IgG1 response to Plasmodium falciparum antigen (GLURP);Morning person
+ENSG00000149043	SYT8	skin	65.5	0		1	Logical memory (delayed recall) in mild cognitive impairment;Celiac disease
+ENSG00000184292	TACSTD2	skin	438.8	1	Tumor associated calcium signal transducer 2	1	Calcific aortic valve stenosis;Nickel levels
+ENSG00000167695	TLCD3A	skin	71.7	0		1	joint destruction in rheumatoid arthritis (rapid vs slow)
+ENSG00000170006	TMEM154	skin	58.5	0		1	Type 2 diabetes;Obstructive sleep apnea during REM sleep (apnea hypopnea index)
+ENSG00000088726	TMEM40	skin	64.7	0		1	Left ventricular ejection fraction;Waist-to-hip ratio adjusted for BMI (age <50);Waist-to-hip ratio adjusted for BMI (age >50);Waist-to-hip ratio adjusted for BMI;Waist-to-hip ratio adjusted for BMI x sex x age interaction (4df test)
+ENSG00000181458	TMEM45A	skin	475.1	0		1	Refractive error;Skin aging (microtopography measurement);Fasting glucose
+ENSG00000163472	TMEM79	skin	89.9	0		1	Glycated hemoglobin levels;Mean corpuscular hemoglobin concentration
+ENSG00000151117	TMEM86A	skin	17.6	0		1	Ovarian reserve
+ENSG00000186891	TNFRSF18	skin	38.5	0		1	Inflammatory bowel disease
+ENSG00000127863	TNFRSF19	skin	107.5	0		1	Blood pressure (smoking interaction);Heel bone mineral density;Nasopharyngeal carcinoma;Blood protein levels
+ENSG00000077498	TYR	skin	31.6	1	Tyrosinase	1	Vitiligo;Amyotrophic lateral sclerosis (sporadic);Metabolite levels;Systemic lupus erythematosus;Fish- and plant-related diet
+ENSG00000168671	UGT3A2	skin	10.3	0		1	Cleft palate;Gut microbiota (bacterial taxa, rank normal transformation method)
+ENSG00000162738	VANGL2	skin	37.6	0		1	Multiple sclerosis;Brain morphology (MOSTest);Cortical thickness (MOSTest);Subcortical volume (MOSTest);Brain morphology (min-P)
+ENSG00000243284	VSIG8	skin	25.6	0		1	Red blood cell density in sickle cell anemia
+ENSG00000135925	WNT10A	skin	8.9	0		1	Triglyceride levels;Number of decayed, missing and filled tooth surfaces or use of dentures;Dentures;Acne (severe)
+ENSG00000162552	WNT4	skin	40.8	0		1	Epithelial ovarian cancer;Bone mineral density (paediatric, lower limb);Bone mineral density (paediatric, total body less head)
+ENSG00000124343	XG	skin	38.6	0		1	Resting oxygen saturation in chronic osbtructive pulmonary disease (pulse oxymetry);Energy expenditure (24h);Smoking status (ever vs never smokers);Number of sexual partners;Lung function in heavy smokers (high FEV1 vs average FEV1)

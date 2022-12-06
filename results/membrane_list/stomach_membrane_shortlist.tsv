@@ -1,0 +1,10 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000105675	ATP4A	stomach	841.9	1	ATPase H+/K+ transporting subunit alpha	1	Platelet count
+ENSG00000186009	ATP4B	stomach	1096.8	1	ATPase H+/K+ transporting subunit beta	1	Height
+ENSG00000107159	CA9	stomach	289.3	1	Carbonic anhydrase 9	1	Circulating leptin levels x sex interaction in high cardiovascular risk;Gestational age at birth (child effect);Schizophrenia x sex interaction
+ENSG00000163394	CCKAR	stomach	16.5	1	Cholecystokinin A receptor	0	
+ENSG00000053918	KCNQ1	stomach	98.9	1	Potassium voltage-gated channel subfamily Q member 1	1	Glucose homeostasis traits;Type 2 diabetes;Plasma amyloid beta peptide concentrations (ABx-40);Height
+ENSG00000026751	SLAMF7	stomach	34.2	1	SLAM family member 7	1	Blood protein levels;Microalbuminuria;Inflammatory bowel disease;Multiple sclerosis
+ENSG00000066230	SLC9A3	stomach	50.1	1	Solute carrier family 9 member A3	1	Pulse pressure;Systolic blood pressure;Diastolic blood pressure;Hemoglobin levels;Monocyte percentage of white cells
+ENSG00000139874	SSTR1	stomach	21.7	1	Somatostatin receptor 1	1	Chromium levels;Coronary artery aneurysm in Kawasaki disease;Metabolite levels (5-HIAA/ MHPG Ratio)
+ENSG00000104321	TRPA1	stomach	10.3	1	Transient receptor potential cation channel subfamily A member 1	1	Metabolite levels;Lung cancer in ever smokers;Waist-to-hip ratio adjusted for BMI;Waist-to-hip ratio adjusted for BMI x sex x age interaction (4df test);Coronary artery disease

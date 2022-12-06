@@ -1,0 +1,23 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000159640	ACE	colon	11.2	1	Angiotensin I converting enzyme	1	Blood metabolite ratios;Blood metabolite levels
+ENSG00000064270	ATP2C2	colon	30.1	1	ATPase secretory pathway Ca2+ transporting 2	1	Metabolite levels;Chronic obstructive pulmonary disease-related biomarkers;Peanut allergy (parent-of-origin effect);Cardiovascular death, myocardial infarction or stroke in response to clopidogrel treatment;Attention deficit hyperactivity disorder
+ENSG00000167434	CA4	colon	263.6	1	Carbonic anhydrase 4	1	Inflammatory skin disease;Apolipoprotein B levels;Non-oily fish consumption;Oily fish consumption;Pork consumption
+ENSG00000151067	CACNA1C	colon	29.9	1	Calcium voltage-gated channel subunit alpha1 C	1	Fractional exhaled nitric oxide (childhood);Schizophrenia;Schizophrenia or bipolar disorder
+ENSG00000196557	CACNA1H	colon	107.7	1	Calcium voltage-gated channel subunit alpha1 H	1	Mastocytosis (KIT D816V positive);Leukocyte telomere length;Eosinophil counts
+ENSG00000001626	CFTR	colon	42.7	1	CF transmembrane conductance regulator	1	Response to methotrexate in juvenile idiopathic arthritis;Waist-to-hip ratio adjusted for BMI;Waist-to-hip ratio adjusted for BMI x sex x age interaction (4df test);Barretts esophagus  or Esophageal adenocarcinoma
+ENSG00000181072	CHRM2	colon	21.2	1	Cholinergic receptor muscarinic 2	1	General risk tolerance (MTAG);Resting heart rate;Heart rate response to recovery post exercise (40 sec);Heart rate response to recovery post exercise (50 sec);Heart rate response to recovery post exercise (30 sec)
+ENSG00000114859	CLCN2	colon	16.2	1	Chloride voltage-gated channel 2	1	General cognitive ability
+ENSG00000119888	EPCAM	colon	806	1	Epithelial cell adhesion molecule	1	epithelial cell adhesion molecule levels;Severe insulin-deficient type 2 diabetes
+ENSG00000186188	FFAR4	colon	8.3	1	Free fatty acid receptor 4	1	Triglyceride levels;HDL cholesterol levels;Response to (pegylated) interferon in chronic hepatitis B;Waist-to-hip ratio adjusted for BMI
+ENSG00000065325	GLP2R	colon	13.5	1	Glucagon like peptide 2 receptor	1	Type 2 diabetes;GIP levels in response to oral glucose tolerance test (fasting);Iron status biomarkers (ferritin levels);Femur bone mineral density x serum urate levels interaction
+ENSG00000163873	GRIK3	colon	7.8	1	Glutamate ionotropic receptor kainate type subunit 3	1	Neuroticism;Iron status biomarkers (transferrin saturation);Iron status biomarkers (total iron binding capacity);Post bronchodilator FEV1/FVC ratio
+ENSG00000070019	GUCY2C	colon	37.2	1	Guanylate cyclase 2C	0	
+ENSG00000147168	IL2RG	colon	98.9	1	Interleukin 2 receptor subunit gamma	0	
+ENSG00000145936	KCNMB1	colon	75.1	1	Potassium calcium-activated channel subfamily M regulatory beta subunit 1	1	Acne (severe);Liver transplant-free survival in primary sclerosing cholangitis (time to event)
+ENSG00000189221	MAOA	colon	116.4	1	Monoamine oxidase A	1	Smoking behavior;Tuberculosis (SNP x SNP interaction)
+ENSG00000168447	SCNN1B	colon	94.2	1	Sodium channel epithelial 1 subunit beta	1	Kidney stones
+ENSG00000090402	SI	colon	17.6	1	Sucrase-isomaltase	1	Vitamin B levels in ischemic stroke;Height;Inflammatory skin disease;Metabolite levels
+ENSG00000026751	SLAMF7	colon	32.6	1	SLAM family member 7	1	Blood protein levels;Microalbuminuria;Inflammatory bowel disease;Multiple sclerosis
+ENSG00000155465	SLC7A7	colon	13.8	1	Solute carrier family 7 member 7	1	Intraocular pressure;Type 2 diabetes;Cardiovascular death, myocardial infarction or stroke in response to clopidogrel treatment;Psychological resilience (outcome-based) in high deployment stress exposure;Resting-state electroencephalogram vigilance
+ENSG00000066230	SLC9A3	colon	94.3	1	Solute carrier family 9 member A3	1	Pulse pressure;Systolic blood pressure;Diastolic blood pressure;Hemoglobin levels;Monocyte percentage of white cells
+ENSG00000104321	TRPA1	colon	7.9	1	Transient receptor potential cation channel subfamily A member 1	1	Metabolite levels;Lung cancer in ever smokers;Waist-to-hip ratio adjusted for BMI;Waist-to-hip ratio adjusted for BMI x sex x age interaction (4df test);Coronary artery disease

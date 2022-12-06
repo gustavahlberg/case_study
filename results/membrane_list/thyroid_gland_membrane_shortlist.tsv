@@ -1,0 +1,9 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000100346	CACNA1I	thyroid_gland	5.3	1	Calcium voltage-gated channel subunit alpha1 I	1	Refractive error;Response to methotrexate in juvenile idiopathic arthritis;Autism spectrum disorder or schizophrenia;Household income (MTAG);Cognitive ability (MTAG)
+ENSG00000161509	GRIN2C	thyroid_gland	16.6	1	Glutamate ionotropic receptor NMDA type subunit 2C	1	Congenital heart disease (maternal effect);Femur bone mineral density x serum urate levels interaction
+ENSG00000259207	ITGB3	thyroid_gland	51.4	1	Integrin subunit beta 3	1	Chromosomal aberration frequency (chromosome type) in genotoxic compound exposure;High chromosomal aberration frequency (chromosome type);Mean platelet volume;Eosinophil counts;Eosinophil percentage of white cells
+ENSG00000131398	KCNC3	thyroid_gland	52.1	1	Potassium voltage-gated channel subfamily C member 3	0	
+ENSG00000157551	KCNJ15	thyroid_gland	129.5	1	Potassium inwardly rectifying channel subfamily J member 15	1	Metabolite levels;Height;Non-response to antidepressants and depression
+ENSG00000148053	NTRK2	thyroid_gland	116.9	1	Neurotrophic receptor tyrosine kinase 2	1	Gout (normal type);Refractive error;Menarche (age at onset);Body mass index;Lifetime anxiety disorder
+ENSG00000115705	TPO	thyroid_gland	1588.2	1	Thyroid peroxidase	1	Thyroid peroxidase antibody positivity;Thyroid peroxidase antibody levels;Hypothyroidism;Autoimmune thyroid disease
+ENSG00000165409	TSHR	thyroid_gland	273.9	1	Thyroid stimulating hormone receptor	1	Maximal oxygen uptake response;Graves disease;Obstetric antiphospholipid syndrome;Tourette syndrome;Thyroid stimulating hormone levels

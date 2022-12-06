@@ -1,0 +1,17 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000180772	AGTR2	smooth_muscle	13.2	0		1	Type 2 diabetes;Lung disease severity in cystic fibrosis
+ENSG00000058668	ATP2B4	smooth_muscle	175.3	1	ATPase plasma membrane Ca2+ transporting 4	1	Mean corpuscular hemoglobin concentration;Hemoglobin levels;Mean corpuscular volume;Red cell distribution width;Hemoglobin concentration
+ENSG00000143147	GPR161	smooth_muscle	27.6	0		1	Red cell distribution width
+ENSG00000089472	HEPH	smooth_muscle	82.7	0		1	Erectile dysfunction and prostate cancer treatment;Obesity-related traits;Male-pattern baldness
+ENSG00000135914	HTR2B	smooth_muscle	16.8	1	5-hydroxytryptamine receptor 2B	1	Proportion of activated microglia (midfrontal cortex);Thiazide-induced adverse metabolic effects in hypertensive patients
+ENSG00000137809	ITGA11	smooth_muscle	25	0		1	Perceived intensity of fructose;Systolic blood pressure;Dupuytrens disease;Major depressive disorder
+ENSG00000161638	ITGA5	smooth_muscle	361.9	0		1	Waist-to-hip ratio adjusted for BMI x sex x age interaction (4df test)
+ENSG00000152049	KCNE4	smooth_muscle	37.5	0		1	Coronary artery disease in type 1 diabetes;Mean platelet volume;Systolic blood pressure x smoking status (current vs non-current) interaction (1df test);Weight;Diastolic blood pressure x smoking status (current vs non-current) interaction (2df test)
+ENSG00000145936	KCNMB1	smooth_muscle	53.1	1	Potassium calcium-activated channel subfamily M regulatory beta subunit 1	1	Acne (severe);Liver transplant-free survival in primary sclerosing cholangitis (time to event)
+ENSG00000174482	LINGO2	smooth_muscle	8.8	0		1	Endometrial cancer;Type 2 diabetes;BMI (adjusted for smoking behaviour)
+ENSG00000079931	MOXD1	smooth_muscle	78.6	0		1	Height;Obesity-related traits
+ENSG00000065534	MYLK	smooth_muscle	2137.7	0		1	Parkinsons disease;Heel bone mineral density;Recurrence of mild malaria attacks;Plateletcrit;Mean corpuscular volume
+ENSG00000280165	PCDH20	smooth_muscle	9	0		1	Schizophrenia;General risk tolerance (MTAG);HDL cholesterol levels x thiazide or thiazide-like diuretics use interaction;Response to carboplatin and paclitaxel in ovarian cancer (Caspase 3/7 EC50);Benign childhood epilepsy with centro-temporal spikes
+ENSG00000050628	PTGER3	smooth_muscle	68	1	Prostaglandin E receptor 3	1	Proximal colorectal cancer;Colon cancer;Dental caries (decayed, missing and filled teeth);Verbal declarative memory;Intelligence (MTAG)
+ENSG00000154096	THY1	smooth_muscle	304.7	0		1	Refractive error
+ENSG00000133107	TRPC4	smooth_muscle	12.6	0		1	Fish- and plant-related diet;HDL cholesterol levels;Heel bone mineral density;Smoking initiation;Waist-to-hip ratio adjusted for BMI (age >50)

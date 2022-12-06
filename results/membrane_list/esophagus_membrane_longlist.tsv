@@ -1,0 +1,83 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000165272	AQP3	esophagus	1526.1	0		1	Lung adenocarcinoma;Neuroblastoma or malignant cutaneous melanoma
+ENSG00000181652	ATG9B	esophagus	8.3	0		1	Eyebrow thickness;Femur bone mineral density x serum urate levels interaction
+ENSG00000174950	CD164L2	esophagus	19.9	0		1	Psoriasis
+ENSG00000163814	CDCP1	esophagus	37.2	0		1	Acne (severe);Statin-induced myopathy (severe);Cerebrospinal AB1-42 levels in normal cognition;Metabolite levels
+ENSG00000086548	CEACAM6	esophagus	195.2	0		1	Serum carcinoembryonic antigen levels
+ENSG00000154227	CERS3	esophagus	55.1	0		1	Childhood body mass index;Cotinine glucuronidation
+ENSG00000137975	CLCA2	esophagus	117.5	0		1	Hallux valgus;Crohns disease-related phenotypes
+ENSG00000016602	CLCA4	esophagus	373.9	0		1	Fasting glucose
+ENSG00000181885	CLDN7	esophagus	341.3	0		1	Birth weight;Multiple sclerosis;Offspring birth weight;Lung function (FVC)
+ENSG00000109182	CWH43	esophagus	21	0		1	Diastolic blood pressure;Systolic blood pressure;Estimated glomerular filtration rate;Response to hepatitis C treatment;Uterine fibroids
+ENSG00000180871	CXCR2	esophagus	27.2	0		1	Age-related cognitive decline (language) (slope of z-scores);Granulocyte percentage of myeloid white cells;Monocyte percentage of white cells;White blood cell count;Sum neutrophil eosinophil counts
+ENSG00000171954	CYP4F22	esophagus	18.8	0		1	Lymphocyte count
+ENSG00000163331	DAPL1	esophagus	242	0		1	LDL cholesterol levels x long total sleep time interaction (2df test);LDL cholesterol levels x long total sleep time interaction (1df test);Alzheimers disease in APOE e4+ carriers;Obesity-related traits
+ENSG00000168350	DEGS2	esophagus	37	0		1	White matter hyperintensities;White matter hyperintensity volume (adjusted for hypertension);White matter hyperintensity volume;Periventricular white matter hyperintensities
+ENSG00000171462	DLK2	esophagus	12.3	0		1	Waist-to-hip ratio adjusted for BMI (age <50);Waist-to-hip ratio adjusted for BMI (age >50);Waist-to-hip ratio adjusted for BMI;Waist-to-hip ratio adjusted for BMI x sex x age interaction (4df test);Blood protein levels
+ENSG00000134755	DSC2	esophagus	164	0		1	Metabolite levels;Bronchopulmonary dysplasia;Blood protein levels;Response to immune checkpoint inhibitors in melanoma (immune-related adverse events)
+ENSG00000134757	DSG3	esophagus	313.9	0		1	Parkinsons disease (age of onset);Survival in colon cancer
+ENSG00000178690	DYNAP	esophagus	29.3	0		1	Allergic disease (asthma, hay fever or eczema);Body mass index
+ENSG00000143590	EFNA3	esophagus	30.9	0		1	Refractive error;Body fat distribution (leg fat ratio);Body fat distribution (trunk fat ratio);Cataracts (operation)
+ENSG00000134531	EMP1	esophagus	2255.1	0		1	Height;Metabolite levels;Amyotrophic lateral sclerosis
+ENSG00000182585	EPGN	esophagus	49	0		1	Breast size;Immune reponse to smallpox (secreted IL-1beta)
+ENSG00000142627	EPHA2	esophagus	147.9	1	EPH receptor A2	1	Blood protein levels;Gamma glutamyl transferase levels;Liver enzyme levels (gamma-glutamyl transferase);Alanine aminotransferase levels;Aspartate aminotransferase levels
+ENSG00000135476	ESPL1	esophagus	15.4	0		1	Lumbar spine bone mineral density;Femoral neck bone mineral density
+ENSG00000086570	FAT2	esophagus	50.9	0		1	Stroke
+ENSG00000068078	FGFR3	esophagus	139.7	1	Fibroblast growth factor receptor 3	1	Bladder cancer;Chronic obstructive pulmonary disease-related biomarkers;Plateletcrit;Neutrophil percentage of white cells
+ENSG00000171124	FUT3	esophagus	158.7	0		1	Blood protein levels;Elevated serum carcinoembryonic antigen levels;Vitamin B12 levels
+ENSG00000156413	FUT6	esophagus	79.4	0		1	Elevated serum carcinoembryonic antigen levels;Vitamin B12 levels;White blood cell count (basophil);Basophil percentage of granulocytes
+ENSG00000111432	FZD10	esophagus	16.7	0		1	Male-pattern baldness;Gambling;Femur bone mineral density x serum urate levels interaction
+ENSG00000094755	GABRP	esophagus	171.5	1	Gamma-aminobutyric acid type A receptor subunit pi	1	Response to immune checkpoint inhibitors in melanoma (immune-related adverse events);Femur bone mineral density x serum urate levels interaction
+ENSG00000102886	GDPD3	esophagus	45.6	0		1	Schizophrenia;Body fat distribution (arm fat ratio);Autism spectrum disorder or schizophrenia;Brain morphology (MOSTest)
+ENSG00000167741	GGT6	esophagus	53.8	0		1	Rheumatoid arthritis;Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)
+ENSG00000165474	GJB2	esophagus	812.1	0		1	Facial emotion recognition (happy faces)
+ENSG00000121742	GJB6	esophagus	195.4	0		1	Facial emotion recognition (happy faces);Triglyceride levels x fish oil supplementation interaction (1df)
+ENSG00000103044	HAS3	esophagus	33.5	0		1	Body mass index;Brain morphology (MOSTest);Attention deficit hyperactivity disorder;Diastolic blood pressure
+ENSG00000182782	HCAR2	esophagus	40.8	1	Hydroxycarboxylic acid receptor 2	1	Metabolic syndrome;Lead levels;High altitude adaptation;Reticulocyte count
+ENSG00000255398	HCAR3	esophagus	16.8	1	Hydroxycarboxylic acid receptor 3	1	Thrombin-activatable fibrinolysis inhibitor levels;Waist-to-hip ratio adjusted for BMI (recessive genetic model);Waist-to-hip ratio adjusted for BMI
+ENSG00000184574	LPAR5	esophagus	20.9	0		1	Triglyceride levels;HDL cholesterol levels;Apolipoprotein A1 levels;Mean reticulocyte volume;Mean corpuscular volume
+ENSG00000213903	LTB4R	esophagus	103.1	0		1	Parent of origin effect on language impairment (paternal);Anorectal malformation;Height
+ENSG00000213906	LTB4R2	esophagus	37.7	0		1	Anorectal malformation;Height
+ENSG00000124466	LYPD3	esophagus	1066.8	0		1	Cotinine glucuronidation
+ENSG00000172005	MAL	esophagus	2817.9	0		1	Blood pressure (smoking interaction);Metabolite levels;Colorectal cancer (diet interaction);Acne (severe)
+ENSG00000147676	MAL2	esophagus	259.2	0		1	Blood pressure (smoking interaction);Osteoprotegerin levels;Crohns disease
+ENSG00000149573	MPZL2	esophagus	222.5	0		1	Lung cancer in ever smokers;Lung cancer;Lung adenocarcinoma;Sleep duration (long sleep)
+ENSG00000160588	MPZL3	esophagus	33.3	0		1	Non-small cell lung cancer;Sleep duration (long sleep);Monocyte percentage of white cells
+ENSG00000204544	MUC21	esophagus	696.3	0		1	White blood cell count;Autism spectrum disorder or schizophrenia
+ENSG00000261272	MUC22	esophagus	17.8	0		1	Squamous cell lung carcinoma;Height;Refractive error;Autism spectrum disorder or schizophrenia
+ENSG00000145113	MUC4	esophagus	19.2	0		1	Red blood cell density in sickle cell anemia;Lung disease severity in cystic fibrosis
+ENSG00000172927	MYEOV	esophagus	9.6	0		1	Height;Pulse pressure;Diastolic blood pressure
+ENSG00000185633	NDUFA4L2	esophagus	304.9	0		1	Schizophrenia;Asthma;Autism spectrum disorder or schizophrenia
+ENSG00000163293	NIPAL1	esophagus	21.8	0		1	Gout;Renal underexcretion gout;Serum metabolite levels;Uterine fibroids;Spondylosis
+ENSG00000163545	NUAK2	esophagus	56.7	0		1	Meat-related diet;Refractive error;Brain morphology (MOSTest);Cortical thickness (MOSTest);Subcortical volume (MOSTest)
+ENSG00000175591	P2RY2	esophagus	29.7	0		1	Glucose homeostasis traits;Number of decayed, missing and filled tooth surfaces or use of dentures;Dentures;Systemic lupus erythematosus;White blood cell count (basophil)
+ENSG00000112378	PERP	esophagus	782.9	0		1	Systemic lupus erythematosus;Alanine aminotransferase (ALT) levels after remission induction therapy in actute lymphoblastic leukemia (ALL);Bulimia nervosa
+ENSG00000164520	RAET1E	esophagus	62.8	0		1	Brain morphology (MOSTest);Subcortical volume (MOSTest)
+ENSG00000203722	RAET1G	esophagus	15.1	0		1	Brain morphology (MOSTest);Subcortical volume (MOSTest);Heel bone mineral density x serum urate levels interaction
+ENSG00000168476	REEP4	esophagus	89.3	0		1	Hypertriglyceridemia;Frailty index
+ENSG00000158315	RHBDL2	esophagus	24.4	0		1	Triglyceride levels;Beard thickness;Menopause (age at onset);Sweet beverage consumption
+ENSG00000140519	RHCG	esophagus	4022.4	0		1	Number of decayed, missing and filled tooth surfaces or use of dentures;Dentures;Body size at age 10;Femur bone mineral density x serum urate levels interaction
+ENSG00000197747	S100A10	esophagus	1760.5	0		1	Asthma;Serum metabolite levels;Urinary metabolite ratios in chronic kidney disease
+ENSG00000168447	SCNN1B	esophagus	82.8	1	Sodium channel epithelial 1 subunit beta	1	Kidney stones
+ENSG00000115884	SDC1	esophagus	491.6	0		1	Amyotrophic lateral sclerosis (sporadic);Seasonality;Triglyceride levels;LDL cholesterol levels;HDL cholesterol levels
+ENSG00000170786	SDR16C5	esophagus	51.9	0		1	Height;Refractive error
+ENSG00000185033	SEMA4B	esophagus	124.4	0		1	Acne (severe);Pulse pressure;Frontal fibrosing alopecia;Serum alkaline phosphatase levels
+ENSG00000197641	SERPINB13	esophagus	180.4	0		1	Eosinophil counts;Eosinophil percentage of granulocytes;Sum eosinophil basophil counts
+ENSG00000145283	SLC10A6	esophagus	9.1	0		1	Refractive error;Eyebrow thickness;Insulin-related traits
+ENSG00000139514	SLC7A1	esophagus	55.1	0		1	Metabolite levels;Triglyceride levels;Systolic blood pressure;Asthma;Sleep duration (> 10 hours)
+ENSG00000170545	SMAGP	esophagus	139.8	0		1	Mean platelet volume
+ENSG00000166145	SPINT1	esophagus	255.5	0		1	Visceral adipose tissue/subcutaneous adipose tissue ratio;Malaria;Blood protein levels
+ENSG00000149043	SYT8	esophagus	29.2	0		1	Logical memory (delayed recall) in mild cognitive impairment;Celiac disease
+ENSG00000184292	TACSTD2	esophagus	989.6	1	Tumor associated calcium signal transducer 2	1	Calcific aortic valve stenosis;Nickel levels
+ENSG00000170006	TMEM154	esophagus	58.3	0		1	Type 2 diabetes;Obstructive sleep apnea during REM sleep (apnea hypopnea index)
+ENSG00000088726	TMEM40	esophagus	219.8	0		1	Left ventricular ejection fraction;Waist-to-hip ratio adjusted for BMI (age <50);Waist-to-hip ratio adjusted for BMI (age >50);Waist-to-hip ratio adjusted for BMI;Waist-to-hip ratio adjusted for BMI x sex x age interaction (4df test)
+ENSG00000151715	TMEM45B	esophagus	66.5	0		1	Night sleep phenotypes;Serum metabolite levels;Spontaneous preterm birth with premature rupture of membranes;Obesity-related traits;Type 2 diabetes
+ENSG00000163472	TMEM79	esophagus	132.4	0		1	Glycated hemoglobin levels;Mean corpuscular hemoglobin concentration
+ENSG00000187054	TMPRSS11A	esophagus	86.1	0		1	Regular attendance at a pub or social club
+ENSG00000137648	TMPRSS4	esophagus	108.7	0		1	Lean body mass
+ENSG00000100300	TSPO	esophagus	690.1	1	Translocator protein	1	Metabolite levels;Monocyte percentage of white cells;Monocyte count;Alzheimers disease (late onset);Gastric cancer
+ENSG00000244122	UGT1A7	esophagus	83.8	0		1	Serum metabolite levels
+ENSG00000131015	ULBP2	esophagus	6.1	0		1	Neurological blood protein biomarker levels
+ENSG00000105668	UPK1A	esophagus	43.2	0		1	Refractive error;Brain morphology (MOSTest)
+ENSG00000186806	VSIG10L	esophagus	62.3	0		1	Appendicular lean mass
+ENSG00000135925	WNT10A	esophagus	7	0		1	Triglyceride levels;Number of decayed, missing and filled tooth surfaces or use of dentures;Dentures;Acne (severe)

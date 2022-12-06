@@ -1,0 +1,6 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000188778	ADRB3	ovary	11.7	1	Adrenoceptor beta 3	0	
+ENSG00000012124	CD22	ovary	132.8	1	CD22 molecule	1	Rheumatoid arthritis;Plateletcrit;Immature fraction of reticulocytes;Platelet distribution width
+ENSG00000197584	KCNMB2	ovary	12.7	1	Potassium calcium-activated channel subfamily M regulatory beta subunit 2	1	Amyotrophic lateral sclerosis (sporadic);Response to lamotrigine in genetic generalized epilepsy;Chin dimples;Cough in response to angiotensin-converting enzyme inhibitor drugs;Hippocampal sclerosis
+ENSG00000134853	PDGFRA	ovary	190.2	1	Platelet derived growth factor receptor alpha	1	Lupus nephritis in systemic lupus erythematosus;Corneal curvature;Red blood cell count;Vertical cup-disc ratio (adjusted for vertical disc diameter);Uterine fibroids
+ENSG00000136546	SCN7A	ovary	45.4	1	Sodium voltage-gated channel alpha subunit 7	1	Amyotrophic lateral sclerosis;Metabolite levels;Response to cognitive-behavioural therapy in major depressive disorder

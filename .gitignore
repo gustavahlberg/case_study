@@ -13,4 +13,4 @@ modules/WGNCA/CytoscapeInput-edges-white.txt
 modules/WGNCA/CytoscapeInput-nodes-white.txt
 results/tissues/*
 !results/tissues/adipose_subcutaneous/
-
+*.pptx

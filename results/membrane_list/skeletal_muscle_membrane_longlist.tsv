@@ -1,0 +1,109 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000151726	ACSL1	skeletal_muscle	731.8	0		1	Type 2 diabetes;Night sleep phenotypes;Neuroblastoma or malignant cutaneous melanoma
+ENSG00000131069	ACSS2	skeletal_muscle	117.3	0		1	Bipolar disorder;Fish- and plant-related diet;Waist-to-hip ratio adjusted for BMI (age >50);Waist-to-hip ratio adjusted for BMI;Waist-to-hip ratio adjusted for BMI x sex x age interaction (4df test)
+ENSG00000162104	ADCY9	skeletal_muscle	52.9	0		1	Response to Dalcetrapib treatment in acute coronary syndrome;Height;Systolic blood pressure;Heel bone mineral density;Waist circumference
+ENSG00000121057	AKAP1	skeletal_muscle	207.8	0		1	Metabolite levels;Response to platinum-based chemotherapy (carboplatin);Bone mineral density;Systolic blood pressure;Heel bone mineral density
+ENSG00000151320	AKAP6	skeletal_muscle	47.5	0		1	Bipolar disorder;Type 2 diabetes;Refractive error;HDL cholesterol levels;Spherical equivalent or myopia (age of diagnosis)
+ENSG00000018625	ATP1A2	skeletal_muscle	882.2	0		1	Response to antipsychotic treatment;Electrocardiogram morphology (amplitude at temporal datapoints)
+ENSG00000157087	ATP2B2	skeletal_muscle	37.4	1	ATPase plasma membrane Ca2+ transporting 2	1	Amyotrophic lateral sclerosis (sporadic);Bipolar disorder;Autism spectrum disorder or schizophrenia;Manganese levels;Cognitive decline rate in late mild cognitive impairment
+ENSG00000099968	BCL2L13	skeletal_muscle	59.6	0		1	Hemoglobin levels;Sum neutrophil eosinophil counts;Granulocyte count;Myeloid white cell count;Neutrophil count
+ENSG00000176171	BNIP3	skeletal_muscle	214.4	0		1	High light scatter reticulocyte count;Night sleep phenotypes;High light scatter reticulocyte percentage of red cells;Red cell distribution width;Immature fraction of reticulocytes
+ENSG00000112276	BVES	skeletal_muscle	43.9	0		1	QT interval;Creatine kinase levels;Menarche (age at onset);Height
+ENSG00000118298	CA14	skeletal_muscle	33.7	1	Carbonic anhydrase 14	1	Schizophrenia;Bipolar disorder;Refractive error;Brain morphology (MOSTest);Cortical thickness (MOSTest)
+ENSG00000153956	CACNA2D1	skeletal_muscle	78.7	1	Calcium voltage-gated channel auxiliary subunit alpha2delta 1	1	Response to taxane treatment (docetaxel);Energy expenditure (24h);Spontaneous preterm birth (maternal effect);Gestational age at birth (maternal effect);Glaucoma (primary open-angle)
+ENSG00000157445	CACNA2D3	skeletal_muscle	9.9	1	Calcium voltage-gated channel auxiliary subunit alpha2delta 3	1	Endometrial cancer;Lung cancer in ever smokers;Type 2 diabetes;Obsessive compulsive disorder severity;Nose size
+ENSG00000058404	CAMK2B	skeletal_muscle	132.5	0		1	Osteoarthritis (hip);Triglyceride levels;Systolic blood pressure;Intracranial aneurysm;Cerebrospinal fluid p-tau levels in mild cognitive impairment
+ENSG00000148660	CAMK2G	skeletal_muscle	154.3	0		1	Crohns disease;Paclitaxel disposition in epithelial ovarian cancer;Multiple sclerosis;Psoriasis vulgaris
+ENSG00000102181	CD99L2	skeletal_muscle	179.1	0		1	Glycated hemoglobin levels
+ENSG00000089101	CFAP61	skeletal_muscle	28.6	0		1	Serum omega-6 to omega-3 polyunsaturated fatty acid ratio in metabolic syndrome;Body fat mass;Height;Appendicular lean mass
+ENSG00000138435	CHRNA1	skeletal_muscle	170.1	0		1	Atrial fibrillation;Malaria
+ENSG00000129749	CHRNA10	skeletal_muscle	47.8	1	Cholinergic receptor nicotinic alpha 10 subunit	1	Malaria
+ENSG00000170175	CHRNB1	skeletal_muscle	158.4	0		1	Emotional recognition;Parkinsons disease or first degree relation to individual with Parkinsons disease;Refractive error;Brain morphology (MOSTest);Waist circumference adjusted for body mass index
+ENSG00000135902	CHRND	skeletal_muscle	57.6	0		1	Refractive error;Brain lesion load
+ENSG00000196811	CHRNG	skeletal_muscle	32	0		1	Refractive error;Spherical equivalent (joint analysis main effects and education interaction)
+ENSG00000073464	CLCN4	skeletal_muscle	45	0		1	Mild influenza (H1N1) infection
+ENSG00000122756	CNTFR	skeletal_muscle	129.7	0		1	Physiological traits;Adolescent idiopathic scoliosis;Blood protein levels
+ENSG00000006695	COX10	skeletal_muscle	44.5	0		1	Refractive error;Midgestational circulating levels of PCBs;Body mass index;Temperament
+ENSG00000131174	COX7B	skeletal_muscle	1122.9	0		1	Post bronchodilator FEV1;Cognitive decline (age-related);Type 2 diabetes
+ENSG00000127184	COX7C	skeletal_muscle	2380.2	0		1	Blood trace element (Cu levels);Uterine fibroid size (maximum dimension)
+ENSG00000109846	CRYAB	skeletal_muscle	6972	0		1	PR interval;Birth weight;Hip circumference adjusted for BMI
+ENSG00000062485	CS	skeletal_muscle	550.1	0		1	Autism;Anger;Birth length;Blood metabolite levels
+ENSG00000179091	CYC1	skeletal_muscle	730	0		1	Mean corpuscular hemoglobin;Mean corpuscular volume;Asthma
+ENSG00000035664	DAPK2	skeletal_muscle	50.2	0		1	Systolic blood pressure x dichotomous lifestyle risk score interaction (1df test);Systolic blood pressure x dichotomous lifestyle risk score interaction (2df test);HDL cholesterol levels;Triglyceride levels;Venous thromboembolism adjusted for sickle cell variant rs77121243-T
+ENSG00000175920	DOK7	skeletal_muscle	29.5	0		1	Height;LDL cholesterol levels x short total sleep time interaction (2df test);Fibrinogen levels;Gut microbiota (bacterial taxa, hurdle binary method)
+ENSG00000079393	DUSP13	skeletal_muscle	247.2	0		1	Height;HDL cholesterol levels;Blood protein levels;Body mass index
+ENSG00000135636	DYSF	skeletal_muscle	95.3	0		1	Hip circumference adjusted for BMI;Urate levels in overweight individuals;Nonalcoholic steatohepatitis-derived hepatocellular carcinoma;Asthma
+ENSG00000161671	EMC10	skeletal_muscle	185.8	0		1	Age-related cognitive decline (memory) (slope of z-scores)
+ENSG00000135063	FAM189A2	skeletal_muscle	48.3	0		1	Coronary artery disease in type 1 diabetes
+ENSG00000103264	FBXO31	skeletal_muscle	65.3	0		1	Brain morphology (MOSTest);Neuroticism;Neurociticism;Experiencing mood swings;Feeling nervous
+ENSG00000172159	FRMD3	skeletal_muscle	81.2	0		1	Metabolite levels;Loneliness (multivariate analysis);Hypertension;Blood pressure traits (multi-trait analysis);Lewy body disease
+ENSG00000188763	FZD9	skeletal_muscle	7.1	0		1	Non-oily fish consumption;Lamb consumption;Meat-related diet;HDL cholesterol levels
+ENSG00000103742	IGDCC4	skeletal_muscle	10.6	0		1	Heel bone mineral density;Blood protein levels;Red blood cell count;Mean corpuscular hemoglobin
+ENSG00000197081	IGF2R	skeletal_muscle	69.5	0		1	LDL cholesterol levels;Apolipoprotein B levels;Body mass index;Body mass index (age>50);Body mass index x sex x age interaction (4df test)
+ENSG00000160712	IL6R	skeletal_muscle	94.2	1	Interleukin 6 receptor	1	Response to anti-retroviral therapy (ddI/d4T) in HIV-1 infection (Grade 2 peripheral neuropathy);Fibrinogen;Rheumatoid arthritis;Cerebrospinal fluid levels of Alzheimers disease-related proteins
+ENSG00000135424	ITGA7	skeletal_muscle	262.3	0		1	Refractive error;Post bronchodilator FEV1/FVC ratio
+ENSG00000115221	ITGB6	skeletal_muscle	80	0		1	Proportion of activated microglia (inferior temporal cortex);Waist circumference adjusted for body mass index;Tourette syndrome;Eosinophil counts
+ENSG00000149596	JPH2	skeletal_muscle	120.4	0		1	Systolic blood pressure;Pulse pressure
+ENSG00000139292	LGR5	skeletal_muscle	22.3	0		1	Type 2 diabetes
+ENSG00000179796	LRRC3B	skeletal_muscle	9.5	0		1	Sensorimotor dexterity;Waist-hip ratio;Longevity (100 years and older)
+ENSG00000181016	LSMEM1	skeletal_muscle	81.6	0		1	Electrocardiogram morphology (amplitude at temporal datapoints)
+ENSG00000179564	LSMEM2	skeletal_muscle	16.5	0		1	Brain morphology (MOSTest);Subcortical volume (MOSTest);Brain morphology (min-P);Cortical surface area (MOSTest);Depressive symptom (appetite changes) (binary trait)
+ENSG00000086015	MAST2	skeletal_muscle	170.6	0		1	Hemoglobin levels;Neutrophil count;Myeloid white cell count;Sum basophil neutrophil counts;Reticulocyte count
+ENSG00000116688	MFN2	skeletal_muscle	310.5	0		1	Inflammatory skin disease;Platelet count;Tuberculosis;Plasma homocysteine levels;Plateletcrit
+ENSG00000198786	MT-ND5	skeletal_muscle	25697.4	0		1	Age-related macular degeneration (SNP x mitochondrial G12771A interaction)
+ENSG00000185105	MYADML2	skeletal_muscle	84	0		1	Birth weight;Waist-to-hip ratio adjusted for BMI
+ENSG00000165795	NDRG2	skeletal_muscle	1828.7	0		1	Hip circumference adjusted for BMI;Resting heart rate;Heart rate response to exercise
+ENSG00000189043	NDUFA4	skeletal_muscle	525	0		1	Metabolite levels;Schizophrenia;Asthma;Egg allergy (maternal genetic effects);Autism spectrum disorder or schizophrenia
+ENSG00000147123	NDUFB11	skeletal_muscle	717	0		1	Proportion of activated microglia (midfrontal cortex)
+ENSG00000119013	NDUFB3	skeletal_muscle	704.3	0		1	Breast cancer (estrogen-receptor negative);Breast cancer
+ENSG00000136521	NDUFB5	skeletal_muscle	241.4	0		1	Waist circumference adjusted for body mass index
+ENSG00000158864	NDUFS2	skeletal_muscle	464.8	0		1	Asthma;Granulocyte percentage of myeloid white cells;Allergic disease (asthma, hay fever or eczema);Allergic rhinitis
+ENSG00000112992	NNT	skeletal_muscle	239.1	1	Nicotinamide nucleotide transhydrogenase	1	Diastolic blood pressure (cigarette smoking interaction);Systolic blood pressure (cigarette smoking interaction);Height;Apolipoprotein A1 levels;Cardiac Troponin-T levels
+ENSG00000276045	ORAI1	skeletal_muscle	60.1	0		1	Major depressive disorder;Experiencing mood swings
+ENSG00000175591	P2RY2	skeletal_muscle	50.2	0		1	Glucose homeostasis traits;Number of decayed, missing and filled tooth surfaces or use of dentures;Dentures;Systemic lupus erythematosus;White blood cell count (basophil)
+ENSG00000188677	PARVB	skeletal_muscle	195.9	0		1	Response to chemotherapy in breast cancer (hypertension) (bevacizumab);Response to chemotherapy in breast cancer hypertensive cases (cumulative dose) (bevacizumab);Lewy body disease;Nonalcoholic fatty liver disease;Systemic sclerosis (anti-centromere-positive)
+ENSG00000006576	PHTF2	skeletal_muscle	112.7	0		1	Metabolite levels;Systolic blood pressure;Pulse pressure;Night sleep phenotypes
+ENSG00000103066	PLA2G15	skeletal_muscle	58.3	0		1	Schizophrenia;Refractive error;Eosinophil percentage of white cells;Eosinophil counts;Serum metabolite levels
+ENSG00000132429	POPDC3	skeletal_muscle	96.3	0		1	Metabolite levels;Menarche (age at onset);Height;Multiple sclerosis
+ENSG00000049769	PPP1R3F	skeletal_muscle	27.5	0		1	Asthma;Asthma (childhood onset)
+ENSG00000162409	PRKAA2	skeletal_muscle	38.7	1	Protein kinase AMP-activated catalytic subunit alpha 2	1	Lymphocyte count
+ENSG00000175166	PSMD2	skeletal_muscle	332.9	0		1	Birth weight;Body mass index;Appendicular lean mass
+ENSG00000101084	RAB5IF	skeletal_muscle	216.9	0		1	Appendicular lean mass
+ENSG00000154153	RETREG1	skeletal_muscle	141.8	0		1	Diffusing capacity of carbon monoxide;Orofacial cleft x maternal periconceptional multivitamin use interaction (1df)
+ENSG00000137393	RNF144B	skeletal_muscle	56.9	0		1	Triglyceride levels;General risk tolerance (MTAG);Facial morphology;Age at voice drop;Chronic periodontitis (mean interproximal clinical attachment level)
+ENSG00000196218	RYR1	skeletal_muscle	1618.9	1	Ryanodine receptor 1	1	Abstraction and mental flexibility;Peanut allergy (parent-of-origin effect);White blood cell count (basophil);Basophil percentage of granulocytes;Basophil percentage of white cells
+ENSG00000198838	RYR3	skeletal_muscle	24.2	0		1	Amyotrophic lateral sclerosis (sporadic);Hepcidin/ferritin ratio;Gut microbiota (bacterial taxa, rank normal transformation method);Hippocampal volume
+ENSG00000188322	SBK1	skeletal_muscle	44.1	0		1	Lamb consumption;Waist circumference;Tonsillectomy
+ENSG00000105711	SCN1B	skeletal_muscle	572	1	Sodium voltage-gated channel beta subunit 1	1	Metabolite levels;Serum albumin levels
+ENSG00000170624	SGCD	skeletal_muscle	42.9	0		1	Airway responsiveness in chronic obstructive pulmonary disease;Pulse pressure;Smoking initiation
+ENSG00000198892	SHISA4	skeletal_muscle	219.7	0		1	Depressive symptoms (binary sum-score);Depressive symptoms (sum-score);Depressive symptom (fatigue) (ordinal trait);Depressive symptom (low self-esteem) (ordinal trait);Sleep duration (short sleep)
+ENSG00000112394	SLC16A10	skeletal_muscle	41.2	0		1	Blood metabolite levels;Metabolite levels;Refractive error;Ulcerative colitis
+ENSG00000141526	SLC16A3	skeletal_muscle	198.3	0		1	Refractive error;Hemoglobin;Proteinuria and chronic kidney disease
+ENSG00000117479	SLC19A2	skeletal_muscle	124.1	0		1	Plasma factor V levels in venous thrombosis;Venous thromboembolism
+ENSG00000168575	SLC20A2	skeletal_muscle	131.2	0		1	Pulse pressure;Hemoglobin levels;Mean corpuscular volume
+ENSG00000146477	SLC22A3	skeletal_muscle	67.4	0		1	Type 2 diabetes;Lipoprotein (a) levels in response to niacin in statin-treated individuals;Height;Colorectal cancer;Body mass index
+ENSG00000197375	SLC22A5	skeletal_muscle	56.1	0		1	Plasma omega-6 polyunsaturated fatty acid levels (arachidonic acid);Serum metabolite levels;Low density lipoprotein cholesterol levels;Asthma
+ENSG00000075415	SLC25A3	skeletal_muscle	1537.4	0		1	Height;Body fat distribution (leg fat ratio);Body fat distribution (trunk fat ratio);Hip circumference adjusted for BMI
+ENSG00000145832	SLC25A48	skeletal_muscle	8.8	0		1	Resistance to Mycobacterium tuberculosis in HIV-positive individuals measured by a negative tuberculin skin test (continuous);Resistance to Mycobacterium tuberculosis in HIV-positive individuals measured by a negative tuberculin skin test (dichotomous);Cerebrospinal fluid t-tau levels;Cerebrospinal fluid p-tau levels in Alzheimers disease dementia;Obesity-related traits
+ENSG00000181856	SLC2A4	skeletal_muscle	223.6	0		1	Birth weight;Diastolic blood pressure x smoking status (ever vs never) interaction (2df test);Alzheimers disease;LDL cholesterol levels;Meat-related diet
+ENSG00000167703	SLC43A2	skeletal_muscle	60.5	0		1	Waist circumference adjusted for body mass index;Mean platelet volume;Reticulocyte count;Reticulocyte fraction of red cells;Plateletcrit
+ENSG00000103064	SLC7A6	skeletal_muscle	75	0		1	Blood metabolite ratios;Blood metabolite levels;Schizophrenia;Serum metabolite levels
+ENSG00000137571	SLCO5A1	skeletal_muscle	7.6	0		1	Basophil count;Lateral ventricle volume;Metabolite levels;Cervical cancer;Metabolite levels  (X-11787)
+ENSG00000179542	SLITRK4	skeletal_muscle	8.3	0		1	Severe influenza A (H1N1) infection;Creatine kinase levels
+ENSG00000168273	SMIM4	skeletal_muscle	130.3	0		1	Schizophrenia;Bipolar disorder;Autism spectrum disorder or schizophrenia
+ENSG00000184602	SNN	skeletal_muscle	114.9	0		1	QT interval;Plasma renin activity levels;Low density lipoprotein cholesterol levels;Liver enzyme levels (alkaline phosphatase)
+ENSG00000126091	ST3GAL3	skeletal_muscle	88	0		1	Refractive error;Attention deficit hyperactivity disorder;Autism spectrum disorder or schizophrenia;Household income (MTAG)
+ENSG00000054654	SYNE2	skeletal_muscle	198.5	0		1	Blond vs. brown/black hair color;Cutaneous melanoma or hair colour;Nevus count or cutaneous melanoma;Cutaneous malignant melanoma;Youthful appearance (self-reported)
+ENSG00000136404	TM6SF1	skeletal_muscle	47.3	0		1	Diastolic blood pressure;Lymphocyte count
+ENSG00000144868	TMEM108	skeletal_muscle	23.1	0		1	Menarche (age at onset);Systolic blood pressure;Waist circumference;Stroke
+ENSG00000178307	TMEM11	skeletal_muscle	81.3	0		1	Metabolite levels;Acne (severe);Schizophrenia;Bipolar disorder;Adventurousness
+ENSG00000224982	TMEM233	skeletal_muscle	66.6	0		1	Adverse response to drug
+ENSG00000095209	TMEM38B	skeletal_muscle	77.4	0		1	Menarche (age at onset);Waist circumference adjusted for BMI (joint analysis main effects and smoking interaction);Waist circumference adjusted for BMI (adjusted for smoking behaviour);Alcohol consumption (drinks per week)
+ENSG00000175606	TMEM70	skeletal_muscle	100.7	0		1	Metabolite levels;Low density lipoprotein cholesterol levels
+ENSG00000140416	TPM1	skeletal_muscle	12678	0		1	Parkinsons disease;Triglyceride levels;Refractive error;HDL cholesterol levels;Apolipoprotein A1 levels
+ENSG00000186439	TRDN	skeletal_muscle	1944.1	0		1	Metabolite levels;Borderline personality disorder;Intraocular pressure;Night sleep phenotypes;Post bronchodilator FEV1
+ENSG00000155657	TTN	skeletal_muscle	920.6	0		1	Type 2 diabetes;Glaucoma;Smoking status (ever vs never smokers);Intraocular pressure;Refractive error
+ENSG00000183785	TUBA8	skeletal_muscle	332.2	0		1	Cerebrospinal T-tau levels;Atrial fibrillation
+ENSG00000144357	UBR3	skeletal_muscle	71.2	0		1	Urate levels in obese individuals;Longitudinal change in brain amyloid plaque burden;Response to bronchodilator in chronic obstructive pulmonary disease (change in FEV1)
+ENSG00000101019	UQCC1	skeletal_muscle	106.8	0		1	Fish- and plant-related diet;Neonatal white matter microstructure;Brain morphology (MOSTest);Height
+ENSG00000123124	WWP1	skeletal_muscle	171.4	0		1	Blood protein levels;Estimated glomerular filtration rate

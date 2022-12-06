@@ -1,0 +1,23 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000154227	CERS3	vagina	30.3	0		1	Childhood body mass index;Cotinine glucuronidation
+ENSG00000137975	CLCA2	vagina	53.1	0		1	Hallux valgus;Crohns disease-related phenotypes
+ENSG00000171954	CYP4F22	vagina	22.8	0		1	Lymphocyte count
+ENSG00000134755	DSC2	vagina	97.4	0		1	Metabolite levels;Bronchopulmonary dysplasia;Blood protein levels;Response to immune checkpoint inhibitors in melanoma (immune-related adverse events)
+ENSG00000134757	DSG3	vagina	119.1	0		1	Parkinsons disease (age of onset);Survival in colon cancer
+ENSG00000134531	EMP1	vagina	819.5	0		1	Height;Metabolite levels;Amyotrophic lateral sclerosis
+ENSG00000165474	GJB2	vagina	519.8	0		1	Facial emotion recognition (happy faces)
+ENSG00000121742	GJB6	vagina	139.3	0		1	Facial emotion recognition (happy faces);Triglyceride levels x fish oil supplementation interaction (1df)
+ENSG00000124466	LYPD3	vagina	487	0		1	Cotinine glucuronidation
+ENSG00000172005	MAL	vagina	863.2	0		1	Blood pressure (smoking interaction);Metabolite levels;Colorectal cancer (diet interaction);Acne (severe)
+ENSG00000204544	MUC21	vagina	244.5	0		1	White blood cell count;Autism spectrum disorder or schizophrenia
+ENSG00000145113	MUC4	vagina	15	0		1	Red blood cell density in sickle cell anemia;Lung disease severity in cystic fibrosis
+ENSG00000163545	NUAK2	vagina	45.3	0		1	Meat-related diet;Refractive error;Brain morphology (MOSTest);Cortical thickness (MOSTest);Subcortical volume (MOSTest)
+ENSG00000164530	PI16	vagina	127.6	0		1	Acne (severe);Chemerin levels;Diverticular disease;Atrial fibrillation;Schizophrenia x sex interaction
+ENSG00000164520	RAET1E	vagina	27.5	0		1	Brain morphology (MOSTest);Subcortical volume (MOSTest)
+ENSG00000140519	RHCG	vagina	1728.8	0		1	Number of decayed, missing and filled tooth surfaces or use of dentures;Dentures;Body size at age 10;Femur bone mineral density x serum urate levels interaction
+ENSG00000197641	SERPINB13	vagina	135	0		1	Eosinophil counts;Eosinophil percentage of granulocytes;Sum eosinophil basophil counts
+ENSG00000088726	TMEM40	vagina	80.1	0		1	Left ventricular ejection fraction;Waist-to-hip ratio adjusted for BMI (age <50);Waist-to-hip ratio adjusted for BMI (age >50);Waist-to-hip ratio adjusted for BMI;Waist-to-hip ratio adjusted for BMI x sex x age interaction (4df test)
+ENSG00000163472	TMEM79	vagina	59.4	0		1	Glycated hemoglobin levels;Mean corpuscular hemoglobin concentration
+ENSG00000187054	TMPRSS11A	vagina	41.7	0		1	Regular attendance at a pub or social club
+ENSG00000105668	UPK1A	vagina	52.4	0		1	Refractive error;Brain morphology (MOSTest)
+ENSG00000186806	VSIG10L	vagina	22.3	0		1	Appendicular lean mass

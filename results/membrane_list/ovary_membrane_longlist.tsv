@@ -1,0 +1,27 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000158859	ADAMTS4	ovary	95.9	0		1	Asthma;HDL cholesterol levels;Monocyte percentage of white cells
+ENSG00000188778	ADRB3	ovary	11.7	1	Adrenoceptor beta 3	0	
+ENSG00000151572	ANO4	ovary	7.7	0		1	Response to methotrexate in juvenile idiopathic arthritis;Post bronchodilator FEV1/FVC ratio;Attention deficit hyperactivity disorder (hyperactivity-impulsivity symptoms);Stress sensitivity (neuroticism score x major depressive disorder status interaction)
+ENSG00000095739	BAMBI	ovary	81.6	0		1	Cataracts (operation);Fasting glucose change (long-term);Percentage gas trapping;Metabolite levels
+ENSG00000012124	CD22	ovary	132.8	1	CD22 molecule	1	Rheumatoid arthritis;Plateletcrit;Immature fraction of reticulocytes;Platelet distribution width
+ENSG00000140937	CDH11	ovary	178.2	0		1	Lung cancer in never smokers;Intraocular pressure;Blood protein levels;Systolic blood pressure;Pulse pressure
+ENSG00000107736	CDH23	ovary	35.3	0		1	Bipolar disorder (body mass index interaction);Kidney function decline traits;Cognitive performance (processing speed);Monocyte count;Decline in glucose metabolism in posterior cingulate cortex
+ENSG00000062038	CDH3	ovary	32.7	0		1	Cutaneous melanoma or hair colour;Ulcerative colitis;Red cell distribution width;Multiple sclerosis;Glycated hemoglobin levels
+ENSG00000013297	CLDN11	ovary	95.4	0		1	Monocyte chemoattractant protein-1 (red blood cell fatty acid level interaction);Blood glucose levels;Prostate cancer
+ENSG00000185070	FLRT2	ovary	29.6	0		1	Vertical cup-disc ratio (adjusted for vertical disc diameter);Blood protein levels;Vertical cup-disc ratio (multi-trait analysis);Resting heart rate;PR interval
+ENSG00000260230	FRRS1L	ovary	11	0		1	Early-onset Parkinsons disease;Body mass index
+ENSG00000196208	GREB1	ovary	278.3	0		1	Endometriosis;Uterine fibroids
+ENSG00000105509	HAS1	ovary	20.8	0		1	Acne (severe);HDL cholesterol;Fish- and plant-related diet
+ENSG00000171004	HS6ST2	ovary	14.1	0		1	Periodontitis (Mean PAL);Educational attainment (years of education);Age at first birth
+ENSG00000197584	KCNMB2	ovary	12.7	1	Potassium calcium-activated channel subfamily M regulatory beta subunit 2	1	Amyotrophic lateral sclerosis (sporadic);Response to lamotrigine in genetic generalized epilepsy;Chin dimples;Cough in response to angiotensin-converting enzyme inhibitor drugs;Hippocampal sclerosis
+ENSG00000089692	LAG3	ovary	18.6	0		1	Blood protein levels
+ENSG00000123572	NRK	ovary	32.5	0		1	Metabolite levels;Gastroesophageal reflux disease;Obesity-related traits
+ENSG00000134853	PDGFRA	ovary	190.2	1	Platelet derived growth factor receptor alpha	1	Lupus nephritis in systemic lupus erythematosus;Corneal curvature;Red blood cell count;Vertical cup-disc ratio (adjusted for vertical disc diameter);Uterine fibroids
+ENSG00000154134	ROBO3	ovary	6.4	0		1	Macular thickness
+ENSG00000136546	SCN7A	ovary	45.4	1	Sodium voltage-gated channel alpha subunit 7	1	Amyotrophic lateral sclerosis;Metabolite levels;Response to cognitive-behavioural therapy in major depressive disorder
+ENSG00000149256	TENM4	ovary	16.6	0		1	Lung cancer in never smokers;Bipolar I disorder;Bipolar disorder;Right lateral prefrontal cortical growth;Hair greying
+ENSG00000187554	TLR5	ovary	20.2	0		1	Monocyte percentage of white cells
+ENSG00000188051	TMEM221	ovary	7.9	0		1	Familial squamous cell lung carcinoma
+ENSG00000125355	TMEM255A	ovary	19.6	0		1	Monocyte count;White blood cell count
+ENSG00000092445	TYRO3	ovary	49.7	0		1	Systemic lupus erythematosus;Microalbuminuria;Urinary albumin-to-creatinine ratio;HDL cholesterol levels
+ENSG00000147852	VLDLR	ovary	77.5	0		1	LDL cholesterol;Cholesterol, total;Alzheimers disease (age of onset);Vascular endothelial growth factor levels;Lung cancer in ever smokers

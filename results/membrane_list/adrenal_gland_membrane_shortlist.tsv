@@ -1,0 +1,13 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000166148	AVPR1A	adrenal_gland	56.6	1	Arginine vasopressin receptor 1A	1	Diastolic blood pressure x smoking status (ever vs never) interaction (2df test);Hippocampal volume;Morning person
+ENSG00000175344	CHRNA7	adrenal_gland	7.8	1	Cholinergic receptor nicotinic alpha 7 subunit	1	Hepatocyte growth factor levels
+ENSG00000134824	FADS2	adrenal_gland	364.1	1	Fatty acid desaturase 2	1	Laryngeal squamous cell carcinoma;Triglycerides;Red blood cell fatty acid levels
+ENSG00000203859	HSD3B2	adrenal_gland	2174.8	1	Hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 2	0	
+ENSG00000135914	HTR2B	adrenal_gland	17.4	1	5-hydroxytryptamine receptor 2B	1	Proportion of activated microglia (midfrontal cortex);Thiazide-induced adverse metabolic effects in hypertensive patients
+ENSG00000082482	KCNK2	adrenal_gland	53	1	Potassium two pore domain channel subfamily K member 2	1	White matter hyperintensity volume (adjusted for hypertension);White matter hyperintensity volume;Brain morphology (MOSTest)
+ENSG00000171303	KCNK3	adrenal_gland	181.6	1	Potassium two pore domain channel subfamily K member 3	1	Systolic blood pressure (cigarette smoking interaction);Diastolic blood pressure (cigarette smoking interaction);Triglyceride levels;LDL cholesterol levels;Diastolic blood pressure
+ENSG00000080709	KCNN2	adrenal_gland	27.8	1	Potassium calcium-activated channel subfamily N member 2	1	Generalized epilepsy;Diastolic blood pressure;Systolic blood pressure
+ENSG00000053918	KCNQ1	adrenal_gland	197.1	1	Potassium voltage-gated channel subfamily Q member 1	1	Glucose homeostasis traits;Type 2 diabetes;Plasma amyloid beta peptide concentrations (ABx-40);Height
+ENSG00000185231	MC2R	adrenal_gland	57.9	1	Melanocortin 2 receptor	1	Femoral neck bone mineral density;Femoral neck bone mineral density and trunk fat mass adjusted by trunk lean mass;Parental longevity (both parents in top 10%);Parental longevity (combined parental attained age, Martingale residuals);Negative urgency
+ENSG00000036565	SLC18A1	adrenal_gland	25.1	1	Solute carrier family 18 member A1	1	Triglycerides;Triglyceride levels;Cholesterol
+ENSG00000057252	SOAT1	adrenal_gland	165.3	1	Sterol O-acyltransferase 1	1	Metabolite levels

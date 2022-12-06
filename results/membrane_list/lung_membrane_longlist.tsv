@@ -1,0 +1,70 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000167972	ABCA3	lung	91.2	0		1	RR interval (tricyclic/tetracyclic antidepressant use interaction);Trunk fat mass;Birth weight;Triglyceride levels x SSRI defined daily dose interaction in schizophrenia or bipolar disorder
+ENSG00000139567	ACVRL1	lung	96.3	0		1	Hemoglobin levels;Plateletcrit;White blood cell count;Monocyte count;Myeloid white cell count
+ENSG00000069122	ADGRF5	lung	104.5	0		1	Waist-hip ratio;Blood protein levels
+ENSG00000043591	ADRB1	lung	13.1	1	Adrenoceptor beta 1	1	Birth weight;Diastolic blood pressure (cigarette smoking interaction);Systolic blood pressure (cigarette smoking interaction)
+ENSG00000204305	AGER	lung	728.3	0		1	Asthma;Blood protein levels;Blood protein levels in cardiovascular risk;Lung function (FEV1/FVC)
+ENSG00000180772	AGTR2	lung	8.8	0		1	Type 2 diabetes;Lung disease severity in cystic fibrosis
+ENSG00000064989	CALCRL	lung	76.8	1	Calcitonin receptor like receptor	1	Waist-to-hip ratio adjusted for BMI (adjusted for smoking behaviour);Heel bone mineral density;Serum immune biomarker levels;Waist-to-hip ratio adjusted for body mass index
+ENSG00000134256	CD101	lung	6.5	0		1	Neutrophil count
+ENSG00000120217	CD274	lung	16.8	1	CD274 molecule	1	Blood protein levels
+ENSG00000167850	CD300C	lung	8.4	0		1	Blood protein levels
+ENSG00000186074	CD300LF	lung	17.7	0		1	Fibrinogen;Sum neutrophil eosinophil counts;White blood cell count;Plateletcrit;Monocyte count
+ENSG00000129226	CD68	lung	358	0		1	Refractive error;Brain morphology (MOSTest);Metabolic syndrome;Post bronchodilator FEV1/FVC ratio;Heel bone mineral density
+ENSG00000086548	CEACAM6	lung	286.7	0		1	Serum carcinoembryonic antigen levels
+ENSG00000131055	COX4I2	lung	49.1	0		1	Heel bone mineral density;Brain morphology (MOSTest);Oppositional defiant disorder dimensions in attention-deficit hyperactivity disorder
+ENSG00000142973	CYP4B1	lung	242.2	0		1	Serum metabolite levels;Urinary metabolite levels in chronic kidney disease;Disease progression in age-related macular degeneration;Testosterone levels
+ENSG00000136048	DRAM1	lung	94.1	0		1	Systemic lupus erythematosus;Height;Bone mineral density (total hip);Intracranial aneurysm;Brain morphology (MOSTest)
+ENSG00000213853	EMP2	lung	230.6	0		1	Acne (severe);Metabolite levels;Heel bone mineral density;Retinal detachment or retinal break;Lung function (FEV1/FVC)
+ENSG00000127533	F2RL3	lung	33.4	0		1	Metabolite levels
+ENSG00000186431	FCAR	lung	10.5	0		1	Ulcerative colitis
+ENSG00000203747	FCGR3A	lung	206.3	1	Fc fragment of IgG receptor IIIa	1	Functional impairment in major depressive disorder, bipolar disorder and schizophrenia;Ulcerative colitis;Inflammatory bowel disease;Basophil count
+ENSG00000160867	FGFR4	lung	65.4	1	Fibroblast growth factor receptor 4	1	Height;Waist circumference adjusted for BMI (adjusted for smoking behaviour);Waist-to-hip ratio adjusted for BMI (joint analysis main effects and smoking interaction);Waist-to-hip ratio adjusted for BMI (adjusted for smoking behaviour)
+ENSG00000187474	FPR3	lung	28.2	0		1	HDL cholesterol levels;Apolipoprotein A1 levels;Neutrophil percentage of granulocytes;Blood protein levels
+ENSG00000013588	GPRC5A	lung	201.9	0		1	Hemoglobin levels;Hematocrit;Hemoglobin concentration;Hemoglobin
+ENSG00000164161	HHIP	lung	16.2	0		1	Chronic obstructive pulmonary disease (moderate to severe);Chronic obstructive pulmonary disease (severe);Infant length;Height;Chronic obstructive pulmonary disease
+ENSG00000231389	HLA-DPA1	lung	319.9	0		1	Sjögrens syndrome;IgA nephropathy;Lung cancer in ever smokers
+ENSG00000223865	HLA-DPB1	lung	278.7	0		1	Sjögrens syndrome;Chronic hepatitis B infection;IgA nephropathy
+ENSG00000196735	HLA-DQA1	lung	333.9	0		1	Autoimmune hepatitis type-1;Vitiligo;Self-reported allergy;Sjögrens syndrome;Systemic lupus erythematosus
+ENSG00000237541	HLA-DQA2	lung	20.8	0		1	Systemic lupus erythematosus;Chronic hepatitis B infection;Acute anterior uveitis (with or without ankylosing spondylitis)
+ENSG00000179344	HLA-DQB1	lung	179.1	0		1	Self-reported allergy;Systemic lupus erythematosus;IgA nephropathy
+ENSG00000204287	HLA-DRA	lung	940.2	0		1	Frontotemporal dementia;Vitiligo;Sjögrens syndrome;Antinuclear antibody levels;Tuberculosis
+ENSG00000196126	HLA-DRB1	lung	581.3	0		1	Multiple sclerosis;Sjögrens syndrome;Systemic lupus erythematosus;Rheumatoid arthritis
+ENSG00000198502	HLA-DRB5	lung	356.2	0		1	Frontotemporal dementia;Sjögrens syndrome;Antinuclear antibody levels;Acute anterior uveitis (with or without ankylosing spondylitis);Alzheimers disease
+ENSG00000090339	ICAM1	lung	219.3	1	Intercellular adhesion molecule 1	1	Height;Pulse pressure;Lymphocyte count;Inflammatory bowel disease;Vitiligo
+ENSG00000216490	IFI30	lung	572.7	0		1	Multiple sclerosis;Mental health study participation (completed survey);Serum alkaline phosphatase levels;Waist-to-hip ratio adjusted for BMI (additive genetic model)
+ENSG00000115604	IL18R1	lung	24.2	0		1	Acute anterior uveitis (with or without ankylosing spondylitis);Blood protein levels;Asthma
+ENSG00000083457	ITGAE	lung	6.6	0		1	Attention deficit hyperactivity disorder
+ENSG00000160593	JAML	lung	43.3	0		1	Sleep duration (long sleep)
+ENSG00000124780	KCNK17	lung	7.7	0		1	Cholesterol, total;Apolipoprotein B levels
+ENSG00000078081	LAMP3	lung	219.7	0		1	Age-related cognitive decline (memory) (slope of z-scores);Parkinsons disease;Subjective response to lithium treatment
+ENSG00000244482	LILRA6	lung	9	0		1	Blood protein levels;Post bronchodilator FEV1/FVC ratio
+ENSG00000204577	LILRB3	lung	27	0		1	Takayasu arteritis;Birth weight;Monocyte count
+ENSG00000186818	LILRB4	lung	13.7	0		1	Response to platinum-based chemotherapy (carboplatin);Inflammatory bowel disease;Clozapine-induced agranulocytosis
+ENSG00000153395	LPCAT1	lung	57.3	0		1	Lung cancer in ever smokers;Lung adenocarcinoma;Multiple sclerosis;Pancreatic cancer
+ENSG00000125872	LRRN4	lung	9.7	0		1	Triglyceride levels x loop diuretics use interaction;Waist-to-hip ratio adjusted for BMI;Waist-to-hip ratio adjusted for BMI x sex x age interaction (4df test)
+ENSG00000062524	LTK	lung	15.1	0		1	Type 2 diabetes;Apolipoprotein A1 levels;High density lipoprotein cholesterol levels;Household income (MTAG)
+ENSG00000019169	MARCO	lung	199.6	0		1	Triglyceride levels;Lung function (FVC);Medication use (adrenergics, inhalants)
+ENSG00000260314	MRC1	lung	122.3	1	Mannose receptor C-type 1	1	Osteoarthritis biomarkers;Blood protein levels;Childhood and early adolescence aggressive behavior;Aspartate aminotransferase levels
+ENSG00000149534	MS4A2	lung	12.6	1	Membrane spanning 4-domains A2	1	Alzheimers disease
+ENSG00000038945	MSR1	lung	120.1	0		1	Hip circumference adjusted for BMI;Triglyceride levels;HDL cholesterol levels in HIV infection;Alcohol dependence;Blood protein levels
+ENSG00000173391	OLR1	lung	100.2	0		1	Waist-to-hip ratio adjusted for BMI (age <50);Waist-to-hip ratio adjusted for BMI (age >50);Body mass index;Waist-to-hip ratio adjusted for BMI;Waist-to-hip ratio adjusted for BMI x sex x age interaction (4df test)
+ENSG00000160013	PTGIR	lung	55.5	1	Prostaglandin I2 receptor	1	Crohns disease
+ENSG00000122679	RAMP3	lung	144.6	1	Receptor activity modifying protein 3	1	Hepatic lipid content in extreme obesity
+ENSG00000170786	SDR16C5	lung	34.4	0		1	Height;Refractive error
+ENSG00000101307	SIRPB1	lung	19.4	0		1	Metabolite levels;Blood protein levels;Mean platelet volume;Lymphocyte percentage of white cells
+ENSG00000018280	SLC11A1	lung	78.6	0		1	Inflammatory bowel disease;Ulcerative colitis
+ENSG00000157765	SLC34A2	lung	753	0		1	Metabolite levels
+ENSG00000138821	SLC39A8	lung	171.1	0		1	Metabolite levels;HDL cholesterol;Schizophrenia;Triglyceride levels;Parkinsons disease
+ENSG00000268104	SLC6A14	lung	16	0		1	Meconium ileus in cystic fibrosis;Lung disease severity in cystic fibrosis
+ENSG00000174640	SLCO2A1	lung	123.7	0		1	Amyotrophic lateral sclerosis (sporadic);Height;Colorectal cancer
+ENSG00000101187	SLCO4A1	lung	57.2	0		1	Menopause (age at onset);Macular thickness
+ENSG00000099994	SUSD2	lung	99.8	0		1	Acne (severe);Coronary artery disease;Amyotrophic lateral sclerosis
+ENSG00000101916	TLR8	lung	10.7	0		1	Celiac disease
+ENSG00000166292	TMEM100	lung	192.5	0		1	Pulse pressure;Clozapine-induced agranulocytosis/granulocytopenia in treatment-resistant schizophrenia;Height;Waist-to-hip ratio adjusted for BMI;Waist-hip index
+ENSG00000125895	TMEM74B	lung	27.6	0		1	Thyroxine levels
+ENSG00000124731	TREM1	lung	65.3	0		1	Blood protein levels;Femur bone mineral density x serum urate levels interaction
+ENSG00000095970	TREM2	lung	30.1	0		1	C-reactive protein;Alzheimers disease;Blood protein levels;Calcific aortic valve stenosis;Alzheimers disease or family history of Alzheimers disease
+ENSG00000137672	TRPC6	lung	13.3	0		1	Lung adenocarcinoma;General risk tolerance (MTAG);Menarche (age at onset);Change in LVEF in response to paclitaxel and trastuzumab in HER2+ breast cancer;Monocyte count
+ENSG00000114812	VIPR1	lung	132.1	0		1	Hip circumference adjusted for BMI;Bipolar disorder;Cerebrospinal fluid clusterin levels;Schizophrenia, bipolar disorder or major depressive disorder x sex interaction (3df)
+ENSG00000155659	VSIG4	lung	166	0		1	Male-pattern baldness;Mean spheric corpuscular volume

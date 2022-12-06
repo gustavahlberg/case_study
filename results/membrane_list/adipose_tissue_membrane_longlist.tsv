@@ -1,0 +1,58 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000213088	ACKR1	adipose_tissue	320.5	0		1	Midgestational total 25-hydroxyvitamin D levels (fetal genetic effect);Monocyte chemoattractant protein-1 levels;Growth-regulated protein alpha levels;Eotaxin levels
+ENSG00000151726	ACSL1	adipose_tissue	770.4	0		1	Type 2 diabetes;Night sleep phenotypes;Neuroblastoma or malignant cutaneous melanoma
+ENSG00000123612	ACVR1C	adipose_tissue	31.3	0		1	Low density lipoprotein cholesterol levels;Systolic blood pressure;Apolipoprotein B levels;High light scatter reticulocyte count;Offspring birth weight
+ENSG00000158859	ADAMTS4	adipose_tissue	116.8	0		1	Asthma;HDL cholesterol levels;Monocyte percentage of white cells
+ENSG00000162618	ADGRL4	adipose_tissue	73.1	0		1	Bipolar disorder (age of onset <21) or attention deficit hyperactivity disorder;Bipolar disorder or attention deficit hyperactivity disorder;LDL cholesterol levels in HIV infection;Response to TNF inhibitor in rheumatoid arthritis (change in swollen 28-joint count)
+ENSG00000150594	ADRA2A	adipose_tissue	50.5	1	Adrenoceptor alpha 2A	1	Fish- and plant-related diet;Fasting glucose
+ENSG00000178878	APOLD1	adipose_tissue	124.5	0		1	Birth weight;Prostate cancer;Height;Refractive error;Heel bone mineral density
+ENSG00000165269	AQP7	adipose_tissue	252.7	0		1	Lung adenocarcinoma;Urinary albumin excretion
+ENSG00000198363	ASPH	adipose_tissue	386.9	0		1	Metabolite levels;Schizophrenia;Serum omega-6 to omega-3 polyunsaturated fatty acid ratio in metabolic syndrome;Body fat distribution (arm fat ratio)
+ENSG00000165810	BTNL9	adipose_tissue	250.8	0		1	Metabolite levels
+ENSG00000184601	C14orf180	adipose_tissue	40.8	0		1	Bipolar I disorder;Bipolar disorder;Rheumatoid arthritis
+ENSG00000064989	CALCRL	adipose_tissue	70.7	1	Calcitonin receptor like receptor	1	Waist-to-hip ratio adjusted for BMI (adjusted for smoking behaviour);Heel bone mineral density;Serum immune biomarker levels;Waist-to-hip ratio adjusted for body mass index
+ENSG00000105971	CAV2	adipose_tissue	227.4	0		1	PR interval;Glaucoma (primary open-angle);TPE interval (resting);Antipsychotic drug-induced weight gain in schizophrenia
+ENSG00000090659	CD209	adipose_tissue	34.2	0		1	Blood protein levels
+ENSG00000174807	CD248	adipose_tissue	237.3	0		1	Triglyceride levels;Bipolar disorder
+ENSG00000161649	CD300LG	adipose_tissue	133.6	0		1	Triglyceride levels;HDL cholesterol levels;Apolipoprotein A1 levels;HDL cholesterol
+ENSG00000135218	CD36	adipose_tissue	1533.6	0		1	Platelet count;Night sleep phenotypes;Mean corpuscular volume;Mean platelet volume;Red blood cell count
+ENSG00000182566	CLEC4G	adipose_tissue	14.9	0		1	Sum neutrophil eosinophil counts;White blood cell count;Granulocyte count;Sum basophil neutrophil counts;Post bronchodilator FEV1
+ENSG00000166250	CLMP	adipose_tissue	63.2	0		1	Heel bone mineral density;Red cell distribution width;Blood protein levels
+ENSG00000118432	CNR1	adipose_tissue	23	1	Cannabinoid receptor 1	1	Gout vs. Hyperuricemia;Gut microbiota (functional units);Male-pattern baldness;Immunoglobulin A;Depression in smokers
+ENSG00000135678	CPM	adipose_tissue	156.1	0		1	Pneumoconiosis in silica exposure;Blood protein levels;Refractive astigmatism;Major depressive disorder;Smoking cessation in chronic obstructive pulmonary disease
+ENSG00000203710	CR1	adipose_tissue	13.2	0		1	Age-related hearing impairment;Interferon alpha levels in systemic lupus erythematosus;White blood cell count;Metabolite levels;Amyotrophic lateral sclerosis (sporadic)
+ENSG00000127533	F2RL3	adipose_tissue	19	0		1	Metabolite levels
+ENSG00000174804	FZD4	adipose_tissue	120.1	0		1	Hepatocellular carcinoma in hepatitis B infection
+ENSG00000131459	GFPT2	adipose_tissue	112.4	0		1	Subclinical trait of interstitial lung disease (basilar peel-core ratio of high attentuation areas on CT scan);Fat distribution (HIV);Height;Femur bone mineral density x serum urate levels interaction;Hip circumference adjusted for BMI
+ENSG00000112964	GHR	adipose_tissue	84.7	1	Growth hormone receptor	1	Height;Response to taxane treatment (docetaxel);Blood protein levels
+ENSG00000119927	GPAM	adipose_tissue	305.7	0		1	Cholesterol, total;LDL cholesterol;Height;Triglyceride levels
+ENSG00000179921	GPBAR1	adipose_tissue	31.9	0		1	Heel bone mineral density;Inflammatory bowel disease;High light scatter reticulocyte count;Pyoderma gangrenosum in inflammatory bowel disease;Monocyte count
+ENSG00000177464	GPR4	adipose_tissue	40.6	0		1	Menarche (age at onset);Body mass index
+ENSG00000105509	HAS1	adipose_tissue	49.6	0		1	Acne (severe);HDL cholesterol;Fish- and plant-related diet
+ENSG00000170961	HAS2	adipose_tissue	22.7	0		1	Periodontal disease-related phenotype (Socransky);Chin dimples;Pulse pressure x educational attainment (some college) interaction (2df);Severe COVID-19 infection with respiratory failure (analysis I);HDL cholesterol levels x alcohol consumption (drinkers vs non-drinkers) interaction (2df)
+ENSG00000134460	IL2RA	adipose_tissue	18.9	1	Interleukin 2 receptor subunit alpha	1	Vitiligo;Rheumatoid arthritis;Response to anti-retroviral therapy (ddI/d4T) in HIV-1 infection (Grade 3 peripheral neuropathy)
+ENSG00000105609	LILRB5	adipose_tissue	17.9	0		1	Creatine kinase levels in statin users;Blood protein levels;Lactate dehydrogenase levels;Creatine kinase levels
+ENSG00000123384	LRP1	adipose_tissue	109.2	0		1	Menarche (age at onset);Blood pressure (smoking interaction);Triglycerides;Cervical artery dissection;Abdominal aortic aneurysm
+ENSG00000125872	LRRN4	adipose_tissue	8.3	0		1	Triglyceride levels x loop diuretics use interaction;Waist-to-hip ratio adjusted for BMI;Waist-to-hip ratio adjusted for BMI x sex x age interaction (4df test)
+ENSG00000133800	LYVE1	adipose_tissue	126.4	0		1	Blood protein levels
+ENSG00000008394	MGST1	adipose_tissue	1096.9	0		1	Colorectal cancer (aspirin and/or NSAID use interaction);Household income (MTAG);Metabolite levels;Visceral fat;Barretts esophagus or esophageal adenocarcinoma x sex interaction (2df test)
+ENSG00000102854	MSLN	adipose_tissue	93.4	0		1	Body mass index;Serum cancer antigen 125 (CA 125) levels
+ENSG00000136997	MYC	adipose_tissue	254.6	0		1	Urinary bladder cancer;Chronic lymphocytic leukemia;Renal cell carcinoma;Height;Metabolite levels
+ENSG00000172927	MYEOV	adipose_tissue	5.4	0		1	Height;Pulse pressure;Diastolic blood pressure
+ENSG00000204301	NOTCH4	adipose_tissue	24.2	0		1	Squamous cell lung carcinoma;Lung cancer in ever smokers;Bipolar disorder;Asthma
+ENSG00000169418	NPR1	adipose_tissue	67.1	1	Natriuretic peptide receptor 1	1	Systolic blood pressure;Mean arterial pressure
+ENSG00000180785	OR51E1	adipose_tissue	5.7	0		1	Malaria;Diastolic blood pressure
+ENSG00000152270	PDE3B	adipose_tissue	64.5	1	Phosphodiesterase 3B	1	Vitamin D levels;Bipolar disorder;Triglyceride levels;Type 2 diabetes
+ENSG00000205038	PKHD1L1	adipose_tissue	25.5	0		1	Night sleep phenotypes;Obesity-related traits
+ENSG00000221866	PLXNA4	adipose_tissue	13.8	0		1	Age-related hearing impairment;Cognitive function;Bipolar disorder;Refractive error;Diastolic blood pressure
+ENSG00000101000	PROCR	adipose_tissue	126.8	1	Protein C receptor	1	Amyotrophic lateral sclerosis (sporadic);Protein C levels;Venous thromboembolism;Fish- and plant-related diet
+ENSG00000099194	SCD	adipose_tissue	1233.7	0		1	Blood metabolite ratios;Blood metabolite levels
+ENSG00000135917	SLC19A3	adipose_tissue	46.7	0		1	Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis);Allergic disease (asthma, hay fever and/or eczema) (age of onset);Obesity-related traits;Type 2 diabetes (SNP x SNP interaction, 2df);Asthma onset (childhood vs adult)
+ENSG00000164638	SLC29A4	adipose_tissue	43.3	0		1	Weight gain in amisulpride-treated first-episode psychosis
+ENSG00000256235	SMIM3	adipose_tissue	161	0		1	Crohns disease;Inflammatory bowel disease;Cholangiocarcinoma in primary sclerosing cholangitis;Dimensional psychopathology (Arousal)
+ENSG00000164056	SPRY1	adipose_tissue	238.1	0		1	Metabolite levels;Irritable bowel syndrome;Triglyceride levels;Apolipoprotein B levels;Systolic blood pressure x smoking status (current vs non-current) interaction (1df test)
+ENSG00000127954	STEAP4	adipose_tissue	113.7	0		1	Restless legs syndrome
+ENSG00000176438	SYNE3	adipose_tissue	19.1	0		1	Body mass index
+ENSG00000181234	TMEM132C	adipose_tissue	31.6	0		1	Lung cancer in never smokers;Time-dependent creatinine clearance change response to tenofovir treatment in HIV infection (time and treatment arm interaction);High chromosomal aberration frequency (chromatid type);Systemic lupus erythematosus;Depressive symptoms x herpes simplex 1 infection interaction
+ENSG00000120949	TNFRSF8	adipose_tissue	5.3	1	TNF receptor superfamily member 8	1	Eosinophil percentage of granulocytes;Eosinophil counts;Neutrophil percentage of granulocytes;Eosinophil percentage of white cells;Sum eosinophil basophil counts
+ENSG00000124343	XG	adipose_tissue	17.5	0		1	Resting oxygen saturation in chronic osbtructive pulmonary disease (pulse oxymetry);Energy expenditure (24h);Smoking status (ever vs never smokers);Number of sexual partners;Lung function in heavy smokers (high FEV1 vs average FEV1)

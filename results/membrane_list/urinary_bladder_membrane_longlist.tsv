@@ -1,0 +1,36 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000170425	ADORA2B	urinary_bladder	14.2	1	Adenosine A2b receptor	1	HDL cholesterol levels in HIV infection;Immune reponse to smallpox (secreted IL-12p40)
+ENSG00000165272	AQP3	urinary_bladder	688.6	0		1	Lung adenocarcinoma;Neuroblastoma or malignant cutaneous melanoma
+ENSG00000109321	AREG	urinary_bladder	145.6	0		1	Blond vs. brown/black hair color;Breast size;Mammographic density (dense area);Spherical equivalent (joint analysis main effects and education interaction)
+ENSG00000132681	ATP1A4	urinary_bladder	5.1	0		1	Gout;Composite immunoglobulin trait (IgA/IgG)
+ENSG00000100739	BDKRB1	urinary_bladder	23.4	0		1	Metabolite levels
+ENSG00000168398	BDKRB2	urinary_bladder	41.1	1	Bradykinin receptor B2	1	Mumps;Corneal astigmatism;Cerebrospinal fluid AB1-42 levels;Subcutaneous adipose tissue;Gout
+ENSG00000183813	CCR4	urinary_bladder	5.4	1	C-C motif chemokine receptor 4	1	Psychosis proneness (revised social anhedonia scale);Psychosis proneness (hypomanic personality scale and revised social anhedonia scale);Psychosis proneness (perceptual aberration scale and revised social anhedonia scale);Psychosis proneness (revised physical anhedonia scale and revised social anhedonia scale);Celiac disease
+ENSG00000140465	CYP1A1	urinary_bladder	63.6	0		1	Diastolic blood pressure x smoking status (ever vs never) interaction (2df test);Systolic blood pressure (cigarette smoking interaction);Diastolic blood pressure (cigarette smoking interaction)
+ENSG00000140279	DUOX2	urinary_bladder	92.8	0		1	Iron status biomarkers (total iron binding capacity);Iron status biomarkers (iron levels);Iron status biomarkers (transferrin saturation);Iron status biomarkers (ferritin levels)
+ENSG00000065325	GLP2R	urinary_bladder	11.8	1	Glucagon like peptide 2 receptor	1	Type 2 diabetes;GIP levels in response to oral glucose tolerance test (fasting);Iron status biomarkers (ferritin levels);Femur bone mineral density x serum urate levels interaction
+ENSG00000139572	GPR84	urinary_bladder	15.8	0		1	Waist-to-hip ratio adjusted for BMI x sex x age interaction (4df test)
+ENSG00000013588	GPRC5A	urinary_bladder	130.8	0		1	Hemoglobin levels;Hematocrit;Hemoglobin concentration;Hemoglobin
+ENSG00000170961	HAS2	urinary_bladder	20.5	0		1	Periodontal disease-related phenotype (Socransky);Chin dimples;Pulse pressure x educational attainment (some college) interaction (2df);Severe COVID-19 infection with respiratory failure (analysis I);HDL cholesterol levels x alcohol consumption (drinkers vs non-drinkers) interaction (2df)
+ENSG00000103044	HAS3	urinary_bladder	92.8	0		1	Body mass index;Brain morphology (MOSTest);Attention deficit hyperactivity disorder;Diastolic blood pressure
+ENSG00000113070	HBEGF	urinary_bladder	128.6	0		1	Bipolar I disorder;Bipolar disorder;White matter integrity (fractional anisotropy);White matter integrity (mean diffusivity);Alzheimers disease
+ENSG00000090339	ICAM1	urinary_bladder	215.3	1	Intercellular adhesion molecule 1	1	Height;Pulse pressure;Lymphocyte count;Inflammatory bowel disease;Vitiligo
+ENSG00000134460	IL2RA	urinary_bladder	11.2	1	Interleukin 2 receptor subunit alpha	1	Vitiligo;Rheumatoid arthritis;Response to anti-retroviral therapy (ddI/d4T) in HIV-1 infection (Grade 3 peripheral neuropathy)
+ENSG00000161638	ITGA5	urinary_bladder	386.5	0		1	Waist-to-hip ratio adjusted for BMI x sex x age interaction (4df test)
+ENSG00000149573	MPZL2	urinary_bladder	155.9	0		1	Lung cancer in ever smokers;Lung cancer;Lung adenocarcinoma;Sleep duration (long sleep)
+ENSG00000108405	P2RX1	urinary_bladder	75.5	0		1	Systemic sclerosis (anti-topoisomerase-positive);Mean platelet volume;Plateletcrit;Platelet count
+ENSG00000148344	PTGES	urinary_bladder	78.6	0		1	Asthma;Body mass index;High light scatter reticulocyte percentage of red cells;High light scatter reticulocyte count
+ENSG00000124212	PTGIS	urinary_bladder	81.7	1	Prostaglandin I2 synthase	1	Schizophrenia;Anorexia nervosa, attention-deficit/hyperactivity disorder, autism spectrum disorder, bipolar disorder, major depression, obsessive-compulsive disorder, schizophrenia, or Tourette syndrome (pleiotropy)
+ENSG00000007908	SELE	urinary_bladder	56.1	0		1	Oily fish consumption;Fish- and plant-related diet;Pork consumption
+ENSG00000141469	SLC14A1	urinary_bladder	90.9	0		1	Pursuit maintenance gain;High light scatter reticulocyte count;Bladder cancer;Mean corpuscular hemoglobin concentration
+ENSG00000184564	SLITRK6	urinary_bladder	14.7	0		1	Bipolar disorder (mania);Trunk fat mass adjusted for trunk lean mass;Femoral neck bone mineral density and trunk fat mass adjusted by trunk lean mass;Male sexual orientation;Initial alcohol sensitivity
+ENSG00000196542	SPTSSB	urinary_bladder	49.5	0		1	Parkinsons disease;Number of sexual partners;Parkinsons disease or first degree relation to individual with Parkinsons disease;IgG1 response to Plasmodium falciparum antigen (GLURP);Morning person
+ENSG00000149043	SYT8	urinary_bladder	40.5	0		1	Logical memory (delayed recall) in mild cognitive impairment;Celiac disease
+ENSG00000154096	THY1	urinary_bladder	216.7	0		1	Refractive error
+ENSG00000137648	TMPRSS4	urinary_bladder	74.6	0		1	Lean body mass
+ENSG00000146072	TNFRSF21	urinary_bladder	148.1	0		1	Thiopurine-induced alopecia in inflammatory bowel disease;Panic disorder
+ENSG00000104321	TRPA1	urinary_bladder	27.7	1	Transient receptor potential cation channel subfamily A member 1	1	Metabolite levels;Lung cancer in ever smokers;Waist-to-hip ratio adjusted for BMI;Waist-to-hip ratio adjusted for BMI x sex x age interaction (4df test);Coronary artery disease
+ENSG00000242366	UGT1A8	urinary_bladder	30	0		1	Serum metabolite levels
+ENSG00000105668	UPK1A	urinary_bladder	205.7	0		1	Refractive error;Brain morphology (MOSTest)
+ENSG00000114638	UPK1B	urinary_bladder	88.8	0		1	Gemcitabine-induced early high-grade neutropenia in pancreatic cancer
+ENSG00000110375	UPK2	urinary_bladder	70.1	0		1	Asthma

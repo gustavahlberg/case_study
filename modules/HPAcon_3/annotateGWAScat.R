@@ -60,3 +60,34 @@ hpaToiSecSpecTrait <- hpaToiSecSpec[which(hpaToiSecSpec$fda == 1 | hpaToiSecSpec
 #
 
 
+memOI <- unique(hpaToimemSpec$Gene.name)
+
+hpaToimemSpec$fda <- 0
+hpaToimemSpec$fdaGeneDesc <- ""
+hpaToimemSpec$gwcat <- 0
+hpaToimemSpec$gwasTraits <- ""
+
+for(i in 1:length(memOI)) {
+  idxGW <- grep(memOI[i], gwCat$REPORTED.GENE.S.)
+  if(length(idxGW) > 5) idxGW <- idxGW[1:5]
+  traits <- paste(unique(gwCat[idxGW,]$DISEASE.TRAIT) , collapse = ";")
+  hpaToimemSpec$gwasTraits[hpaToimemSpec$Gene.name %in% memOI[i]] <- traits
+  
+}
+
+hpaToimemSpec[!hpaToimemSpec$gwasTraits == "",]$gwcat <- 1
+# FDA approved gene
+hpaToimemSpec[hpaToimemSpec$Gene.name %in% fda$Gene,]$fda <- 1
+
+rownames(fda) <- fda$Gene
+
+hpaToimemSpec$fdaGeneDesc[hpaToimemSpec$fda == 1] <- 
+  fda[hpaToimemSpec$Gene.name[hpaToimemSpec$fda == 1],]$Gene.description
+
+
+
+# subset to in gwas cat and/or fda
+sum(hpaToimemSpec$fda == 1 | hpaToimemSpec$gwcat == 1)
+
+hpaToimemSpecTrait <- hpaToimemSpec[which(hpaToimemSpec$fda == 1 | hpaToimemSpec$gwcat == 1),]
+

@@ -1,0 +1,16 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000043591	ADRB1	heart_muscle	23.7	1	Adrenoceptor beta 1	1	Birth weight;Diastolic blood pressure (cigarette smoking interaction);Systolic blood pressure (cigarette smoking interaction)
+ENSG00000151067	CACNA1C	heart_muscle	27.1	1	Calcium voltage-gated channel subunit alpha1 C	1	Fractional exhaled nitric oxide (childhood);Schizophrenia;Schizophrenia or bipolar disorder
+ENSG00000181072	CHRM2	heart_muscle	36.1	1	Cholinergic receptor muscarinic 2	1	General risk tolerance (MTAG);Resting heart rate;Heart rate response to recovery post exercise (40 sec);Heart rate response to recovery post exercise (50 sec);Heart rate response to recovery post exercise (30 sec)
+ENSG00000161509	GRIN2C	heart_muscle	18.6	1	Glutamate ionotropic receptor NMDA type subunit 2C	1	Congenital heart disease (maternal effect);Femur bone mineral density x serum urate levels interaction
+ENSG00000113749	HRH2	heart_muscle	26.3	1	Histamine receptor H2	1	Night sleep phenotypes;Mosquito bite size;Anti-thyroid peroxidase (TPOAb) levels in Hashimotos thyroiditis
+ENSG00000121361	KCNJ8	heart_muscle	71.3	1	Potassium inwardly rectifying channel subfamily J member 8	1	Birth weight
+ENSG00000198888	MT-ND1	heart_muscle	127951.9	1	Mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 1	0	
+ENSG00000188389	PDCD1	heart_muscle	6.7	1	Programmed cell death 1	1	Schizophrenia;Blood protein levels;White matter hyperintensity burden;Autism spectrum disorder or schizophrenia
+ENSG00000172572	PDE3A	heart_muscle	43.4	1	Phosphodiesterase 3A	1	Systolic blood pressure (alcohol consumption interaction);HDL cholesterol;Response to platinum-based chemotherapy (carboplatin);Systolic blood pressure (cigarette smoking interaction);Lung adenocarcinoma
+ENSG00000162409	PRKAA2	heart_muscle	40.8	1	Protein kinase AMP-activated catalytic subunit alpha 2	1	Lymphocyte count
+ENSG00000198626	RYR2	heart_muscle	132	1	Ryanodine receptor 2	1	Lipid traits;Metabolite levels;Response to taxane treatment (docetaxel);General risk tolerance (MTAG)
+ENSG00000149575	SCN2B	heart_muscle	12.8	1	Sodium voltage-gated channel beta subunit 2	1	Preeclampsia
+ENSG00000183873	SCN5A	heart_muscle	42.8	1	Sodium voltage-gated channel alpha subunit 5	1	PR interval;QRS duration
+ENSG00000183023	SLC8A1	heart_muscle	117.5	1	Solute carrier family 8 member A1	1	PR interval;Immune response to measles-mumps-rubella vaccine;Alzheimers disease;Electrocardiographic traits;Mitochondrial DNA levels
+ENSG00000162009	SSTR5	heart_muscle	6.9	1	Somatostatin receptor 5	1	Polycystic ovary syndrome;Height;Heel bone mineral density;Logical memory (immediate recall) in normal cognition;Appendicular lean mass

@@ -1,0 +1,11 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000157087	ATP2B2	skeletal_muscle	37.4	1	ATPase plasma membrane Ca2+ transporting 2	1	Amyotrophic lateral sclerosis (sporadic);Bipolar disorder;Autism spectrum disorder or schizophrenia;Manganese levels;Cognitive decline rate in late mild cognitive impairment
+ENSG00000118298	CA14	skeletal_muscle	33.7	1	Carbonic anhydrase 14	1	Schizophrenia;Bipolar disorder;Refractive error;Brain morphology (MOSTest);Cortical thickness (MOSTest)
+ENSG00000153956	CACNA2D1	skeletal_muscle	78.7	1	Calcium voltage-gated channel auxiliary subunit alpha2delta 1	1	Response to taxane treatment (docetaxel);Energy expenditure (24h);Spontaneous preterm birth (maternal effect);Gestational age at birth (maternal effect);Glaucoma (primary open-angle)
+ENSG00000157445	CACNA2D3	skeletal_muscle	9.9	1	Calcium voltage-gated channel auxiliary subunit alpha2delta 3	1	Endometrial cancer;Lung cancer in ever smokers;Type 2 diabetes;Obsessive compulsive disorder severity;Nose size
+ENSG00000129749	CHRNA10	skeletal_muscle	47.8	1	Cholinergic receptor nicotinic alpha 10 subunit	1	Malaria
+ENSG00000160712	IL6R	skeletal_muscle	94.2	1	Interleukin 6 receptor	1	Response to anti-retroviral therapy (ddI/d4T) in HIV-1 infection (Grade 2 peripheral neuropathy);Fibrinogen;Rheumatoid arthritis;Cerebrospinal fluid levels of Alzheimers disease-related proteins
+ENSG00000112992	NNT	skeletal_muscle	239.1	1	Nicotinamide nucleotide transhydrogenase	1	Diastolic blood pressure (cigarette smoking interaction);Systolic blood pressure (cigarette smoking interaction);Height;Apolipoprotein A1 levels;Cardiac Troponin-T levels
+ENSG00000162409	PRKAA2	skeletal_muscle	38.7	1	Protein kinase AMP-activated catalytic subunit alpha 2	1	Lymphocyte count
+ENSG00000196218	RYR1	skeletal_muscle	1618.9	1	Ryanodine receptor 1	1	Abstraction and mental flexibility;Peanut allergy (parent-of-origin effect);White blood cell count (basophil);Basophil percentage of granulocytes;Basophil percentage of white cells
+ENSG00000105711	SCN1B	skeletal_muscle	572	1	Sodium voltage-gated channel beta subunit 1	1	Metabolite levels;Serum albumin levels

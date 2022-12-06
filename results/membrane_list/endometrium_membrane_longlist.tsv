@@ -1,0 +1,23 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000184160	ADRA2C	endometrium	57.6	1	Adrenoceptor alpha 2C	1	Lung cancer in ever smokers;Urinary potassium excretion;Blood urea nitrogen levels;Nickel levels
+ENSG00000180772	AGTR2	endometrium	8.8	0		1	Type 2 diabetes;Lung disease severity in cystic fibrosis
+ENSG00000151067	CACNA1C	endometrium	20.7	1	Calcium voltage-gated channel subunit alpha1 C	1	Fractional exhaled nitric oxide (childhood);Schizophrenia;Schizophrenia or bipolar disorder
+ENSG00000130226	DPP6	endometrium	58.2	0		1	Post-traumatic stress disorder;Colorectal cancer (diet interaction);Age-related cognitive decline (visuospatial skill) (slope of z-scores);Spherical equivalent or myopia (age of diagnosis);Venous thromboembolism adjusted for sickle cell variant rs77121243-T
+ENSG00000143147	GPR161	endometrium	41.5	0		1	Red cell distribution width
+ENSG00000135914	HTR2B	endometrium	18.8	1	5-hydroxytryptamine receptor 2B	1	Proportion of activated microglia (midfrontal cortex);Thiazide-induced adverse metabolic effects in hypertensive patients
+ENSG00000137809	ITGA11	endometrium	53.1	0		1	Perceived intensity of fructose;Systolic blood pressure;Dupuytrens disease;Major depressive disorder
+ENSG00000026559	KCNG1	endometrium	87.4	0		1	Bipolar I disorder;Bipolar disorder or type 2 diabetes;Bipolar disorder;Allergic rhinitis;Longitudinal change in brain amyloid plaque burden
+ENSG00000156113	KCNMA1	endometrium	138.7	1	Potassium calcium-activated channel subfamily M alpha 1	1	Hypospadias;Educational attainment;Blood pressure;Heel bone mineral density
+ENSG00000145936	KCNMB1	endometrium	59.2	1	Potassium calcium-activated channel subfamily M regulatory beta subunit 1	1	Acne (severe);Liver transplant-free survival in primary sclerosing cholangitis (time to event)
+ENSG00000174482	LINGO2	endometrium	7.5	0		1	Endometrial cancer;Type 2 diabetes;BMI (adjusted for smoking behaviour)
+ENSG00000079931	MOXD1	endometrium	64.2	0		1	Height;Obesity-related traits
+ENSG00000050628	PTGER3	endometrium	95.2	1	Prostaglandin E receptor 3	1	Proximal colorectal cancer;Colon cancer;Dental caries (decayed, missing and filled teeth);Verbal declarative memory;Intelligence (MTAG)
+ENSG00000153233	PTPRR	endometrium	5.5	0		1	Uterine fibroids;Refractive error;HDL cholesterol levels;Apolipoprotein A1 levels
+ENSG00000132329	RAMP1	endometrium	706	1	Receptor activity modifying protein 1	1	Resting metabolic rate;Epilepsy and lamotrigine-induced maculopapular eruptions;Obesity-related traits
+ENSG00000171509	RXFP1	endometrium	6.2	0		1	Acute lymphoblastic leukemia (childhood);Waist circumference adjusted for body mass index
+ENSG00000180440	SERTM1	endometrium	23.9	0		1	Nickel levels;Urinary albumin excretion;Cocaine dependence
+ENSG00000249992	TMEM158	endometrium	69.5	0		1	Metabolite levels;Inflammatory skin disease;Acne (severe);Levodopa-induced dyskinesia in levodopa treated Parkinsons disease;Cerebrospinal AB1-42 levels in normal cognition
+ENSG00000164484	TMEM200A	endometrium	39.3	0		1	Colorectal cancer (calcium intake interaction);Exploratory eye movement dysfunction in schizophrenia (number of eye fixations);Exploratory eye movement dysfunction in schizophrenia (responsive search score);Exploratory eye movement dysfunction in schizophrenia (cognitive search score)
+ENSG00000253304	TMEM200B	endometrium	60.6	0		1	Tourette syndrome;Carotid plaque maximum area;Mean area of carotid plaque
+ENSG00000133107	TRPC4	endometrium	11.9	0		1	Fish- and plant-related diet;HDL cholesterol levels;Heel bone mineral density;Smoking initiation;Waist-to-hip ratio adjusted for BMI (age >50)
+ENSG00000134198	TSPAN2	endometrium	47.4	0		1	Large artery stroke (CCSp classification)j;Large artery stroke (CCS and TOAST classification);Large artery stroke (CCS or TOAST classification);Migraine;Ischemic stroke (large artery atherosclerosis)

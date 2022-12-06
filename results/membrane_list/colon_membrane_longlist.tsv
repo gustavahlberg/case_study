@@ -1,0 +1,144 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000085563	ABCB1	colon	16.6	0		1	Systolic blood pressure in sickle cell anemia;Cholesterol, total;Glycated hemoglobin levels;Type 2 diabetes;Low density lipoprotein cholesterol levels
+ENSG00000118777	ABCG2	colon	15.7	0		1	Serum uric acid levels;Gout
+ENSG00000159640	ACE	colon	11.2	1	Angiotensin I converting enzyme	1	Blood metabolite ratios;Blood metabolite levels
+ENSG00000130234	ACE2	colon	9.9	0		1	Glycemic traits (pregnancy);Elevated fasting plasma glucose;Body mass index;Adult body size;Cognitive ability, years of educational attainment or schizophrenia (pleiotropy)
+ENSG00000197142	ACSL5	colon	111.7	0		1	High chromosomal aberration frequency (chromosome type) in genotoxic compound exposure;Mean platelet volume;Basophil percentage of white cells
+ENSG00000111863	ADTRP	colon	80.7	0		1	Spatial processing;Apolipoprotein B levels;Refractive error;Daytime sleep phenotypes;Body mass index
+ENSG00000146205	ANO7	colon	16.3	0		1	Neuroblastoma (pediatric);Prostate cancer
+ENSG00000185101	ANO9	colon	16	0		1	Nevus count or cutaneous melanoma;Metastatic colorectal cancer survival in treatment with chemotherapy plus biologics
+ENSG00000118322	ATP10B	colon	44.5	0		1	Idiopathic downbeat nystagmus;Dermatomyositis or juvenile dermatomyositis;Asthma;Sweet taste preference
+ENSG00000064270	ATP2C2	colon	30.1	1	ATPase secretory pathway Ca2+ transporting 2	1	Metabolite levels;Chronic obstructive pulmonary disease-related biomarkers;Peanut allergy (parent-of-origin effect);Cardiovascular death, myocardial infarction or stroke in response to clopidogrel treatment;Attention deficit hyperactivity disorder
+ENSG00000081923	ATP8B1	colon	76.2	0		1	Hemoglobin levels;Hematocrit;Hemoglobin;Very long-chain saturated fatty acid levels (fatty acid 20:0);Manganese levels
+ENSG00000167080	B4GALNT2	colon	33.5	0		1	Refractive error;Spherical equivalent or myopia (age of diagnosis);Coronary artery disease;Prostate cancer;Monocyte percentage of white cells
+ENSG00000174808	BTC	colon	25.6	0		1	Electroencephalogram traits;Breast size;Chronic obstructive pulmonary disease;Diverticular disease;FEV1
+ENSG00000168903	BTNL3	colon	26	0		1	HDL cholesterol levels;Apolipoprotein A1 levels;GIP levels in response to oral glucose tolerance test (120 minutes)
+ENSG00000113303	BTNL8	colon	26.7	0		1	Blood protein levels
+ENSG00000253313	C1orf210	colon	32.4	0		1	Brain morphology (MOSTest);Cortical thickness (MOSTest);Subcortical volume (MOSTest);Brain morphology (min-P);Cortical surface area (MOSTest)
+ENSG00000167434	CA4	colon	263.6	1	Carbonic anhydrase 4	1	Inflammatory skin disease;Apolipoprotein B levels;Non-oily fish consumption;Oily fish consumption;Pork consumption
+ENSG00000151067	CACNA1C	colon	29.9	1	Calcium voltage-gated channel subunit alpha1 C	1	Fractional exhaled nitric oxide (childhood);Schizophrenia;Schizophrenia or bipolar disorder
+ENSG00000196557	CACNA1H	colon	107.7	1	Calcium voltage-gated channel subunit alpha1 H	1	Mastocytosis (KIT D816V positive);Leukocyte telomere length;Eosinophil counts
+ENSG00000177675	CD163L1	colon	14.6	0		1	Intracranial aneurysm;Lactate dehydrogenase levels;Blood protein levels
+ENSG00000079112	CDH17	colon	260.9	0		1	Fish- and plant-related diet;Oily fish consumption;Type 2 diabetes;Pork consumption
+ENSG00000071991	CDH19	colon	19.4	0		1	Blood pressure (smoking interaction);Non-response to selective serotonin reuptake inhibitors and depression;Metabolite levels;Chronotype;Depression in smokers
+ENSG00000074276	CDHR2	colon	23.2	0		1	Height
+ENSG00000079385	CEACAM1	colon	246.3	0		1	LDL cholesterol levels;Apolipoprotein B levels;Alzheimers disease or HDL levels (pleiotropy)
+ENSG00000086548	CEACAM6	colon	195	0		1	Serum carcinoembryonic antigen levels
+ENSG00000001626	CFTR	colon	42.7	1	CF transmembrane conductance regulator	1	Response to methotrexate in juvenile idiopathic arthritis;Waist-to-hip ratio adjusted for BMI;Waist-to-hip ratio adjusted for BMI x sex x age interaction (4df test);Barretts esophagus  or Esophageal adenocarcinoma
+ENSG00000181072	CHRM2	colon	21.2	1	Cholinergic receptor muscarinic 2	1	General risk tolerance (MTAG);Resting heart rate;Heart rate response to recovery post exercise (40 sec);Heart rate response to recovery post exercise (50 sec);Heart rate response to recovery post exercise (30 sec)
+ENSG00000135702	CHST5	colon	46.1	0		1	Pancreatic cancer
+ENSG00000016602	CLCA4	colon	257.8	0		1	Fasting glucose
+ENSG00000114859	CLCN2	colon	16.2	1	Chloride voltage-gated channel 2	1	General cognitive ability
+ENSG00000253958	CLDN23	colon	16.4	0		1	Fish- and plant-related diet;General risk tolerance (MTAG)
+ENSG00000165215	CLDN3	colon	263.1	0		1	Platelet distribution width;Mean platelet volume
+ENSG00000181885	CLDN7	colon	341	0		1	Birth weight;Multiple sclerosis;Offspring birth weight;Lung function (FVC)
+ENSG00000156284	CLDN8	colon	27.2	0		1	Response to statin therapy
+ENSG00000173546	CSPG4	colon	55.4	0		1	Simvastatin-induced myopathy;Schizophrenia;Intraocular pressure;Estimated glomerular filtration rate;Hip index
+ENSG00000106258	CYP3A5	colon	28.4	0		1	Blood metabolite ratios;Blood metabolite levels
+ENSG00000186204	CYP4F12	colon	15.1	0		1	LDL cholesterol levels;Glioma
+ENSG00000168350	DEGS2	colon	8.9	0		1	White matter hyperintensities;White matter hyperintensity volume (adjusted for hypertension);White matter hyperintensity volume;Periventricular white matter hyperintensities
+ENSG00000185000	DGAT1	colon	16.7	0		1	Dupuytrens disease;Fasting glucose
+ENSG00000073737	DHRS9	colon	70.4	0		1	Apolipoprotein A1 levels;Serum alkaline phosphatase levels;Gut microbiota (bacterial taxa, hurdle binary method);Hippocampal volume in Alzheimers disease dementia
+ENSG00000046604	DSG2	colon	105.3	0		1	Blood protein levels
+ENSG00000170571	EMB	colon	9.7	0		1	Metabolite levels;Refractive error;Breast cancer;Electrocardiographic traits (multivariate)
+ENSG00000119888	EPCAM	colon	806	1	Epithelial cell adhesion molecule	1	epithelial cell adhesion molecule levels;Severe insulin-deficient type 2 diabetes
+ENSG00000183317	EPHA10	colon	13.4	0		1	Eyebrow thickness;Axial length;Prostate cancer (SNP x SNP interaction)
+ENSG00000133216	EPHB2	colon	22.6	0		1	Refractive error;Blood protein levels
+ENSG00000164251	F2RL1	colon	59.4	0		1	Serum bilirubin levels x sex interaction in metabolic syndrome
+ENSG00000183844	FAM3B	colon	5.9	0		1	Glycemic traits (pregnancy);Elevated serum carcinoembryonic antigen levels;Blood protein levels;Tumor biomarkers
+ENSG00000064763	FAR2	colon	34.5	0		1	Triglyceride levels;Refractive error;Heel bone mineral density;Breast cancer;Platelet distribution width
+ENSG00000186188	FFAR4	colon	8.3	1	Free fatty acid receptor 4	1	Triglyceride levels;HDL cholesterol levels;Response to (pegylated) interferon in chronic hepatitis B;Waist-to-hip ratio adjusted for BMI
+ENSG00000176920	FUT2	colon	23.5	0		1	Vitamin B levels in ischemic stroke;Blood metabolite ratios;Blood metabolite levels;Psoriasis
+ENSG00000171124	FUT3	colon	72.3	0		1	Blood protein levels;Elevated serum carcinoembryonic antigen levels;Vitamin B12 levels
+ENSG00000140297	GCNT3	colon	142.9	0		1	Macular thickness
+ENSG00000146013	GFRA3	colon	13	0		1	Schizophrenia;Autism spectrum disorder or schizophrenia;QT interval;Immune reponse to smallpox (secreted IL-12p40);Appendicular lean mass
+ENSG00000167741	GGT6	colon	53.4	0		1	Rheumatoid arthritis;Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)
+ENSG00000198814	GK	colon	13	0		1	Hypospadias;Cognitive decline (age-related);Metabolite levels;Post-traumatic stress disorder
+ENSG00000065325	GLP2R	colon	13.5	1	Glucagon like peptide 2 receptor	1	Type 2 diabetes;GIP levels in response to oral glucose tolerance test (fasting);Iron status biomarkers (ferritin levels);Femur bone mineral density x serum urate levels interaction
+ENSG00000143167	GPA33	colon	215.9	0		1	Eosinophilic granulomatosis with polyangiitis (ANCA negative)
+ENSG00000154165	GPR15	colon	20	0		1	Energy expenditure (24h);Hepatitis C (spontaneous viral clearance);Circulating leptin levels in high cardiovascular risk;Refractive error
+ENSG00000144230	GPR17	colon	23.8	0		1	Bone mineral density;Proportion of activated microglia (inferior temporal cortex);Logical memory (immediate recall) in normal cognition;Ovarian cancer;Metabolite levels
+ENSG00000178623	GPR35	colon	28.3	0		1	Granulocyte percentage of myeloid white cells;Monocyte percentage of white cells;Monocyte count;Chronic inflammatory diseases (ankylosing spondylitis, Crohns disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)
+ENSG00000183840	GPR39	colon	6.8	0		1	Calcium levels;Hypertension (SNP x SNP interaction);Post bronchodilator percent predicted FEV1 in smoking;Post bronchodilator FEV1/FVC ratio in smoking;Cervical high-risk human papilloma virus infection (persistent)
+ENSG00000163873	GRIK3	colon	7.8	1	Glutamate ionotropic receptor kainate type subunit 3	1	Neuroticism;Iron status biomarkers (transferrin saturation);Iron status biomarkers (total iron binding capacity);Post bronchodilator FEV1/FVC ratio
+ENSG00000070019	GUCY2C	colon	37.2	1	Guanylate cyclase 2C	0	
+ENSG00000089472	HEPH	colon	81.9	0		1	Erectile dysfunction and prostate cancer treatment;Obesity-related traits;Male-pattern baldness
+ENSG00000114455	HHLA2	colon	87.9	0		1	Regular attendance at a religious group
+ENSG00000242574	HLA-DMB	colon	19.9	0		1	Squamous cell lung carcinoma;Asthma;Autism spectrum disorder or schizophrenia;Lung cancer
+ENSG00000163701	IL17RE	colon	16.6	0		1	Acne (severe);Ulcerative colitis;Heel bone mineral density x serum urate levels interaction
+ENSG00000147168	IL2RG	colon	98.9	1	Interleukin 2 receptor subunit gamma	0	
+ENSG00000213949	ITGA1	colon	36.6	0		1	Response to platinum-based agents;Alzheimers disease biomarkers;Serum thyroid-stimulating hormone levels;Acne (severe);Metabolite levels
+ENSG00000161638	ITGA5	colon	398.8	0		1	Waist-to-hip ratio adjusted for BMI x sex x age interaction (4df test)
+ENSG00000135916	ITM2C	colon	707.6	0		1	Mean corpuscular hemoglobin;Mean corpuscular volume;Mean spheric corpuscular volume;Mean reticulocyte volume
+ENSG00000175538	KCNE3	colon	34.9	0		1	Neuritic plaque;Corneal astigmatism
+ENSG00000164626	KCNK5	colon	14.2	0		1	Social communication problems;Urinary albumin-to-creatinine ratio;HDL cholesterol levels;Apolipoprotein A1 levels
+ENSG00000145936	KCNMB1	colon	75.1	1	Potassium calcium-activated channel subfamily M regulatory beta subunit 1	1	Acne (severe);Liver transplant-free survival in primary sclerosing cholangitis (time to event)
+ENSG00000117013	KCNQ4	colon	5.4	0		1	Nasopharyngeal carcinoma (SNP x SNP interaction);Electrocardiogram morphology (amplitude at temporal datapoints)
+ENSG00000062524	LTK	colon	5.2	0		1	Type 2 diabetes;Apolipoprotein A1 levels;High density lipoprotein cholesterol levels;Household income (MTAG)
+ENSG00000189221	MAOA	colon	116.4	1	Monoamine oxidase A	1	Smoking behavior;Tuberculosis (SNP x SNP interaction)
+ENSG00000140832	MARVELD3	colon	23.6	0		1	LDL cholesterol levels;Pulse pressure;Refractive error;Post bronchodilator FEV1;Estimated glomerular filtration rate
+ENSG00000153898	MCOLN2	colon	10.2	0		1	Serum sulfate level
+ENSG00000141434	MEP1B	colon	8.2	0		1	Metabolite levels;TRAIL levels
+ENSG00000071203	MS4A12	colon	234.2	0		1	Supramarginal gyrus volume;Congenital heart disease (maternal effect);Lymphocyte count
+ENSG00000205277	MUC12	colon	49.9	0		1	Hemoglobin levels;Nonunion in individuals with fractures;Pulse pressure;Haemorrhoidal disease;Parkinsons disease
+ENSG00000169894	MUC3A	colon	9.4	0		1	LDL cholesterol levels;Nonunion in individuals with fractures
+ENSG00000145113	MUC4	colon	31.1	0		1	Red blood cell density in sickle cell anemia;Lung disease severity in cystic fibrosis
+ENSG00000007952	NOX1	colon	58.9	0		1	Blood and toenail selenium levels;Photic sneeze reflex;Parent of origin effect on receptive language ability (paternal)
+ENSG00000118257	NRP2	colon	78.7	0		1	Blood protein levels;Craniofacial microsomia;Diisocyanate-induced asthma;Neuropathy x type 2 diabetes interaction;Daytime nap
+ENSG00000095110	NXPE1	colon	64.9	0		1	Chronic inflammatory diseases (ankylosing spondylitis, Crohns disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy);Inflammatory bowel disease;Ulcerative colitis
+ENSG00000183034	OTOP2	colon	20.1	0		1	Intraocular pressure
+ENSG00000162896	PIGR	colon	1693.4	0		1	Blood protein levels;Coronary atherosclerosis (increased number of diseased vessels) (traffic exposure interaction);Precuneus cortex volume;Inflammatory bowel disease
+ENSG00000175785	PRIMA1	colon	53.7	0		1	Body mass index;Sleep duration;Self-reported risk-taking behaviour
+ENSG00000106772	PRUNE2	colon	110.9	0		1	Number of decayed, missing and filled tooth surfaces or use of dentures;Dentures;Antisaccade task score;Trunk fat mass;Waist-hip ratio
+ENSG00000168229	PTGDR	colon	5.6	0		1	Inflammatory bowel disease;Fasting glucose
+ENSG00000183134	PTGDR2	colon	8.2	0		1	Inflammatory bowel disease
+ENSG00000080031	PTPRH	colon	27.9	0		1	Plateletcrit;Serum metabolite levels;Mean spheric corpuscular volume
+ENSG00000151490	PTPRO	colon	10.4	0		1	Impaired insulin sensitivity in response to n-3 PUFA supplementation;Obstetric antiphospholipid syndrome;General cognitive ability;Temporal pole volume
+ENSG00000153233	PTPRR	colon	7.4	0		1	Uterine fibroids;Refractive error;HDL cholesterol levels;Apolipoprotein A1 levels
+ENSG00000133135	RNF128	colon	21.8	0		1	Alcoholic chronic pancreatitis;Creatinine levels
+ENSG00000178828	RNF186	colon	18.7	0		1	Ulcerative colitis;Inflammatory bowel disease;Chronic inflammatory diseases (ankylosing spondylitis, Crohns disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)
+ENSG00000108375	RNF43	colon	13.4	0		1	Vitamin D levels;Refractive error;Prostate cancer;Hemoglobin levels;Mean corpuscular volume
+ENSG00000168447	SCNN1B	colon	94.2	1	Sodium channel epithelial 1 subunit beta	1	Kidney stones
+ENSG00000141574	SECTM1	colon	36.7	0		1	Blood protein levels;Monocyte percentage of white cells
+ENSG00000095539	SEMA4G	colon	53.6	0		1	Regular attendance at a pub or social club
+ENSG00000137872	SEMA6D	colon	10.6	0		1	Response to radiotherapy in cancer (late toxicity);Lung cancer;Fish- and plant-related diet;Oily fish consumption
+ENSG00000090402	SI	colon	17.6	1	Sucrase-isomaltase	1	Vitamin B levels in ischemic stroke;Height;Inflammatory skin disease;Metabolite levels
+ENSG00000026751	SLAMF7	colon	32.6	1	SLAM family member 7	1	Blood protein levels;Microalbuminuria;Inflammatory bowel disease;Multiple sclerosis
+ENSG00000106688	SLC1A1	colon	12.4	0		1	Metabolite levels;Squamous cell lung carcinoma;Response to antipsychotic treatment in schizophrenia;Response to risperidone in schizophrenia;Pancreatic cancer
+ENSG00000110628	SLC22A18	colon	27.8	0		1	High density lipoprotein cholesterol levels;HDL cholesterol levels;Apolipoprotein A1 levels;Autism spectrum disorders (repetitive sensory-motor behaviour);Total bilirubin levels
+ENSG00000102743	SLC25A15	colon	5.9	0		1	Crohns disease;Keratoconus
+ENSG00000155850	SLC26A2	colon	212	0		1	Triglyceride levels;Feeling hurt
+ENSG00000091138	SLC26A3	colon	1120.4	0		1	Waist-to-hip ratio adjusted for BMI;Waist-to-hip ratio adjusted for BMI x sex x age interaction (4df test);Chronic inflammatory diseases (ankylosing spondylitis, Crohns disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy);Ulcerative colitis;Inflammatory bowel disease
+ENSG00000137860	SLC28A2	colon	9.5	0		1	Urinary metabolite levels in chronic kidney disease;Uric acid levels;Estimated glomerular filtration rate
+ENSG00000176273	SLC35G1	colon	6	0		1	Response to (pegylated) interferon in chronic hepatitis B;Cannabis dependence symptom count
+ENSG00000147804	SLC39A4	colon	33.1	0		1	Height;Liver enzyme levels (alkaline phosphatase)
+ENSG00000138079	SLC3A1	colon	22.4	0		1	Refractive error;antipsychotic drug dosage in schizophrenia or schizoaffective disorder
+ENSG00000204385	SLC44A4	colon	132	0		1	Metabolite levels;Telomere length;Lung cancer in ever smokers;Asthma;Asthma (childhood onset)
+ENSG00000076351	SLC46A1	colon	5.7	0		1	Osteoprotegerin levels;HDL cholesterol
+ENSG00000139508	SLC46A3	colon	19.8	0		1	Non-alcoholic fatty liver disease histology (other);Obesity-related traits
+ENSG00000033867	SLC4A7	colon	16.2	0		1	Breast cancer (early onset);Hypertension;Systolic blood pressure;Diastolic blood pressure;Systolic blood pressure (cigarette smoking interaction)
+ENSG00000186198	SLC51B	colon	41.9	0		1	White matter hyperintensities
+ENSG00000101276	SLC52A3	colon	11.5	0		1	Prostate cancer;Helping behaviour (self reported)
+ENSG00000100170	SLC5A1	colon	10.7	0		1	Blood metabolite levels;Lupus nephritis in systemic lupus erythematosus;Urinary metabolite levels in chronic kidney disease;Erectile dysfunction
+ENSG00000155465	SLC7A7	colon	13.8	1	Solute carrier family 7 member 7	1	Intraocular pressure;Type 2 diabetes;Cardiovascular death, myocardial infarction or stroke in response to clopidogrel treatment;Psychological resilience (outcome-based) in high deployment stress exposure;Resting-state electroencephalogram vigilance
+ENSG00000115616	SLC9A2	colon	20	0		1	Asthma;Gut microbiota (bacterial taxa);Night sleep phenotypes;Asthma or allergic disease (pleiotropy)
+ENSG00000066230	SLC9A3	colon	94.3	1	Solute carrier family 9 member A3	1	Pulse pressure;Systolic blood pressure;Diastolic blood pressure;Hemoglobin levels;Monocyte percentage of white cells
+ENSG00000103056	SMPD3	colon	13.8	0		1	Height;Refractive error;Hemoglobin levels;Offspring birth weight;Birth weight
+ENSG00000149418	ST14	colon	124.7	0		1	Refractive error;Adverse response to drug;Malaria
+ENSG00000103534	TMC5	colon	21.6	0		1	Sleep duration;Nicotine dependence symptom count;Gut microbiota (bacterial taxa, rank normal transformation method);HDL cholesterol;Parkinsons disease motor subtype (tremor dominant vs postural instability/gait difficulty)
+ENSG00000148483	TMEM236	colon	14.1	0		1	Allergic disease (asthma, hay fever or eczema)
+ENSG00000151715	TMEM45B	colon	95.1	0		1	Night sleep phenotypes;Serum metabolite levels;Spontaneous preterm birth with premature rupture of membranes;Obesity-related traits;Type 2 diabetes
+ENSG00000121900	TMEM54	colon	268	0		1	Mosaic loss of chromosome Y (Y chromosome dosage)
+ENSG00000162460	TMEM82	colon	6.6	0		1	Alcoholic chronic pancreatitis;Alcohol consumption (heavy vs. light/non-drinkers)
+ENSG00000182271	TMIGD1	colon	80.5	0		1	Apolipoprotein A1 levels;Appendicular lean mass
+ENSG00000137648	TMPRSS4	colon	43.5	0		1	Lean body mass
+ENSG00000141655	TNFRSF11A	colon	17.1	0		1	Pagets disease;Bone mineral density (paediatric, skull);Heel bone mineral density
+ENSG00000048462	TNFRSF17	colon	28.9	0		1	Phenylephrine infusion rate during anesthesia;Testicular germ cell tumor;QT interval;Blood protein levels
+ENSG00000104321	TRPA1	colon	7.9	1	Transient receptor potential cation channel subfamily A member 1	1	Metabolite levels;Lung cancer in ever smokers;Waist-to-hip ratio adjusted for BMI;Waist-to-hip ratio adjusted for BMI x sex x age interaction (4df test);Coronary artery disease
+ENSG00000117472	TSPAN1	colon	523.3	0		1	Metabolite levels;Response to taxane treatment (placlitaxel);Venous thromboembolism;Height;Red vs. brown/black hair color
+ENSG00000110900	TSPAN11	colon	25.9	0		1	Carotid plaque burden;Optic disc size;Triglyceride levels in HIV infection;Post bronchodilator FEV1 in COPD;Disease progression in age-related macular degeneration
+ENSG00000134198	TSPAN2	colon	55.4	0		1	Large artery stroke (CCSp classification)j;Large artery stroke (CCS and TOAST classification);Large artery stroke (CCS or TOAST classification);Migraine;Ischemic stroke (large artery atherosclerosis)
+ENSG00000127324	TSPAN8	colon	951.1	0		1	Type 2 diabetes;Refractive error;Monobrow
+ENSG00000242515	UGT1A10	colon	49.5	0		1	Serum metabolite levels
+ENSG00000242366	UGT1A8	colon	15.9	0		1	Serum metabolite levels
+ENSG00000047597	XK	colon	12.2	0		1	Eosinophilic esophagitis;Serum thyroid-stimulating hormone levels;Cholesterol, total;Rheumatoid arthritis;Lung cancer in ever smokers

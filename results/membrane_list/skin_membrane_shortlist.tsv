@@ -1,0 +1,9 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000064270	ATP2C2	skin	26	1	ATPase secretory pathway Ca2+ transporting 2	1	Metabolite levels;Chronic obstructive pulmonary disease-related biomarkers;Peanut allergy (parent-of-origin effect);Cardiovascular death, myocardial infarction or stroke in response to clopidogrel treatment;Attention deficit hyperactivity disorder
+ENSG00000074410	CA12	skin	142.1	1	Carbonic anhydrase 12	1	Number of decayed, missing and filled tooth surfaces or use of dentures;Number of decayed, missing and filled tooth surfaces;Dentures;Refractive error;Daytime nap
+ENSG00000179639	FCER1A	skin	33.6	1	Fc fragment of IgE receptor Ia	1	C-reactive protein;White blood cell count;IgE levels
+ENSG00000068078	FGFR3	skin	271.5	1	Fibroblast growth factor receptor 3	1	Bladder cancer;Chronic obstructive pulmonary disease-related biomarkers;Plateletcrit;Neutrophil percentage of white cells
+ENSG00000182782	HCAR2	skin	30.2	1	Hydroxycarboxylic acid receptor 2	1	Metabolic syndrome;Lead levels;High altitude adaptation;Reticulocyte count
+ENSG00000255398	HCAR3	skin	17.4	1	Hydroxycarboxylic acid receptor 3	1	Thrombin-activatable fibrinolysis inhibitor levels;Waist-to-hip ratio adjusted for BMI (recessive genetic model);Waist-to-hip ratio adjusted for BMI
+ENSG00000184292	TACSTD2	skin	438.8	1	Tumor associated calcium signal transducer 2	1	Calcific aortic valve stenosis;Nickel levels
+ENSG00000077498	TYR	skin	31.6	1	Tyrosinase	1	Vitiligo;Amyotrophic lateral sclerosis (sporadic);Metabolite levels;Systemic lupus erythematosus;Fish- and plant-related diet

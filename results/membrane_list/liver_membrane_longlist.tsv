@@ -1,0 +1,193 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000154262	ABCA6	liver	77.9	0		1	Low density lipoprotein cholesterol levels;LDL cholesterol levels;Corneal hysteresis;Apolipoprotein B levels;Hemoglobin levels
+ENSG00000073734	ABCB11	liver	80.8	0		1	Systolic blood pressure in sickle cell anemia;Cholesterol, total;Glycated hemoglobin levels;Low density lipoprotein cholesterol levels;LDL cholesterol levels
+ENSG00000005471	ABCB4	liver	123.2	0		1	LDL cholesterol levels;Low density lipoprotein cholesterol levels;Apolipoprotein B levels;Epithelial ovarian cancer;Gallbladder cancer
+ENSG00000023839	ABCC2	liver	121.7	1	ATP binding cassette subfamily C member 2	1	Colorectal cancer;Carboplatin disposition in epthelial ovarian cancer;Stent thrombosis in response to clopidogrel treatment;Serum metabolite levels
+ENSG00000091262	ABCC6	liver	134.2	0		1	Hemoglobin levels;Hematocrit;Hemoglobin;Multiple myeloma (survival);Red blood cell count
+ENSG00000069431	ABCC9	liver	45.2	1	ATP binding cassette subfamily C member 9	1	Hippocampal sclerosis of aging;Birth weight;Pulse pressure;Itch intensity from mosquito bite adjusted by bite size;Gout
+ENSG00000163686	ABHD6	liver	64.9	0		1	Rheumatoid arthritis;Refractive error;Hemoglobin levels;Platelet count
+ENSG00000181513	ACBD4	liver	93	0		1	Height;Asthma;Insomnia
+ENSG00000144648	ACKR2	liver	9.4	0		1	Blood protein levels;Eosinophil percentage of white cells;Eosinophil counts;Granulocyte percentage of myeloid white cells
+ENSG00000151726	ACSL1	liver	1319	0		1	Type 2 diabetes;Night sleep phenotypes;Neuroblastoma or malignant cutaneous melanoma
+ENSG00000197142	ACSL5	liver	165.5	0		1	High chromosomal aberration frequency (chromosome type) in genotoxic compound exposure;Mean platelet volume;Basophil percentage of white cells
+ENSG00000111058	ACSS3	liver	40	0		1	Plasma amyloid beta peptide concentrations (ABx-42);Response to antidepressant treatment (citalopram);Age-related cataracts (age at onset);Prudent dietary pattern;Lateral orbital frontal cortex volume
+ENSG00000112414	ADGRG6	liver	71.9	0		1	Height;Chronic obstructive pulmonary disease
+ENSG00000120907	ADRA1A	liver	60.1	1	Adrenoceptor alpha 1A	1	Blood metabolite levels;Diastolic blood pressure x smoking status (current vs non-current) interaction (2df test);Diastolic blood pressure x smoking status (ever vs never) interaction (2df test);Systolic blood pressure x smoking status (current vs non-current) interaction (2df test)
+ENSG00000187546	AGMO	liver	122.5	0		1	Heel bone mineral density;Cerebrospinal P-tau181p levels;Sweet taste preference;Adolescent idiopathic scoliosis;Paclitaxel-induced neuropathy
+ENSG00000144891	AGTR1	liver	96.6	1	Angiotensin II receptor type 1	1	Height;Chin dimples;Monobrow;Lead levels in blood;Birth weight
+ENSG00000146416	AIG1	liver	235.8	0		1	Pulse pressure;Daytime sleep phenotypes;Acute lymphoblastic leukemia (childhood)
+ENSG00000101474	APMAP	liver	314	0		1	Blood protein levels
+ENSG00000224916	APOC4-APOC2	liver	2221	0		1	Alzheimers disease or HDL levels (pleiotropy)
+ENSG00000100342	APOL1	liver	220.5	0		1	Blood protein levels;End-stage renal disease;End-stage kidney disease
+ENSG00000221963	APOL6	liver	46.5	0		1	Triglyceride levels;HDL cholesterol levels;Waist-to-hip ratio adjusted for BMI (age >50);Waist-to-hip ratio adjusted for BMI x sex x age interaction (4df test)
+ENSG00000178301	AQP11	liver	16.1	0		1	Tourette syndrome;Weight loss (gastric bypass surgery)
+ENSG00000103569	AQP9	liver	702.7	0		1	Metabolite levels;Small cell lung carcinoma;HDL cholesterol levels in HIV infection;LDL cholesterol levels in HIV infection
+ENSG00000111339	ART4	liver	53.3	0		1	Blood protein levels;Hand grip strength
+ENSG00000161944	ASGR2	liver	840.7	0		1	Blood protein levels;Gut microbiota (bacterial taxa, hurdle binary method);Congenital heart disease (maternal effect);Total cholesterol levels;Liver enzyme levels (alkaline phosphatase)
+ENSG00000101974	ATP11C	liver	49.8	0		1	Red cell distribution width
+ENSG00000160325	CACFD1	liver	58.6	0		1	Gut microbiota (functional units)
+ENSG00000241399	CD302	liver	193.8	0		1	Metabolite levels;Proportion of activated microglia (inferior temporal cortex);Plateletcrit
+ENSG00000010610	CD4	liver	152.9	1	CD4 molecule	1	Schizophrenia;Height;Systemic lupus erythematosus;Rheumatoid arthritis
+ENSG00000143418	CERS2	liver	732.2	0		1	LDL cholesterol;HDL cholesterol levels;Apolipoprotein A1 levels;LDL cholesterol levels;Body mass index
+ENSG00000101204	CHRNA4	liver	58	1	Cholinergic receptor nicotinic alpha 4 subunit	1	Smoking status (heavy vs never);Smoking cessation;Parental longevity (fathers attained age);Smoking behaviour (cigarette pack-years);Smoking behaviour (cigarettes smoked per day)
+ENSG00000145354	CISD2	liver	46	0		1	Asthma and attention deficit hyperactivity disorder;Estimated glomerular filtration rate;Primary biliary cholangitis;Type 2 diabetes;Schizophrenia
+ENSG00000163347	CLDN1	liver	309.8	0		1	Metabolite levels;Bone mineral density;Psychosis proneness (hypomanic personality scale)
+ENSG00000165682	CLEC1B	liver	65.3	0		1	Blood protein levels;Malaria
+ENSG00000182566	CLEC4G	liver	53.3	0		1	Sum neutrophil eosinophil counts;White blood cell count;Granulocyte count;Sum basophil neutrophil counts;Post bronchodilator FEV1
+ENSG00000125246	CLYBL	liver	109.7	0		1	Refractive error;Heel bone mineral density;Survival in pancreatic cancer;Smoking initiation (ever regular vs never regular);Rheumatoid arthritis (ACPA-negative)
+ENSG00000088766	CRLS1	liver	169.5	0		1	Triglyceride levels x loop diuretics use interaction;Parkinsons disease or first degree relation to individual with Parkinsons disease
+ENSG00000166347	CYB5A	liver	2472	0		1	Liver enzyme levels (aspartate transaminase);Initial alcohol sensitivity;Blood protein levels
+ENSG00000140465	CYP1A1	liver	66.1	0		1	Diastolic blood pressure x smoking status (ever vs never) interaction (2df test);Systolic blood pressure (cigarette smoking interaction);Diastolic blood pressure (cigarette smoking interaction)
+ENSG00000140505	CYP1A2	liver	513.4	0		1	Bladder cancer;Lung cancer;Coffee consumption;Red blood cell count;Coffee consumption (cups per day)
+ENSG00000100197	CYP2D6	liver	320	0		1	Schizophrenia;Urinary metabolite levels in chronic kidney disease;Refractive error;Response to serotonin reuptake inhibitors in major depressive disorder (plasma drug and metabolite levels)
+ENSG00000146233	CYP39A1	liver	99.2	0		1	Normal facial asymmetry (deformation magnitude)
+ENSG00000160868	CYP3A4	liver	3796.2	0		1	Serum metabolite levels;Ticagrelor levels in individuals with acute coronary syndromes treated with ticagrelor;Tacrolimus trough concentration in kidney transplant patients;Sex hormone levels
+ENSG00000021461	CYP3A43	liver	44.7	0		1	Serum metabolite levels;Ticagrelor levels in individuals with acute coronary syndromes treated with ticagrelor;Tacrolimus trough concentration in kidney transplant patients;Dehydroepiandrosterone sulphate levels
+ENSG00000106258	CYP3A5	liver	276.1	0		1	Blood metabolite ratios;Blood metabolite levels
+ENSG00000160870	CYP3A7	liver	304.9	0		1	Serum metabolite levels;Urinary metabolite modules (eigenmetabolites) in chronic kidney disease;Urinary metabolite levels in chronic kidney disease;Heel bone mineral density
+ENSG00000282301	CYP3A7-CYP3A51P	liver	12.7	0		1	Heel bone mineral density
+ENSG00000162365	CYP4A22	liver	214.2	0		1	Serum metabolite levels;Clozapine-induced agranulocytosis
+ENSG00000186204	CYP4F12	liver	40.1	0		1	LDL cholesterol levels;Glioma
+ENSG00000186115	CYP4F2	liver	166.7	0		1	Urinary metabolite modules (eigenmetabolites) in chronic kidney disease;Urinary metabolite levels in chronic kidney disease
+ENSG00000145476	CYP4V2	liver	113.5	0		1	L-arginine levels;Metabolite levels;Cardiac troponin-I levels;Cerebral amyloid deposition (PET imaging);Serum metabolite concentrations in chronic kidney disease
+ENSG00000001630	CYP51A1	liver	204.7	1	Cytochrome P450 family 51 subfamily A member 1	1	Pulse pressure;Hippocampal volume in Alzheimers disease dementia;Lifespan;Phoneme awareness
+ENSG00000180432	CYP8B1	liver	404.5	0		1	Monocyte percentage of white cells;Monocyte count;Clozapine-induced agranulocytosis;White blood cell count
+ENSG00000116133	DHCR24	liver	623.5	0		1	Visceral fat, circulating phospholipid PC(16:0/2:0) and white matter microstructure (shared variance)
+ENSG00000172893	DHCR7	liver	161.1	0		1	Serum 25-Hydroxyvitamin D levels;Vitamin D levels (dietary vitamin D intake interaction);Vitamin D levels;Systemic lupus erythematosus
+ENSG00000102967	DHODH	liver	105.9	1	Dihydroorotate dehydrogenase (quinone)	1	Number of sexual partners;Fibrinogen levels;LDL cholesterol levels in HIV infection;Low density lipoprotein cholesterol levels;Total cholesterol levels
+ENSG00000162496	DHRS3	liver	323.7	0		1	Vertical cup-disc ratio (adjusted for vertical disc diameter);Vertical cup-disc ratio (multi-trait analysis);Hematocrit;Hemoglobin;Optic cup area
+ENSG00000178401	DNAJC22	liver	24.1	0		1	HDL cholesterol levels x alcohol consumption (drinkers vs non-drinkers) interaction (2df);HDL cholesterol levels x alcohol consumption (regular vs non-regular drinkers) interaction (2df);HDL cholesterol levels in current drinkers
+ENSG00000147155	EBP	liver	328.5	0		1	Metabolite levels;Morphine dose requirement in tonsillectomy and adenoidectomy surgery;Bronchodilator response in asthma;Height;Waist-to-hip ratio adjusted for BMI (adjusted for smoking behaviour)
+ENSG00000123179	EBPL	liver	99.3	0		1	Refractive error;Lipoprotein (a) levels;Hip circumference adjusted for BMI
+ENSG00000225968	ELFN1	liver	14.5	0		1	Smoking initiation;Diastolic blood pressure;Systolic blood pressure;Gastroesophageal reflux disease
+ENSG00000197977	ELOVL2	liver	52.5	0		1	Blood metabolite ratios;Blood metabolite levels;Red blood cell fatty acid levels;Plasma omega-6 polyunsaturated fatty acid levels (adrenic acid);Response to (pegylated) interferon in HBeAg-negative hepatitis B
+ENSG00000170522	ELOVL6	liver	36.2	0		1	Serum metabolite levels;Attention deficit hyperactivity disorder;Obesity-related traits;Depressive symptoms x dependent stressful life events interaction (1df test)
+ENSG00000171503	ETFDH	liver	196.4	1	Electron transfer flavoprotein dehydrogenase	1	Blood metabolite ratios;Blood metabolite levels;Serum metabolite levels
+ENSG00000115363	EVA1A	liver	191.6	0		1	Seborrheic dermatitis;Gout;Chronotype
+ENSG00000160867	FGFR4	liver	82.5	1	Fibroblast growth factor receptor 4	1	Height;Waist circumference adjusted for BMI (adjusted for smoking behaviour);Waist-to-hip ratio adjusted for BMI (joint analysis main effects and smoking interaction);Waist-to-hip ratio adjusted for BMI (adjusted for smoking behaviour)
+ENSG00000007933	FMO3	liver	1123.3	0		1	Blood metabolite levels;Serum metabolite levels;Lentiform nucleus volume
+ENSG00000131781	FMO5	liver	683.3	0		1	Mitochondrial DNA levels
+ENSG00000115226	FNDC4	liver	126.9	0		1	Metabolite levels
+ENSG00000156869	FRRS1	liver	28.6	0		1	White matter integrity (bipolar disorder risk interaction);Early-onset Parkinsons disease;Body mass index
+ENSG00000140564	FURIN	liver	305.6	0		1	Schizophrenia;Systolic blood pressure (cigarette smoking interaction);Diastolic blood pressure (cigarette smoking interaction);Risk-taking tendency (4-domain principal component model);General risk tolerance (MTAG)
+ENSG00000163251	FZD5	liver	23.5	0		1	Hematocrit;Hemoglobin
+ENSG00000115486	GGCX	liver	118.8	1	Gamma-glutamyl carboxylase	1	Triglyceride levels;High light scatter reticulocyte count;Prostate cancer;Myocardial infarction;Coronary artery disease
+ENSG00000100031	GGT1	liver	115.7	0		1	Blood metabolite levels;Acne (severe);Serum metabolite levels;Gamma glutamyl transferase levels;Urinary metabolite modules (eigenmetabolites) in chronic kidney disease
+ENSG00000112964	GHR	liver	213.3	1	Growth hormone receptor	1	Height;Response to taxane treatment (docetaxel);Blood protein levels
+ENSG00000198814	GK	liver	79.2	0		1	Hypospadias;Cognitive decline (age-related);Metabolite levels;Post-traumatic stress disorder
+ENSG00000174567	GOLT1A	liver	190.7	0		1	Metabolite levels;Response to cognitive-behavioural therapy in anxiety disorder
+ENSG00000119927	GPAM	liver	144.1	0		1	Cholesterol, total;LDL cholesterol;Height;Triglyceride levels
+ENSG00000170412	GPRC5C	liver	192.7	0		1	LDL cholesterol levels x short total sleep time interaction (2df test);Liver enzyme levels (alkaline phosphatase)
+ENSG00000075240	GRAMD4	liver	168.2	0		1	Urate levels in obese individuals
+ENSG00000143630	HCN3	liver	14.7	0		1	Body fat distribution (leg fat ratio);Body fat distribution (trunk fat ratio)
+ENSG00000113161	HMGCR	liver	105.7	1	3-hydroxy-3-methylglutaryl-CoA reductase	1	Lipid traits;Metabolite levels;Cholesterol, total;LDL cholesterol
+ENSG00000105707	HPN	liver	866.2	0		1	Colorectal cancer;Triglyceride levels;Urinary albumin-to-creatinine ratio in diabetes;Urinary albumin-to-creatinine ratio
+ENSG00000130948	HSD17B3	liver	15.1	0		1	Letter-number span reordering;Glomerular filtration rate in chronic kidney disease;Cerebrospinal fluid AB1-42 levels
+ENSG00000132196	HSD17B7	liver	30.2	0		1	Hepcidin/ferritin ratio;Dupuytrens disease
+ENSG00000099769	IGFALS	liver	116.7	0		1	Blood protein levels;Insulin-like growth factors;Mean corpuscular hemoglobin
+ENSG00000126246	IGFLR1	liver	49.9	0		1	Refractive error;Blood protein levels;Brain morphology (MOSTest);Red cell distribution width
+ENSG00000085552	IGSF9	liver	32.8	0		1	Schizophrenia;Parkinsons disease;Bipolar disorder;Parkinsons disease or first degree relation to individual with Parkinsons disease;Autism spectrum disorder or schizophrenia
+ENSG00000056736	IL17RB	liver	33.3	0		1	Refractive error;Blood protein levels;interleukin 17 receptor B levels;Body mass index;Axial length
+ENSG00000196083	IL1RAP	liver	225.8	0		1	Blood protein levels;Longitudinal change in brain amyloid plaque burden;Vitiligo;Itch intensity from mosquito bite adjusted by bite size
+ENSG00000160712	IL6R	liver	58.3	1	Interleukin 6 receptor	1	Response to anti-retroviral therapy (ddI/d4T) in HIV-1 infection (Grade 2 peripheral neuropathy);Fibrinogen;Rheumatoid arthritis;Cerebrospinal fluid levels of Alzheimers disease-related proteins
+ENSG00000186480	INSIG1	liver	563.4	0		1	Energy expenditure (24h);Plasma anti-thyroglobulin and anti-thyroid peroxidase levels (bivariate analysis);Plasma anti-thyroglobulin levels;Bladder cancer (smoking interaction);Formal thought disorder in schizophrenia
+ENSG00000123104	ITPR2	liver	44.3	0		1	Kashin-Beck disease;Birth weight;Waist-to-hip ratio adjusted for BMI (joint analysis main effects and smoking interaction);Waist-to-hip ratio adjusted for BMI (adjusted for smoking behaviour)
+ENSG00000080709	KCNN2	liver	31.3	1	Potassium calcium-activated channel subfamily N member 2	1	Generalized epilepsy;Diastolic blood pressure;Systolic blood pressure
+ENSG00000116678	LEPR	liver	130.4	1	Leptin receptor	1	Fibrinogen;Fasting plasma glucose (childhood);Soluble leptin receptor levels;BMI at adiposity peak;Pulse pressure
+ENSG00000162337	LRP5	liver	129.7	0		1	Bone mineral density;Bone mineral density (paediatric, skull);Heel bone mineral density
+ENSG00000160233	LRRC3	liver	15.5	0		1	Eosinophilic esophagitis;Bladder cancer;Atopic dermatitis;Self-reported allergy;Oily fish consumption
+ENSG00000105699	LSR	liver	144.8	0		1	Cholesterol, total;Apolipoprotein B levels;Low density lipoprotein cholesterol levels;Peripheral artery disease;LDL cholesterol levels
+ENSG00000111885	MAN1A1	liver	154.6	0		1	Metabolite levels;Weight;Neonatal white matter microstructure;Spontaneous preterm birth (preterm birth);Fasting glucose
+ENSG00000069535	MAOB	liver	317.6	1	Monoamine oxidase B	0	
+ENSG00000019169	MARCO	liver	94.9	0		1	Triglyceride levels;Lung function (FVC);Medication use (adrenergics, inhalants)
+ENSG00000105976	MET	liver	42.9	1	MET proto-oncogene, receptor tyrosine kinase	1	Metabolite levels;Triglycerides;Electroencephalogram traits;Opioid sensitivity;Borderline personality disorder
+ENSG00000185432	METTL7A	liver	440.5	0		1	Heel bone mineral density
+ENSG00000168389	MFSD2A	liver	162	0		1	Triglyceride levels;Time to smoke first cigarette in the morning;Refractive error;Hematocrit;Hemoglobin
+ENSG00000008394	MGST1	liver	3104.7	0		1	Colorectal cancer (aspirin and/or NSAID use interaction);Household income (MTAG);Metabolite levels;Visceral fat;Barretts esophagus or esophageal adenocarcinoma x sex interaction (2df test)
+ENSG00000085871	MGST2	liver	393.2	0		1	Metabolite levels
+ENSG00000052802	MSMO1	liver	575.6	0		1	Heel bone mineral density;Neuroticism
+ENSG00000172057	ORMDL3	liver	234.5	0		1	White blood cell count;Asthma;Refractive error
+ENSG00000162881	OXER1	liver	56.3	0		1	Breastfeeding duration;Hyperactive-impulsive symptoms;Attention deficit hyperactivity disorder
+ENSG00000188582	PAQR9	liver	13.5	0		1	Triglyceride levels;LDL cholesterol levels;Apolipoprotein B levels;Phosphatidylinositol levels
+ENSG00000133027	PEMT	liver	267.4	0		1	Waist-to-hip ratio adjusted for BMI (adjusted for smoking behaviour);Triglyceride levels;Apolipoprotein B levels;HDL cholesterol levels
+ENSG00000104883	PEX11G	liver	26.4	0		1	Metabolite levels
+ENSG00000161031	PGLYRP2	liver	258.8	0		1	Blood protein levels
+ENSG00000101856	PGRMC1	liver	677.4	0		1	Hodgkins lymphoma
+ENSG00000127948	POR	liver	313.3	0		1	Low density lipoprotein cholesterol levels;Urinary albumin-to-creatinine ratio;Coffee consumption;Urate levels in lean individuals;Mean platelet volume
+ENSG00000176894	PXMP2	liver	312	0		1	Mean corpuscular hemoglobin;Immature fraction of reticulocytes;Mean spheric corpuscular volume;Mean reticulocyte volume
+ENSG00000139547	RDH16	liver	793	0		1	Asthma;Refractive error;Asthma or allergic disease (pleiotropy)
+ENSG00000133135	RNF128	liver	124.6	0		1	Alcoholic chronic pancreatitis;Creatinine levels
+ENSG00000040608	RTN4R	liver	12.8	0		1	Lung cancer;Bipolar disorder;General risk tolerance (MTAG);Blood protein levels;Brain morphology (MOSTest)
+ENSG00000109929	SC5D	liver	393.6	0		1	Response to taxane treatment (placlitaxel);Height;Lung adenocarcinoma;QT interval
+ENSG00000099194	SCD	liver	583.8	0		1	Blood metabolite ratios;Blood metabolite levels
+ENSG00000115884	SDC1	liver	484.7	0		1	Amyotrophic lateral sclerosis (sporadic);Seasonality;Triglyceride levels;LDL cholesterol levels;HDL cholesterol levels
+ENSG00000169439	SDC2	liver	460.8	0		1	Meat-related diet;Alcohol consumption (drinks per week);Refractive error;Body mass index
+ENSG00000124145	SDC4	liver	410.9	0		1	Psoriasis;Breast size;Malaria
+ENSG00000139410	SDSL	liver	104.6	0		1	Body mass index
+ENSG00000095539	SEMA4G	liver	102.4	0		1	Regular attendance at a pub or social club
+ENSG00000109618	SEPSECS	liver	26.1	0		1	Tonsillectomy
+ENSG00000168528	SERINC2	liver	235.5	0		1	Body mass index;Systolic blood pressure x smoking status (current vs non-current) interaction (1df test);Diastolic blood pressure x smoking status (current vs non-current) interaction (2df test);Heart rate response to recovery post exercise (50 sec);Systolic blood pressure x smoking status (current vs non-current) interaction (2df test)
+ENSG00000140093	SERPINA10	liver	346.9	0		1	Blood protein levels;Post bronchodilator FEV1;Waist-to-hip ratio adjusted for body mass index;Emphysema imaging phenotypes
+ENSG00000164466	SFXN1	liver	99.7	0		1	Metabolite levels;Night sleep phenotypes;Height;Mosquito bite size
+ENSG00000147955	SIGMAR1	liver	187.6	1	Sigma non-opioid intracellular receptor 1	0	
+ENSG00000100652	SLC10A1	liver	426.9	0		1	Daytime sleep phenotypes;Metabolite levels;Triglyceride levels
+ENSG00000253598	SLC10A5	liver	11.3	0		1	Ovarian cancer
+ENSG00000141485	SLC13A5	liver	414	0		1	Blood metabolite levels;LDL cholesterol levels x thiazide or thiazide-like diuretics use interaction;Economic and political preferences (time)
+ENSG00000174327	SLC16A13	liver	36.1	0		1	Type 2 diabetes
+ENSG00000112337	SLC17A2	liver	79.5	0		1	Height;Blood pressure;Fish- and plant-related diet
+ENSG00000101194	SLC17A9	liver	43	0		1	Anti-Toxoplasma gondii IgG seropositivity
+ENSG00000175003	SLC22A1	liver	609.6	0		1	Blood metabolite ratios;Blood metabolite levels
+ENSG00000110628	SLC22A18	liver	45.2	0		1	High density lipoprotein cholesterol levels;HDL cholesterol levels;Apolipoprotein A1 levels;Autism spectrum disorders (repetitive sensory-motor behaviour);Total bilirubin levels
+ENSG00000137204	SLC22A7	liver	427.9	0		1	Diastolic blood pressure (cigarette smoking interaction);Systolic blood pressure (cigarette smoking interaction);Cardioembolic stroke (CCSc classification);Waist-to-hip ratio adjusted for BMI (age <50);Waist-to-hip ratio adjusted for BMI (age >50)
+ENSG00000149742	SLC22A9	liver	46.3	0		1	Thyroxine levels;Sex hormone levels;Economic and political preferences
+ENSG00000183048	SLC25A10	liver	183.3	0		1	Refractive error;Dental caries
+ENSG00000102743	SLC25A15	liver	88.3	0		1	Crohns disease;Keratoconus
+ENSG00000178537	SLC25A20	liver	148.3	0		1	Metabolite levels;Ulcerative colitis;Inflammatory bowel disease;Crohns disease;Eosinophil percentage of white cells
+ENSG00000140107	SLC25A47	liver	534.7	0		1	Apolipoprotein A1 levels;Glycated hemoglobin levels
+ENSG00000145217	SLC26A1	liver	16.8	0		1	Polymyositis;Ischemic stroke;Primary biliary cholangitis;Interleukin-1-receptor antagonist levels;Limited cutaneous systemic scleroderma
+ENSG00000140284	SLC27A2	liver	288	0		1	Blood metabolite ratios;Verbal declarative memory;Platelet count
+ENSG00000083807	SLC27A5	liver	1023.6	0		1	Heel bone mineral density;Mean reticulocyte volume;L1-L4 bone mineral density x serum urate levels interaction
+ENSG00000163581	SLC2A2	liver	836.1	0		1	Triglyceride levels;Type 2 diabetes;Fasting glucose
+ENSG00000109667	SLC2A9	liver	21.4	0		1	Blood metabolite ratios;Blood metabolite levels;Serum uric acid levels;Serum metabolite levels
+ENSG00000170385	SLC30A1	liver	86.1	0		1	Triglyceride levels;Refractive error;HDL cholesterol levels;Apolipoprotein A1 levels
+ENSG00000196660	SLC30A10	liver	33.5	0		1	Triglyceride levels;Refractive error;HDL cholesterol levels;Apolipoprotein A1 levels
+ENSG00000136868	SLC31A1	liver	107.6	0		1	Hematology traits;Monocyte percentage of white cells
+ENSG00000181830	SLC35C1	liver	84.5	0		1	Diastolic blood pressure;Axial length;Visceral fat
+ENSG00000116704	SLC35D1	liver	74.7	0		1	Ulcerative colitis;Inflammatory bowel disease;Crohns disease;Neutrophil percentage of white cells;Lymphocyte count
+ENSG00000139209	SLC38A4	liver	609.9	1	Solute carrier family 38 member 4	1	Height;Glycine levels;Offspring birth weight
+ENSG00000104635	SLC39A14	liver	551.3	0		1	Verbal declarative memory;B-type natriuretic peptide to N-terminal pro B-type natriuretic peptide ratio
+ENSG00000136052	SLC41A2	liver	114.9	0		1	Glucocorticoid receptor gene expression in B-cell precursor acute lymphoblastic leukaemia;Beta blocker survival benefit in heart failure with reduced ejection fraction (time to all cause mortality x beta blocker interaction)
+ENSG00000134802	SLC43A3	liver	146.9	0		1	Pursuit maintenance gain;Platelet distribution width;Eosinophil counts;Eosinophil percentage of white cells
+ENSG00000139508	SLC46A3	liver	96	0		1	Non-alcoholic fatty liver disease histology (other);Obesity-related traits
+ENSG00000142494	SLC47A1	liver	103.9	0		1	Lymphocyte count;Glomerular filtration rate (creatinine);Intracranial aneurysm;Chronic kidney disease;Estimated glomerular filtration rate
+ENSG00000138074	SLC5A6	liver	104	0		1	Blood metabolite levels;Serum metabolite levels;Fasting blood glucose adjusted for BMI
+ENSG00000157103	SLC6A1	liver	87.3	1	Solute carrier family 6 member 1	1	Blood metabolite ratios;Blood metabolite levels;Metabolite levels
+ENSG00000003989	SLC7A2	liver	176.7	0		1	Plasma omega-6 polyunsaturated fatty acid levels (adrenic acid);Plasma free amino acid levels (adjusted for twenty other PFAAs);Plasma free amino acid levels (adjusted for one other PFAA)
+ENSG00000164038	SLC9B2	liver	38.7	0		1	Estimated glomerular filtration rate in non-diabetics;Estimated glomerular filtration rate;Type 2 diabetes;Medication use (agents acting on the renin-angiotensin system)
+ENSG00000134538	SLCO1B1	liver	537.2	0		1	Response to statin therapy;Blood metabolite ratios;Blood metabolite levels
+ENSG00000111700	SLCO1B3	liver	265.1	0		1	Bilirubin levels;Systolic blood pressure x smoking status (current vs non-current) interaction (2df test);Diastolic blood pressure x smoking status (current vs non-current) interaction (2df test);Systolic blood pressure x smoking status (ever vs never) interaction (2df test)
+ENSG00000121871	SLITRK3	liver	7.9	0		1	Metabolite levels;Blood protein levels
+ENSG00000163683	SMIM14	liver	118.4	0		1	Triglyceride levels
+ENSG00000256162	SMLR1	liver	56.6	0		1	Neuroblastoma or malignant cutaneous melanoma;Hip circumference adjusted for BMI
+ENSG00000145545	SRD5A1	liver	29	1	Steroid 5 alpha-reductase 1	1	Response to amphetamines;Visceral fat
+ENSG00000064225	ST3GAL6	liver	56	0		1	Refractive error;Eosinophil counts;Eosinophil percentage of white cells;Blood protein levels;Central corneal thickness
+ENSG00000115107	STEAP3	liver	189.5	0		1	Cocaine dependence;Gut microbiota (bacterial taxa, rank normal transformation method);Renal cell carcinoma x sex interaction
+ENSG00000011347	SYT7	liver	86.7	0		1	Metabolite levels;Plasma omega-6 polyunsaturated fatty acid levels (linoleic acid);Plasma omega-6 polyunsaturated fatty acid levels (arachidonic acid)
+ENSG00000106327	TFR2	liver	346.1	1	Transferrin receptor 2	1	Red blood cell count;Apolipoprotein B levels;Plateletcrit;Mean corpuscular hemoglobin;High light scatter reticulocyte percentage of red cells
+ENSG00000139644	TMBIM6	liver	1803.2	0		1	General cognitive ability
+ENSG00000002933	TMEM176A	liver	1170.6	0		1	HDL cholesterol;HDL cholesterol levels;Serum metabolite concentrations in chronic kidney disease;Forced expiratory volume in 1 second (occupational environmental exposures interaction);Metabolite levels
+ENSG00000106565	TMEM176B	liver	1656.5	0		1	Hemoglobin levels;Hematocrit;Hemoglobin;Appendicular lean mass
+ENSG00000187824	TMEM220	liver	103.8	0		1	Relative hand skill in reading disability
+ENSG00000162460	TMEM82	liver	52.7	0		1	Alcoholic chronic pancreatitis;Alcohol consumption (heavy vs. light/non-drinkers)
+ENSG00000180089	TMEM86B	liver	16.9	0		1	Serum metabolite levels;Phosphatidylethanolamine-ether levels;Systemic lupus erythematosus
+ENSG00000109084	TMEM97	liver	113.4	0		1	Osteoprotegerin levels;Blood protein levels;Cerebrospinal fluid AB1-42 levels;Cerebrospinal AB1-42 levels in mild cognitive impairment;Advanced age-related macular degeneration
+ENSG00000187045	TMPRSS6	liver	128.4	0		1	Red blood cell traits;Mean corpuscular hemoglobin concentration;Mean corpuscular volume;Hematocrit
+ENSG00000120659	TNFSF11	liver	5.2	1	TNF superfamily member 11	1	C-reactive protein levels;Bone mineral density;Bone mineral density (paediatric, upper limb)
+ENSG00000196689	TRPV1	liver	24.6	1	Transient receptor potential cation channel subfamily V member 1	0	
+ENSG00000168234	TTC39C	liver	94.2	0		1	Diabetic maculopathy with decreased visual acuity in type 2 diabetes;Neutrophil count;Type 2 diabetes nephropathy including microalbuminuria;Monocyte percentage of white cells
+ENSG00000243135	UGT1A3	liver	73.5	0		1	Serum metabolite levels
+ENSG00000244474	UGT1A4	liver	391.7	0		1	Serum metabolite levels
+ENSG00000242366	UGT1A8	liver	20.1	0		1	Serum metabolite levels
+ENSG00000109181	UGT2B10	liver	233.7	0		1	Cotinine glucuronidation;Nicotine glucouronidation
+ENSG00000156096	UGT2B4	liver	1273.7	0		1	Bacteremia;Plasma clozapine-norclozapine ratio in treatment-resistant schizophrenia
+ENSG00000167397	VKORC1	liver	454.9	1	Vitamin K epoxide reductase complex subunit 1	1	Bipolar I disorder;Intraocular pressure;Bipolar disorder;Body fat distribution (arm fat ratio)

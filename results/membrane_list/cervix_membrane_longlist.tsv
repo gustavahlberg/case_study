@@ -1,0 +1,33 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000149451	ADAM33	cervix	280.4	0		1	Night sleep phenotypes;Reticulocyte count;Platelet distribution width;White blood cell count
+ENSG00000171873	ADRA1D	cervix	7.2	1	Adrenoceptor alpha 1D	1	Paneth cell defects in Crohns disease;Sense of smell;Preeclampsia
+ENSG00000150594	ADRA2A	cervix	46.6	1	Adrenoceptor alpha 2A	1	Fish- and plant-related diet;Fasting glucose
+ENSG00000184160	ADRA2C	cervix	84.9	1	Adrenoceptor alpha 2C	1	Lung cancer in ever smokers;Urinary potassium excretion;Blood urea nitrogen levels;Nickel levels
+ENSG00000151572	ANO4	cervix	7.6	0		1	Response to methotrexate in juvenile idiopathic arthritis;Post bronchodilator FEV1/FVC ratio;Attention deficit hyperactivity disorder (hyperactivity-impulsivity symptoms);Stress sensitivity (neuroticism score x major depressive disorder status interaction)
+ENSG00000138696	BMPR1B	cervix	24.7	0		1	Amyotrophic lateral sclerosis (sporadic);Systolic blood pressure;Heel bone mineral density;Prepulse inhibition of the startle response;Hens egg allergy
+ENSG00000006283	CACNA1G	cervix	9.9	1	Calcium voltage-gated channel subunit alpha1 G	1	Adventurousness;PR interval;High light scatter reticulocyte count
+ENSG00000158270	COLEC12	cervix	31.6	0		1	Smoking status (ever vs never smokers);Blood protein levels;Coenzyme Q10 levels;Metabolic syndrome;Bipolar disorder or major depressive disorder
+ENSG00000143387	CTSK	cervix	420.6	0		1	Body mass index;Congenital left-sided heart lesions;Melanoma;Rhegmatogenous retinal detachment;Aspartate aminotransferase levels
+ENSG00000211448	DIO2	cervix	163.9	0		1	Metabolite levels;Paclitaxel disposition in epithelial ovarian cancer;Small vessel stroke;Rosacea symptom severity;Free thyroxine concentration
+ENSG00000197406	DIO3	cervix	25	1	Iodothyronine deiodinase 3	1	Metabolite levels;Type 1 diabetes;Free thyroxine concentration;Body mass index (alcohol intake interaction);Pulse pressure
+ENSG00000168032	ENTPD3	cervix	21.3	0		1	Eosinophil percentage of white cells;Neuroticism
+ENSG00000165474	GJB2	cervix	328.1	0		1	Facial emotion recognition (happy faces)
+ENSG00000135914	HTR2B	cervix	21.5	1	5-hydroxytryptamine receptor 2B	1	Proportion of activated microglia (midfrontal cortex);Thiazide-induced adverse metabolic effects in hypertensive patients
+ENSG00000137809	ITGA11	cervix	26.3	0		1	Perceived intensity of fructose;Systolic blood pressure;Dupuytrens disease;Major depressive disorder
+ENSG00000165379	LRFN5	cervix	10.1	0		1	General risk tolerance (MTAG);Adventurousness;Refractive error;Spherical equivalent or myopia (age of diagnosis);Urate levels in obese individuals
+ENSG00000131409	LRRC4B	cervix	41.3	0		1	Electrocardiogram morphology (amplitude at temporal datapoints)
+ENSG00000204544	MUC21	cervix	135.8	0		1	White blood cell count;Autism spectrum disorder or schizophrenia
+ENSG00000135318	NT5E	cervix	112.6	0		1	Blood metabolite levels;Lung function;Serum metabolite levels
+ENSG00000164530	PI16	cervix	140.6	0		1	Acne (severe);Chemerin levels;Diverticular disease;Atrial fibrillation;Schizophrenia x sex interaction
+ENSG00000185920	PTCH1	cervix	26.7	0		1	Infant length;Height;Waist circumference adjusted for BMI (joint analysis main effects and smoking interaction)
+ENSG00000164520	RAET1E	cervix	21.9	0		1	Brain morphology (MOSTest);Subcortical volume (MOSTest)
+ENSG00000069188	SDK2	cervix	5.5	0		1	Pursuit maintenance gain;Response to zileuton treatment in asthma (FEV1 change interaction);Liver fibrosis severity in HIV/hepatitis C co-infection;Hashimoto thyroiditis;Panic disorder
+ENSG00000197641	SERPINB13	cervix	56.6	0		1	Eosinophil counts;Eosinophil percentage of granulocytes;Sum eosinophil basophil counts
+ENSG00000163406	SLC15A2	cervix	50.9	0		1	Hemoglobin levels;Allergic disease (asthma, hay fever or eczema);Hematocrit;Hemoglobin;Estimated glomerular filtration rate
+ENSG00000165646	SLC18A2	cervix	30	1	Solute carrier family 18 member A2	1	Body mass index;Serum metabolite levels;Retinopathy x type 2 diabetes interaction
+ENSG00000186198	SLC51B	cervix	41.8	0		1	White matter hyperintensities
+ENSG00000137868	STRA6	cervix	24.5	0		1	Optic disc size;Estimated glomerular filtration rate;Inhibitory control;Coffee consumption (cups per day)
+ENSG00000168818	STX18	cervix	119.9	0		1	Congenital heart disease;Chronic rhinosinusitis;Allergic disease (asthma, hay fever or eczema);Body mass index;Alcohol dependence
+ENSG00000187720	THSD4	cervix	103.7	0		1	Vertical cup-disc ratio (adjusted for vertical disc diameter);Vertical cup-disc ratio (multi-trait analysis);Pulse pressure;Diastolic blood pressure;Lung function (FEV1/FVC)
+ENSG00000070269	TMEM260	cervix	39.8	0		1	Prudent dietary pattern
+ENSG00000186806	VSIG10L	cervix	20.3	0		1	Appendicular lean mass

@@ -1,0 +1,5 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000001626	CFTR	pancreas	210.7	1	CF transmembrane conductance regulator	1	Response to methotrexate in juvenile idiopathic arthritis;Waist-to-hip ratio adjusted for BMI;Waist-to-hip ratio adjusted for BMI x sex x age interaction (4df test);Barretts esophagus  or Esophageal adenocarcinoma
+ENSG00000112164	GLP1R	pancreas	7	1	Glucagon like peptide 1 receptor	1	Type 2 diabetes;Blood sugar levels;Fasting blood glucose;Fasting blood glucose adjusted for BMI;Fasting glucose
+ENSG00000171522	PTGER4	pancreas	54.2	1	Prostaglandin E receptor 4	1	Self-reported allergy;Crohns disease;Allergic disease (asthma, hay fever or eczema);Serum urea levels;Ankylosing spondylitis
+ENSG00000080293	SCTR	pancreas	68.2	1	Secretin receptor	1	Bipolar disorder;Type 2 diabetes

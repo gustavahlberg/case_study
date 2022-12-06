@@ -1,0 +1,18 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000126895	AVPR2	kidney	8.1	1	Arginine vasopressin receptor 2	0	
+ENSG00000074410	CA12	kidney	290.2	1	Carbonic anhydrase 12	1	Number of decayed, missing and filled tooth surfaces or use of dentures;Number of decayed, missing and filled tooth surfaces;Dentures;Refractive error;Daytime nap
+ENSG00000137731	FXYD2	kidney	3645.4	1	FXYD domain containing ion transport regulator 2	1	Refractive error;Myopia;Hippocampal volume in Alzheimers disease dementia
+ENSG00000173826	KCNH6	kidney	7	1	Potassium voltage-gated channel subfamily H member 6	1	Refractive error
+ENSG00000151704	KCNJ1	kidney	198	1	Potassium inwardly rectifying channel subfamily J member 1	1	Metabolite levels;Schizophrenia;Type 2 diabetes
+ENSG00000157551	KCNJ15	kidney	241.6	1	Potassium inwardly rectifying channel subfamily J member 15	1	Metabolite levels;Height;Non-response to antidepressants and depression
+ENSG00000196549	MME	kidney	302.5	1	Membrane metalloendopeptidase	1	Rheumatoid arthritis;Diastolic blood pressure
+ENSG00000050628	PTGER3	kidney	81.2	1	Prostaglandin E receptor 3	1	Proximal colorectal cancer;Colon cancer;Dental caries (decayed, missing and filled teeth);Verbal declarative memory;Intelligence (MTAG)
+ENSG00000160801	PTH1R	kidney	586.8	1	Parathyroid hormone 1 receptor	1	Birth weight;Refractive error;Microalbuminuria;Offspring birth weight;Type 2 diabetes
+ENSG00000166828	SCNN1G	kidney	42.4	1	Sodium channel epithelial 1 subunit gamma	1	Heel bone mineral density;Parent of origin effect on receptive language ability (paternal)
+ENSG00000074803	SLC12A1	kidney	705.6	1	Solute carrier family 12 member 1	1	Systemic lupus erythematosus;Metabolite levels (Pyroglutamine);Lymphocyte count;Lymphocyte percentage of white cells
+ENSG00000070915	SLC12A3	kidney	101.7	1	Solute carrier family 12 member 3	1	HDL cholesterol;HDL cholesterol levels;Phoneme awareness;HDL levels x fish oil supplementation interaction (2df)
+ENSG00000197891	SLC22A12	kidney	109.4	1	Solute carrier family 22 member 12	1	Gout (combined type);Urate levels;Urate levels in lean individuals;Urate levels in overweight individuals
+ENSG00000197901	SLC22A6	kidney	196.5	1	Solute carrier family 22 member 6	1	Glucose homeostasis traits;Urate levels
+ENSG00000140675	SLC5A2	kidney	54.2	1	Solute carrier family 5 member 2	1	Glucosuria (moderate to severe);Glucosuria (mild);Glucosuria
+ENSG00000155465	SLC7A7	kidney	300.6	1	Solute carrier family 7 member 7	1	Intraocular pressure;Type 2 diabetes;Cardiovascular death, myocardial infarction or stroke in response to clopidogrel treatment;Psychological resilience (outcome-based) in high deployment stress exposure;Resting-state electroencephalogram vigilance
+ENSG00000066230	SLC9A3	kidney	62.5	1	Solute carrier family 9 member A3	1	Pulse pressure;Systolic blood pressure;Diastolic blood pressure;Hemoglobin levels;Monocyte percentage of white cells

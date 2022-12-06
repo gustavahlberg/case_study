@@ -1,0 +1,53 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000151320	AKAP6	tongue	50.7	0		1	Bipolar disorder;Type 2 diabetes;Refractive error;HDL cholesterol levels;Spherical equivalent or myopia (age of diagnosis)
+ENSG00000018625	ATP1A2	tongue	478	0		1	Response to antipsychotic treatment;Electrocardiogram morphology (amplitude at temporal datapoints)
+ENSG00000112276	BVES	tongue	29.3	0		1	QT interval;Creatine kinase levels;Menarche (age at onset);Height
+ENSG00000118298	CA14	tongue	47.4	1	Carbonic anhydrase 14	1	Schizophrenia;Bipolar disorder;Refractive error;Brain morphology (MOSTest);Cortical thickness (MOSTest)
+ENSG00000153956	CACNA2D1	tongue	98.5	1	Calcium voltage-gated channel auxiliary subunit alpha2delta 1	1	Response to taxane treatment (docetaxel);Energy expenditure (24h);Spontaneous preterm birth (maternal effect);Gestational age at birth (maternal effect);Glaucoma (primary open-angle)
+ENSG00000157445	CACNA2D3	tongue	10.7	1	Calcium voltage-gated channel auxiliary subunit alpha2delta 3	1	Endometrial cancer;Lung cancer in ever smokers;Type 2 diabetes;Obsessive compulsive disorder severity;Nose size
+ENSG00000170175	CHRNB1	tongue	57.7	0		1	Emotional recognition;Parkinsons disease or first degree relation to individual with Parkinsons disease;Refractive error;Brain morphology (MOSTest);Waist circumference adjusted for body mass index
+ENSG00000073464	CLCN4	tongue	34.2	0		1	Mild influenza (H1N1) infection
+ENSG00000173085	COQ2	tongue	37.5	0		1	Gut microbiota (bacterial taxa, hurdle binary method);QRS interval (sulfonylurea treatment interaction)
+ENSG00000006695	COX10	tongue	44.3	0		1	Refractive error;Midgestational circulating levels of PCBs;Body mass index;Temperament
+ENSG00000131174	COX7B	tongue	756.7	0		1	Post bronchodilator FEV1;Cognitive decline (age-related);Type 2 diabetes
+ENSG00000109846	CRYAB	tongue	9406.7	0		1	PR interval;Birth weight;Hip circumference adjusted for BMI
+ENSG00000062485	CS	tongue	600.7	0		1	Autism;Anger;Birth length;Blood metabolite levels
+ENSG00000179091	CYC1	tongue	724.9	0		1	Mean corpuscular hemoglobin;Mean corpuscular volume;Asthma
+ENSG00000079393	DUSP13	tongue	122.5	0		1	Height;HDL cholesterol levels;Blood protein levels;Body mass index
+ENSG00000171503	ETFDH	tongue	186.9	1	Electron transfer flavoprotein dehydrogenase	1	Blood metabolite ratios;Blood metabolite levels;Serum metabolite levels
+ENSG00000177150	FAM210A	tongue	33.1	0		1	Heel bone mineral density;Fractures;Calcific aortic valve stenosis
+ENSG00000172159	FRMD3	tongue	74.7	0		1	Metabolite levels;Loneliness (multivariate analysis);Hypertension;Blood pressure traits (multi-trait analysis);Lewy body disease
+ENSG00000121957	GPSM2	tongue	54.4	0		1	Fat distribution (HIV)
+ENSG00000103742	IGDCC4	tongue	14	0		1	Heel bone mineral density;Blood protein levels;Red blood cell count;Mean corpuscular hemoglobin
+ENSG00000115221	ITGB6	tongue	64.5	0		1	Proportion of activated microglia (inferior temporal cortex);Waist circumference adjusted for body mass index;Tourette syndrome;Eosinophil counts
+ENSG00000156026	MCU	tongue	53.7	0		1	Refractive error;Red cell distribution width
+ENSG00000116688	MFN2	tongue	337.6	0		1	Inflammatory skin disease;Platelet count;Tuberculosis;Plasma homocysteine levels;Plateletcrit
+ENSG00000189043	NDUFA4	tongue	652.5	0		1	Metabolite levels;Schizophrenia;Asthma;Egg allergy (maternal genetic effects);Autism spectrum disorder or schizophrenia
+ENSG00000119013	NDUFB3	tongue	727.7	0		1	Breast cancer (estrogen-receptor negative);Breast cancer
+ENSG00000158864	NDUFS2	tongue	633.7	0		1	Asthma;Granulocyte percentage of myeloid white cells;Allergic disease (asthma, hay fever or eczema);Allergic rhinitis
+ENSG00000112992	NNT	tongue	384	1	Nicotinamide nucleotide transhydrogenase	1	Diastolic blood pressure (cigarette smoking interaction);Systolic blood pressure (cigarette smoking interaction);Height;Apolipoprotein A1 levels;Cardiac Troponin-T levels
+ENSG00000175591	P2RY2	tongue	31.3	0		1	Glucose homeostasis traits;Number of decayed, missing and filled tooth surfaces or use of dentures;Dentures;Systemic lupus erythematosus;White blood cell count (basophil)
+ENSG00000188677	PARVB	tongue	170.6	0		1	Response to chemotherapy in breast cancer (hypertension) (bevacizumab);Response to chemotherapy in breast cancer hypertensive cases (cumulative dose) (bevacizumab);Lewy body disease;Nonalcoholic fatty liver disease;Systemic sclerosis (anti-centromere-positive)
+ENSG00000006576	PHTF2	tongue	57.7	0		1	Metabolite levels;Systolic blood pressure;Pulse pressure;Night sleep phenotypes
+ENSG00000132429	POPDC3	tongue	29.6	0		1	Metabolite levels;Menarche (age at onset);Height;Multiple sclerosis
+ENSG00000162409	PRKAA2	tongue	36.4	1	Protein kinase AMP-activated catalytic subunit alpha 2	1	Lymphocyte count
+ENSG00000122420	PTGFR	tongue	20.1	1	Prostaglandin F receptor	1	Systolic blood pressure (alcohol consumption interaction);Lung cancer in ever smokers;Type 2 diabetes;Lung function in never smokers (high FEV1 vs average FEV1);Gout (normal type)
+ENSG00000172348	RCAN2	tongue	180.1	0		1	PR interval;Body mass index
+ENSG00000198838	RYR3	tongue	44.2	0		1	Amyotrophic lateral sclerosis (sporadic);Hepcidin/ferritin ratio;Gut microbiota (bacterial taxa, rank normal transformation method);Hippocampal volume
+ENSG00000105711	SCN1B	tongue	227.8	1	Sodium voltage-gated channel beta subunit 1	1	Metabolite levels;Serum albumin levels
+ENSG00000177098	SCN4B	tongue	56.8	1	Sodium voltage-gated channel beta subunit 4	0	
+ENSG00000170624	SGCD	tongue	33.3	0		1	Airway responsiveness in chronic obstructive pulmonary disease;Pulse pressure;Smoking initiation
+ENSG00000117479	SLC19A2	tongue	84.9	0		1	Plasma factor V levels in venous thrombosis;Venous thromboembolism
+ENSG00000171612	SLC25A33	tongue	27.5	0		1	Pulse pressure;Systolic blood pressure
+ENSG00000133065	SLC41A1	tongue	75.9	0		1	Prostate cancer;Monocyte count;Allergic sensitization;Brain morphology (MOSTest);Cortical thickness (MOSTest)
+ENSG00000137571	SLCO5A1	tongue	11.1	0		1	Basophil count;Lateral ventricle volume;Metabolite levels;Cervical cancer;Metabolite levels  (X-11787)
+ENSG00000123096	SSPN	tongue	79	0		1	Waist-to-hip ratio adjusted for BMI (joint analysis main effects and smoking interaction);Waist-to-hip ratio adjusted for BMI (adjusted for smoking behaviour);Triglyceride levels;Vertical cup-disc ratio (adjusted for vertical disc diameter)
+ENSG00000126091	ST3GAL3	tongue	82.9	0		1	Refractive error;Attention deficit hyperactivity disorder;Autism spectrum disorder or schizophrenia;Household income (MTAG)
+ENSG00000261115	TMEM178B	tongue	12.2	0		1	Bipolar disorder;Gut microbiota alpha diversity (Chao1 index);Femur bone mineral density x serum urate levels interaction
+ENSG00000224982	TMEM233	tongue	21.2	0		1	Adverse response to drug
+ENSG00000095209	TMEM38B	tongue	62.1	0		1	Menarche (age at onset);Waist circumference adjusted for BMI (joint analysis main effects and smoking interaction);Waist circumference adjusted for BMI (adjusted for smoking behaviour);Alcohol consumption (drinks per week)
+ENSG00000140416	TPM1	tongue	5183.6	0		1	Parkinsons disease;Triglyceride levels;Refractive error;HDL cholesterol levels;Apolipoprotein A1 levels
+ENSG00000186439	TRDN	tongue	1018.2	0		1	Metabolite levels;Borderline personality disorder;Intraocular pressure;Night sleep phenotypes;Post bronchodilator FEV1
+ENSG00000155657	TTN	tongue	369.5	0		1	Type 2 diabetes;Glaucoma;Smoking status (ever vs never smokers);Intraocular pressure;Refractive error
+ENSG00000183785	TUBA8	tongue	154.7	0		1	Cerebrospinal T-tau levels;Atrial fibrillation
+ENSG00000144357	UBR3	tongue	87.1	0		1	Urate levels in obese individuals;Longitudinal change in brain amyloid plaque burden;Response to bronchodilator in chronic obstructive pulmonary disease (change in FEV1)

@@ -1,0 +1,10 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000150594	ADRA2A	adipose_tissue	50.5	1	Adrenoceptor alpha 2A	1	Fish- and plant-related diet;Fasting glucose
+ENSG00000064989	CALCRL	adipose_tissue	70.7	1	Calcitonin receptor like receptor	1	Waist-to-hip ratio adjusted for BMI (adjusted for smoking behaviour);Heel bone mineral density;Serum immune biomarker levels;Waist-to-hip ratio adjusted for body mass index
+ENSG00000118432	CNR1	adipose_tissue	23	1	Cannabinoid receptor 1	1	Gout vs. Hyperuricemia;Gut microbiota (functional units);Male-pattern baldness;Immunoglobulin A;Depression in smokers
+ENSG00000112964	GHR	adipose_tissue	84.7	1	Growth hormone receptor	1	Height;Response to taxane treatment (docetaxel);Blood protein levels
+ENSG00000134460	IL2RA	adipose_tissue	18.9	1	Interleukin 2 receptor subunit alpha	1	Vitiligo;Rheumatoid arthritis;Response to anti-retroviral therapy (ddI/d4T) in HIV-1 infection (Grade 3 peripheral neuropathy)
+ENSG00000169418	NPR1	adipose_tissue	67.1	1	Natriuretic peptide receptor 1	1	Systolic blood pressure;Mean arterial pressure
+ENSG00000152270	PDE3B	adipose_tissue	64.5	1	Phosphodiesterase 3B	1	Vitamin D levels;Bipolar disorder;Triglyceride levels;Type 2 diabetes
+ENSG00000101000	PROCR	adipose_tissue	126.8	1	Protein C receptor	1	Amyotrophic lateral sclerosis (sporadic);Protein C levels;Venous thromboembolism;Fish- and plant-related diet
+ENSG00000120949	TNFRSF8	adipose_tissue	5.3	1	TNF receptor superfamily member 8	1	Eosinophil percentage of granulocytes;Eosinophil counts;Neutrophil percentage of granulocytes;Eosinophil percentage of white cells;Sum eosinophil basophil counts

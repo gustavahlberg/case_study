@@ -1,0 +1,40 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000127249	ATP13A4	thyroid_gland	51.9	0		1	Obsession score in obsessive compulsive disorder;Major depressive episode treated with electroconvulsive therapy
+ENSG00000100346	CACNA1I	thyroid_gland	5.3	1	Calcium voltage-gated channel subunit alpha1 I	1	Refractive error;Response to methotrexate in juvenile idiopathic arthritis;Autism spectrum disorder or schizophrenia;Household income (MTAG);Cognitive ability (MTAG)
+ENSG00000165215	CLDN3	thyroid_gland	116.3	0		1	Platelet distribution width;Mean platelet volume
+ENSG00000134115	CNTN6	thyroid_gland	9.7	0		1	Metabolite levels;Systemic lupus erythematosus;Neurocognitive impairment in HIV-1 infection (continuous);High density lipoprotein cholesterol levels;Diastolic blood pressure
+ENSG00000035664	DAPK2	thyroid_gland	41.9	0		1	Systolic blood pressure x dichotomous lifestyle risk score interaction (1df test);Systolic blood pressure x dichotomous lifestyle risk score interaction (2df test);HDL cholesterol levels;Triglyceride levels;Venous thromboembolism adjusted for sickle cell variant rs77121243-T
+ENSG00000211448	DIO2	thyroid_gland	355.8	0		1	Metabolite levels;Paclitaxel disposition in epithelial ovarian cancer;Small vessel stroke;Rosacea symptom severity;Free thyroxine concentration
+ENSG00000140279	DUOX2	thyroid_gland	75.7	0		1	Iron status biomarkers (total iron binding capacity);Iron status biomarkers (iron levels);Iron status biomarkers (transferrin saturation);Iron status biomarkers (ferritin levels)
+ENSG00000127533	F2RL3	thyroid_gland	19.2	0		1	Metabolite levels
+ENSG00000135063	FAM189A2	thyroid_gland	58.2	0		1	Coronary artery disease in type 1 diabetes
+ENSG00000138759	FRAS1	thyroid_gland	12	0		1	Blond vs. brown/black hair color;Retinal detachment or retinal break;Night sleep phenotypes;Response to carboplatin in ovarian cancer (MTT IC50);Hemoglobin
+ENSG00000182870	GALNT9	thyroid_gland	13	0		1	Anti-saccade response;Response to antidepressants (symptom improvement);Response to SSRI (symptom remission);Body mass index
+ENSG00000161509	GRIN2C	thyroid_gland	16.6	1	Glutamate ionotropic receptor NMDA type subunit 2C	1	Congenital heart disease (maternal effect);Femur bone mineral density x serum urate levels interaction
+ENSG00000259207	ITGB3	thyroid_gland	51.4	1	Integrin subunit beta 3	1	Chromosomal aberration frequency (chromosome type) in genotoxic compound exposure;High chromosomal aberration frequency (chromosome type);Mean platelet volume;Eosinophil counts;Eosinophil percentage of white cells
+ENSG00000009765	IYD	thyroid_gland	472.7	0		1	Anger
+ENSG00000131398	KCNC3	thyroid_gland	52.1	1	Potassium voltage-gated channel subfamily C member 3	0	
+ENSG00000157551	KCNJ15	thyroid_gland	129.5	1	Potassium inwardly rectifying channel subfamily J member 15	1	Metabolite levels;Height;Non-response to antidepressants and depression
+ENSG00000124780	KCNK17	thyroid_gland	6.5	0		1	Cholesterol, total;Apolipoprotein B levels
+ENSG00000087253	LPCAT2	thyroid_gland	86.3	0		1	Angiotensin-converting enzyme inhibitor intolerance;Thyroid hormone levels;Tuberculosis (SNP x SNP interaction)
+ENSG00000157193	LRP8	thyroid_gland	41.5	0		1	Urinary metabolite levels in chronic kidney disease;Number of sexual partners;General risk tolerance (MTAG);Cerebrospinal fluid AB1-42 levels;Brain morphology (MOSTest)
+ENSG00000173114	LRRN3	thyroid_gland	19.6	0		1	Autism spectrum disorder or schizophrenia;Schizophrenia
+ENSG00000152939	MARVELD2	thyroid_gland	15.7	0		1	Triglyceride levels
+ENSG00000148053	NTRK2	thyroid_gland	116.9	1	Neurotrophic receptor tyrosine kinase 2	1	Gout (normal type);Refractive error;Menarche (age at onset);Body mass index;Lifetime anxiety disorder
+ENSG00000197822	OCLN	thyroid_gland	31.4	0		1	Hand grip strength (Mahalanobis distance);Interleukin-18 levels
+ENSG00000205038	PKHD1L1	thyroid_gland	68.8	0		1	Night sleep phenotypes;Obesity-related traits
+ENSG00000153246	PLA2R1	thyroid_gland	41.9	0		1	Membranous nephropathy;Refractive error;Blood protein levels
+ENSG00000130300	PLVAP	thyroid_gland	436.2	0		1	High light scatter reticulocyte count;Mitochondrial DNA copy number;High light scatter reticulocyte percentage of red cells;Monocyte percentage of white cells;Monocyte count
+ENSG00000166450	PRTG	thyroid_gland	10.7	0		1	General risk tolerance (MTAG);Joint mobility (Beighton score);Testicular germ cell tumor;Brain morphology (MOSTest);Adverse response to chemotherapy (neutropenia/leucopenia) (carboplatin)
+ENSG00000169439	SDC2	thyroid_gland	424.5	0		1	Meat-related diet;Alcohol consumption (drinks per week);Refractive error;Body mass index
+ENSG00000221955	SLC12A8	thyroid_gland	22.9	0		1	Type 2 diabetes;Tonsillectomy;Brain morphology (MOSTest);High light scatter reticulocyte count
+ENSG00000174326	SLC16A11	thyroid_gland	13.5	0		1	Type 2 diabetes;Childhood onset type 2 diabetes
+ENSG00000091137	SLC26A4	thyroid_gland	263.7	0		1	Alcohol consumption;Waist-to-hip ratio adjusted for BMI;Waist-to-hip ratio adjusted for BMI x sex x age interaction (4df test);Serum alkaline phosphatase levels
+ENSG00000147606	SLC26A7	thyroid_gland	330.3	0		1	Pulse pressure;Smoking initiation;Night sleep phenotypes;Fat distribution (HIV)
+ENSG00000196950	SLC39A10	thyroid_gland	48.4	0		1	Food allergy;Temperament
+ENSG00000088836	SLC4A11	thyroid_gland	60.9	0		1	HDL cholesterol levels x loop diuretics use interaction;Refractive error;Night sleep phenotypes;Asthma;Immature fraction of reticulocytes
+ENSG00000188687	SLC4A5	thyroid_gland	26.7	0		1	Refractive error;Immune reponse to smallpox (secreted TNF-alpha);Post-traumatic stress disorder (asjusted for relatedness)
+ENSG00000108018	SORCS1	thyroid_gland	11	0		1	Circulating leptin levels in high cardiovascular risk;White matter microstructure in first episode schizophrenia (left posterior cingulate cortex);Abnormal white matter microstructure in first episode schizophrenia (multivariate analysis);Methadone dose in opioid dependence;Asparaginase hypersensitivity in acute lymphoblastic leukemia
+ENSG00000144057	ST6GAL2	thyroid_gland	28.7	0		1	Serum immune biomarker levels;Gut microbiota (bacterial taxa, hurdle binary method)
+ENSG00000115705	TPO	thyroid_gland	1588.2	1	Thyroid peroxidase	1	Thyroid peroxidase antibody positivity;Thyroid peroxidase antibody levels;Hypothyroidism;Autoimmune thyroid disease
+ENSG00000165409	TSHR	thyroid_gland	273.9	1	Thyroid stimulating hormone receptor	1	Maximal oxygen uptake response;Graves disease;Obstetric antiphospholipid syndrome;Tourette syndrome;Thyroid stimulating hormone levels

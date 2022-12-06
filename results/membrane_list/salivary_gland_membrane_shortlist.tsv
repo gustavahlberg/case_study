@@ -1,0 +1,10 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000131620	ANO1	salivary_gland	180.5	1	Anoctamin 1	1	Systolic blood pressure;Childhood ear infection;Monobrow;Eosinophil counts;Basophil count
+ENSG00000157087	ATP2B2	salivary_gland	33.2	1	ATPase plasma membrane Ca2+ transporting 2	1	Amyotrophic lateral sclerosis (sporadic);Bipolar disorder;Autism spectrum disorder or schizophrenia;Manganese levels;Cognitive decline rate in late mild cognitive impairment
+ENSG00000026508	CD44	salivary_gland	504.2	1	CD44 molecule (Indian blood group)	1	Systemic lupus erythematosus;Uterine fibroids;Total body bone mineral density;Intake of sweets;Thiazide-induced adverse metabolic effects in hypertensive patients
+ENSG00000133019	CHRM3	salivary_gland	17.5	1	Cholinergic receptor muscarinic 3	1	Electroencephalogram traits;Interleukin-6 (red blood cell fatty acid level interaction);Hallucinations in long-term cannabis use;Generalized epilepsy
+ENSG00000166736	HTR3A	salivary_gland	5	1	5-hydroxytryptamine receptor 3A	1	Multiple sclerosis;Chronic kidney disease;Diisocyanate-induced asthma;Type 2 diabetes or prostate cancer (pleiotropy)
+ENSG00000104783	KCNN4	salivary_gland	130.8	1	Potassium calcium-activated channel subfamily N member 4	1	Hemoglobin levels;Monocyte percentage of white cells;Granulocyte percentage of myeloid white cells;Monocyte count;Mean corpuscular hemoglobin concentration
+ENSG00000111319	SCNN1A	salivary_gland	157.3	1	Sodium channel epithelial 1 subunit alpha	1	Primary biliary cirrhosis;Alopecia areata
+ENSG00000064651	SLC12A2	salivary_gland	75.6	1	Solute carrier family 12 member 2	1	Height;HDL cholesterol levels;Apolipoprotein A1 levels;Body fat distribution (arm fat ratio)
+ENSG00000184292	TACSTD2	salivary_gland	468.5	1	Tumor associated calcium signal transducer 2	1	Calcific aortic valve stenosis;Nickel levels

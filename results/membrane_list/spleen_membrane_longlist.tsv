@@ -1,0 +1,253 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000151651	ADAM8	spleen	48.5	0		1	Nonunion in individuals with fractures
+ENSG00000127507	ADGRE2	spleen	15.6	0		1	Plasma androstenedione levels in resected early stage-receptor positive breast cancer;Blood protein levels
+ENSG00000131355	ADGRE3	spleen	5.9	0		1	Femur bone mineral density x serum urate levels interaction
+ENSG00000128271	ADORA2A	spleen	15.2	1	Adenosine A2a receptor	1	Acne (severe);Coffee consumption;Caffeine consumption from tea;Caffeine consumption from coffee or tea;Coronary artery disease
+ENSG00000111339	ART4	spleen	19	0		1	Blood protein levels;Hand grip strength
+ENSG00000074370	ATP2A3	spleen	98.2	0		1	Glucose homeostasis traits;Metabolite levels;Refractive error;Apolipoprotein A1 levels;Diastolic blood pressure
+ENSG00000186265	BTLA	spleen	10.8	0		1	Cognitive decline rate in late mild cognitive impairment
+ENSG00000186470	BTN3A2	spleen	88.3	0		1	Lung cancer in ever smokers;Squamous cell lung carcinoma;Fish- and plant-related diet
+ENSG00000171860	C3AR1	spleen	21.4	0		1	Granulocyte percentage of myeloid white cells;Neutrophil percentage of white cells;Neutrophil count;Monocyte percentage of white cells
+ENSG00000197405	C5AR1	spleen	38.2	0		1	Chronic periodontitis
+ENSG00000188820	CALHM6	spleen	136.6	0		1	Childhood steroid-sensitive nephrotic syndrome
+ENSG00000271503	CCL5	spleen	123.9	0		1	Blood protein levels
+ENSG00000163823	CCR1	spleen	30.8	0		1	Heel bone mineral density;Ulcerative colitis;Juvenile idiopathic arthritis (oligoarticular or rheumatoid factor-negative polyarticular);Keratinocyte cancer (MTAG);Basal cell carcinoma
+ENSG00000121807	CCR2	spleen	20.4	0		1	Cerebrospinal fluid levels of Alzheimers disease-related proteins;Celiac disease;Granulocyte percentage of myeloid white cells;Monocyte percentage of white cells;Monocyte count
+ENSG00000160791	CCR5	spleen	9.4	1	C-C motif chemokine receptor 5	1	Cerebrospinal fluid levels of Alzheimers disease-related proteins;Blood protein levels in cardiovascular risk;Granulocyte percentage of myeloid white cells;Ulcerative colitis
+ENSG00000112486	CCR6	spleen	12.5	0		1	Triglycerides;Rheumatoid arthritis;Social autistic-like traits
+ENSG00000126353	CCR7	spleen	28.6	0		1	Allergic disease (asthma, hay fever or eczema);Lymphocyte count;Allergic rhinitis;Eczema
+ENSG00000177575	CD163	spleen	240.5	0		1	High density lipoprotein cholesterol levels;HDL cholesterol levels;Intracranial aneurysm
+ENSG00000177675	CD163L1	spleen	31.8	0		1	Intracranial aneurysm;Lactate dehydrogenase levels;Blood protein levels
+ENSG00000134061	CD180	spleen	12.9	0		1	Gut microbiota (bacterial taxa);Common carotid intima-media thickness in HIV infection;Prostate cancer (SNP x SNP interaction);General cognitive ability
+ENSG00000158481	CD1C	spleen	23	0		1	Dental caries (decayed and filled deciduous teeth)
+ENSG00000158488	CD1E	spleen	5.1	0		1	QRS duration
+ENSG00000116824	CD2	spleen	44.1	1	CD2 molecule	1	Amyotrophic lateral sclerosis (sporadic);Metabolite levels;Acne (severe);Rheumatoid arthritis
+ENSG00000163606	CD200R1	spleen	7.9	0		1	Rheumatoid arthritis;Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive);Eosinophil counts;Sum eosinophil basophil counts
+ENSG00000012124	CD22	spleen	161.6	1	CD22 molecule	1	Rheumatoid arthritis;Plateletcrit;Immature fraction of reticulocytes;Platelet distribution width
+ENSG00000122223	CD244	spleen	16.8	0		1	Inflammatory bowel disease;Crohns disease;Lymphocyte percentage of white cells;Neutrophil percentage of white cells;White blood cell count
+ENSG00000139193	CD27	spleen	73.8	0		1	Bipolar disorder;Cold medicine-related Stevens-Johnson syndrome/toxic epidermal necrolysis (SJS/TEN) with severe ocular complications;Multiple sclerosis;Tourette syndrome;Erythema nodosum in inflammatory bowel disease
+ENSG00000167851	CD300A	spleen	95.2	0		1	Blood protein levels;Neurological blood protein biomarker levels
+ENSG00000167850	CD300C	spleen	7.3	0		1	Blood protein levels
+ENSG00000186407	CD300E	spleen	11	0		1	Dental caries (decayed and filled deciduous tooth surfaces);Blood protein levels
+ENSG00000186074	CD300LF	spleen	28.9	0		1	Fibrinogen;Sum neutrophil eosinophil counts;White blood cell count;Plateletcrit;Monocyte count
+ENSG00000105383	CD33	spleen	23.9	1	CD33 molecule	1	Alzheimers disease;Plateletcrit;White blood cell count;Platelet count
+ENSG00000167286	CD3D	spleen	60.9	1	CD3d molecule	1	Pulse pressure
+ENSG00000198851	CD3E	spleen	78.9	1	CD3e molecule	1	Lung cancer in ever smokers;Pulse pressure;Alzheimers disease or HDL levels (pleiotropy)
+ENSG00000160654	CD3G	spleen	11.5	1	CD3g molecule	0	
+ENSG00000010610	CD4	spleen	164.4	1	CD4 molecule	1	Schizophrenia;Height;Systemic lupus erythematosus;Rheumatoid arthritis
+ENSG00000110448	CD5	spleen	14.1	0		1	Metabolite levels;Rheumatoid arthritis;Type 2 diabetes;Fruit consumption;Refractive error
+ENSG00000143119	CD53	spleen	269.4	0		1	Cytomegalovirus antibody response;Obesity-related traits
+ENSG00000013725	CD6	spleen	18	0		1	White coat effect (clinic diastolic blood pressure minus ambulatory diastolic blood pressure);Smoking status (ever vs never smokers);Refractive error;Chronic inflammatory diseases (ankylosing spondylitis, Crohns disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)
+ENSG00000129226	CD68	spleen	370.7	0		1	Refractive error;Brain morphology (MOSTest);Metabolic syndrome;Post bronchodilator FEV1/FVC ratio;Heel bone mineral density
+ENSG00000173762	CD7	spleen	53.7	0		1	Electroencephalogram traits;Height;Crohns disease;Inflammatory bowel disease;Asthma
+ENSG00000137101	CD72	spleen	53.6	0		1	Electroencephalogram traits;Blood protein levels
+ENSG00000019582	CD74	spleen	4897.4	0		1	Crohns disease;Inflammatory bowel disease;Post bronchodilator FEV1/FVC ratio
+ENSG00000007312	CD79B	spleen	147.7	1	CD79b molecule	1	Height;Hip circumference adjusted for BMI
+ENSG00000066294	CD84	spleen	15.2	0		1	Response to anti-TNF therapy in rheumatoid arthritis
+ENSG00000114013	CD86	spleen	23.4	1	CD86 molecule	1	Follicular lymphoma;Gut microbiota (functional units);Eosinophil counts;Multiple sclerosis;Eosinophil percentage of white cells
+ENSG00000153563	CD8A	spleen	117.1	0		1	Blood protein levels
+ENSG00000172116	CD8B	spleen	15.6	0		1	Progressive supranuclear palsy
+ENSG00000153283	CD96	spleen	12.8	0		1	Current cigarettes per day in chronic obstructive pulmonary disease;Anti-adalimumab antibody production in response to treatment in Crohns disease
+ENSG00000007129	CEACAM21	spleen	10.2	0		1	Lung adenocarcinoma;Schizophrenia;Prostate cancer
+ENSG00000154645	CHODL	spleen	14.1	0		1	Amyotrophic lateral sclerosis (sporadic);Neuroblastoma or malignant cutaneous melanoma;Bulimia nervosa;Perceived unattractiveness to mosquitoes;Adverse response to chemotherapy (neutropenia/leucopenia) (all antimetabolite drugs)
+ENSG00000132514	CLEC10A	spleen	18.5	0		1	GIP levels in response to oral glucose tolerance test (120 minutes);Carotid intima media thickness x smoking interaction;Neurological blood protein biomarker levels;Liver enzyme levels (alkaline phosphatase)
+ENSG00000172322	CLEC12A	spleen	22.1	0		1	Blood protein levels;Malaria
+ENSG00000150048	CLEC1A	spleen	8	0		1	Metabolite levels
+ENSG00000069493	CLEC2D	spleen	26.6	0		1	HDL cholesterol levels x short total sleep time interaction (1df test);HDL cholesterol levels x short total sleep time interaction (2df test);Multiple sclerosis;Autoimmune thyroid disease
+ENSG00000166523	CLEC4E	spleen	52.3	0		1	Takayasu arteritis
+ENSG00000174600	CMKLR1	spleen	34.3	0		1	Acne (severe);Risk-taking tendency (4-domain principal component model);Protein level change in low calorie diet obesity intervention;Response to methotrexate in juvenile idiopathic arthritis;Granulocyte percentage of myeloid white cells
+ENSG00000188822	CNR2	spleen	8.8	1	Cannabinoid receptor 2	1	Eosinophil percentage of granulocytes;Eosinophil counts;Eosinophil percentage of white cells;Multiple sclerosis
+ENSG00000203710	CR1	spleen	24.4	0		1	Age-related hearing impairment;Interferon alpha levels in systemic lupus erythematosus;White blood cell count;Metabolite levels;Amyotrophic lateral sclerosis (sporadic)
+ENSG00000117322	CR2	spleen	73.2	0		1	Cerebrospinal fluid levels of Alzheimers disease-related proteins;Height;Age-related cognitive decline (language) (slope of z-scores);Refractive error;Pulse pressure
+ENSG00000182578	CSF1R	spleen	113.3	1	Colony stimulating factor 1 receptor	1	Granulocyte percentage of myeloid white cells;Monocyte percentage of white cells;Monocyte count
+ENSG00000100368	CSF2RB	spleen	22.8	1	Colony stimulating factor 2 receptor subunit beta	1	Blood protein levels;Eosinophil counts;Multiple sclerosis
+ENSG00000163464	CXCR1	spleen	40.5	0		1	Inflammatory bowel disease;Basophil count;Neutrophil count;White blood cell count
+ENSG00000180871	CXCR2	spleen	27.3	0		1	Age-related cognitive decline (language) (slope of z-scores);Granulocyte percentage of myeloid white cells;Monocyte percentage of white cells;White blood cell count;Sum neutrophil eosinophil counts
+ENSG00000186810	CXCR3	spleen	7.5	0		1	Tuberculosis (SNP x SNP interaction)
+ENSG00000121966	CXCR4	spleen	346.5	1	C-X-C motif chemokine receptor 4	1	Amyotrophic lateral sclerosis (sporadic);Telomere length;Smoking status (ever vs never smokers);Lung function (low FEV1 vs high FEV1);Arthritis (juvenile idiopathic)
+ENSG00000051523	CYBA	spleen	693.1	0		1	Glycated hemoglobin levels;Hair color
+ENSG00000155016	CYP2U1	spleen	7.6	0		1	Appendicular lean mass
+ENSG00000173198	CYSLTR1	spleen	10.6	1	Cysteinyl leukotriene receptor 1	1	Potassium levels
+ENSG00000099958	DERL3	spleen	61.6	0		1	IgG galactosylation phenotypes (multivariate analysis);IgG digalactosylation phenotypes (multivariate analysis);IgG bisecting N-acetyl glucosamine phenotypes (multivariate analysis);IgG sialylation phenotypes (multivariate analysis);IgG disialylation phenotypes (multivariate analysis)
+ENSG00000198719	DLL1	spleen	53.9	0		1	Interferon alpha levels in systemic lupus erythematosus;Plasma anti-thyroglobulin levels;Intraocular pressure;Type 1 diabetes;Blood protein levels
+ENSG00000167261	DPEP2	spleen	28.6	0		1	Schizophrenia;Refractive error;HDL cholesterol levels x alcohol consumption (drinkers vs non-drinkers) interaction (2df);Triglyceride levels in current drinkers
+ENSG00000133740	E2F5	spleen	6.9	0		1	Plasma amyloid beta peptide concentrations (ABx-40)
+ENSG00000126860	EVI2A	spleen	38.2	0		1	Brain morphology (MOSTest);Endometrial cancer (endometrioid histology);Endometrial cancer
+ENSG00000185862	EVI2B	spleen	158.8	0		1	Oily fish consumption;Pork consumption;Brain morphology (MOSTest);Aspartate aminotransferase levels
+ENSG00000181104	F2R	spleen	69.5	1	Coagulation factor II thrombin receptor	1	LDL cholesterol levels;Blood protein levels;Phenylephrine infusion rate during anesthesia;Apolipoprotein B levels
+ENSG00000187268	FAM9C	spleen	38.2	0		1	Asthma;Asthma (childhood onset)
+ENSG00000140525	FANCI	spleen	6	0		1	Height;Serum immune biomarker levels;Menopause (age at onset)
+ENSG00000186431	FCAR	spleen	13.5	0		1	Ulcerative colitis
+ENSG00000158869	FCER1G	spleen	470.1	1	Fc fragment of IgE receptor Ig	1	Aggressive periodontitis;Asthma;Allergic disease (asthma, hay fever or eczema);Platelet distribution width;Allergy
+ENSG00000104921	FCER2	spleen	38.4	0		1	Post bronchodilator FEV1;Blood protein levels
+ENSG00000150337	FCGR1A	spleen	12.5	1	Fc fragment of IgG receptor Ia	0	
+ENSG00000198019	FCGR1B	spleen	7.2	1	Fc fragment of IgG receptor Ib	0	
+ENSG00000143226	FCGR2A	spleen	61.8	1	Fc fragment of IgG receptor IIa	1	Kawasaki disease;Systemic lupus erythematosus;Rheumatoid arthritis;Blood protein levels
+ENSG00000203747	FCGR3A	spleen	306.8	1	Fc fragment of IgG receptor IIIa	1	Functional impairment in major depressive disorder, bipolar disorder and schizophrenia;Ulcerative colitis;Inflammatory bowel disease;Basophil count
+ENSG00000162747	FCGR3B	spleen	82	1	Fc fragment of IgG receptor IIIb	1	Hemoglobin levels;Ulcerative colitis;Inflammatory bowel disease;Basophil percentage of white cells;Basophil percentage of granulocytes
+ENSG00000160856	FCRL3	spleen	27.5	0		1	Rheumatoid arthritis;Blood protein levels;Rheumatoid arthritis (ACPA-positive);Multiple sclerosis
+ENSG00000143297	FCRL5	spleen	15.1	0		1	Renal sinus fat;Systemic lupus erythematosus;HOMA-B (corrected for HOMA-IR)
+ENSG00000181036	FCRL6	spleen	12.8	0		1	Metabolite levels;C-reactive protein;Blood protein levels
+ENSG00000132185	FCRLA	spleen	38.5	0		1	Response to cyclophosphamide in systemic lupus erythematosus with lupus nephritis;Inflammatory bowel disease;Lymphocyte percentage of white cells;Lymphocyte count;Liver enzyme levels (gamma-glutamyl transferase)
+ENSG00000126262	FFAR2	spleen	22.2	0		1	Hemoglobin;Iron status biomarkers (iron levels);Iron status biomarkers (transferrin saturation);Metabolite levels;Neutrophil count
+ENSG00000122025	FLT3	spleen	5.7	1	Fms related receptor tyrosine kinase 3	1	HDL cholesterol levels;Apolipoprotein A1 levels;Sum neutrophil eosinophil counts;White blood cell count
+ENSG00000184922	FMNL1	spleen	104.9	0		1	Asthma;Craniofacial microsomia;Hypothyroidism;Thyroid stimulating hormone levels;Male-pattern baldness
+ENSG00000171051	FPR1	spleen	129.2	0		1	Neutrophil percentage of granulocytes;Eosinophil counts;Tourette syndrome;Eosinophil percentage of white cells;Alopecia areata
+ENSG00000171049	FPR2	spleen	17.2	0		1	Multiple sclerosis;Tourette syndrome;Alopecia areata
+ENSG00000158555	GDPD5	spleen	116.6	0		1	Height;Colorectal or endometrial cancer;Coronary artery disease
+ENSG00000213203	GIMAP1	spleen	24.7	0		1	Coronary artery calcified atherosclerotic plaque (130 HU threshold) in type 2 diabetes
+ENSG00000281887	GIMAP1-GIMAP5	spleen	16.4	0		1	Coronary artery calcified atherosclerotic plaque (130 HU threshold) in type 2 diabetes
+ENSG00000106560	GIMAP2	spleen	62.1	0		1	Age at smoking initiation in chronic obstructive pulmonary disease
+ENSG00000133574	GIMAP4	spleen	115.6	0		1	Triglyceride levels;vWF levels
+ENSG00000196329	GIMAP5	spleen	64.2	0		1	Coronary artery calcified atherosclerotic plaque (130 HU threshold) in type 2 diabetes
+ENSG00000183153	GJD3	spleen	8.1	0		1	Platelet distribution width
+ENSG00000106415	GLCCI1	spleen	7.1	0		1	Cognitive function;Intraocular pressure;Height;Night sleep phenotypes;Granulocyte percentage of myeloid white cells
+ENSG00000169704	GP9	spleen	8.9	0		1	Mean platelet volume;Plateletcrit;Platelet distribution width;Platelet count
+ENSG00000147138	GPR174	spleen	8.1	0		1	Graves disease
+ENSG00000125245	GPR18	spleen	10.5	0		1	Triglyceride levels;Asthma
+ENSG00000166856	GPR182	spleen	17	0		1	Asthma;Refractive error;Asthma or allergic disease (pleiotropy)
+ENSG00000169508	GPR183	spleen	35.1	0		1	Asthma;Inflammatory bowel disease;Type 1 diabetes
+ENSG00000140030	GPR65	spleen	9.6	0		1	Parkinsons disease;California verbal learning test score;Degraded stimulus continuous performance test score;Crohns disease;Inflammatory bowel disease
+ENSG00000135077	HAVCR2	spleen	24.1	0		1	Blood protein levels;Hypertriglyceridemia;Iris heterochromicity
+ENSG00000255398	HCAR3	spleen	19.6	1	Hydroxycarboxylic acid receptor 3	1	Thrombin-activatable fibrinolysis inhibitor levels;Waist-to-hip ratio adjusted for BMI (recessive genetic model);Waist-to-hip ratio adjusted for BMI
+ENSG00000234745	HLA-B	spleen	2493.7	0		1	White blood cell count;Atopic dermatitis;Type 2 diabetes;Marginal zone lymphoma
+ENSG00000204525	HLA-C	spleen	1445.7	0		1	IgE levels;Self-reported allergy;White blood cell count;Atopic dermatitis;Height
+ENSG00000204257	HLA-DMA	spleen	120.4	0		1	Asthma;Autism spectrum disorder or schizophrenia;Sarcoidosis (Lofgrens syndrome vs non-Lofgrens syndrome)
+ENSG00000242574	HLA-DMB	spleen	101.5	0		1	Squamous cell lung carcinoma;Asthma;Autism spectrum disorder or schizophrenia;Lung cancer
+ENSG00000204252	HLA-DOA	spleen	28.7	0		1	Asthma;Prostate cancer;Red wine liking;White wine liking;Chronic hepatitis B infection
+ENSG00000231389	HLA-DPA1	spleen	359.6	0		1	Sjögrens syndrome;IgA nephropathy;Lung cancer in ever smokers
+ENSG00000223865	HLA-DPB1	spleen	409.4	0		1	Sjögrens syndrome;Chronic hepatitis B infection;IgA nephropathy
+ENSG00000196735	HLA-DQA1	spleen	180	0		1	Autoimmune hepatitis type-1;Vitiligo;Self-reported allergy;Sjögrens syndrome;Systemic lupus erythematosus
+ENSG00000237541	HLA-DQA2	spleen	27.1	0		1	Systemic lupus erythematosus;Chronic hepatitis B infection;Acute anterior uveitis (with or without ankylosing spondylitis)
+ENSG00000179344	HLA-DQB1	spleen	139.3	0		1	Self-reported allergy;Systemic lupus erythematosus;IgA nephropathy
+ENSG00000204287	HLA-DRA	spleen	1091.9	0		1	Frontotemporal dementia;Vitiligo;Sjögrens syndrome;Antinuclear antibody levels;Tuberculosis
+ENSG00000196126	HLA-DRB1	spleen	516.2	0		1	Multiple sclerosis;Sjögrens syndrome;Systemic lupus erythematosus;Rheumatoid arthritis
+ENSG00000198502	HLA-DRB5	spleen	228.4	0		1	Frontotemporal dementia;Sjögrens syndrome;Antinuclear antibody levels;Acute anterior uveitis (with or without ankylosing spondylitis);Alzheimers disease
+ENSG00000204642	HLA-F	spleen	188.3	0		1	Mixed cellularity Hodgkin lymphoma;Autism spectrum disorder or schizophrenia
+ENSG00000100292	HMOX1	spleen	612.2	0		1	Waist-to-hip ratio adjusted for BMI (age >50);Waist-to-hip ratio adjusted for BMI x sex x age interaction (4df test);Plasma proprotein convertase subtilisin/kexin type 9 levels in stable coronary artery disease;Hippocampal volume in mild cognitive impairment
+ENSG00000122986	HVCN1	spleen	42.7	0		1	Composite immunoglobulin trait (IgA/IgG);Red blood cell count
+ENSG00000068001	HYAL2	spleen	282.8	0		1	Body mass index;Brain morphology (MOSTest);Subcortical volume (MOSTest);Brain morphology (min-P);Cortical surface area (MOSTest)
+ENSG00000108622	ICAM2	spleen	168.1	0		1	Allergic disease (asthma, hay fever or eczema);Response to antidepressants (symptom improvement)
+ENSG00000216490	IFI30	spleen	385.3	0		1	Multiple sclerosis;Mental health study participation (completed survey);Serum alkaline phosphatase levels;Waist-to-hip ratio adjusted for BMI (additive genetic model)
+ENSG00000211898	IGHD	spleen	146.7	0		1	Blood protein levels
+ENSG00000211893	IGHG2	spleen	4319.4	1	Immunoglobulin heavy constant gamma 2 (G2m marker)	1	IgG levels;Composite immunoglobulin trait (IgA/IgG)
+ENSG00000211892	IGHG4	spleen	831.6	1	Immunoglobulin heavy constant gamma 4 (G4m marker)	0	
+ENSG00000140749	IGSF6	spleen	29.8	0		1	Thrombin-activatable fibrinolysis inhibitor activation peptide
+ENSG00000110324	IL10RA	spleen	73.7	0		1	Obesity-related traits
+ENSG00000096996	IL12RB1	spleen	16.2	0		1	Mental health study participation (completed survey);Pulmonary function in asthmatics;Systemic sclerosis;Waist circumference adjusted for body mass index
+ENSG00000115604	IL18R1	spleen	18.5	0		1	Acute anterior uveitis (with or without ankylosing spondylitis);Blood protein levels;Asthma
+ENSG00000115590	IL1R2	spleen	90.1	0		1	Fibrinogen;Parkinsons disease;Asthma;Crohns disease
+ENSG00000104998	IL27RA	spleen	14.7	0		1	Immune response to measles-mumps-rubella vaccine;Blood protein levels;Lymphocyte percentage of white cells;Lymphocyte count
+ENSG00000134460	IL2RA	spleen	7.5	1	Interleukin 2 receptor subunit alpha	1	Vitiligo;Rheumatoid arthritis;Response to anti-retroviral therapy (ddI/d4T) in HIV-1 infection (Grade 3 peripheral neuropathy)
+ENSG00000100385	IL2RB	spleen	50.2	1	Interleukin 2 receptor subunit beta	1	Rheumatoid arthritis;Rheumatoid arthritis (ACPA-positive);Mean corpuscular volume;Juvenile idiopathic arthritis (oligoarticular or rheumatoid factor-negative polyarticular);Eosinophil counts
+ENSG00000147168	IL2RG	spleen	119.4	1	Interleukin 2 receptor subunit gamma	0	
+ENSG00000168685	IL7R	spleen	70.1	0		1	Asthma;Allergic disease (asthma, hay fever or eczema);Primary biliary cirrhosis;Lymphocyte percentage of white cells;Neutrophil percentage of white cells
+ENSG00000005961	ITGA2B	spleen	11.2	1	Integrin subunit alpha 2b	1	Platelet distribution width;Platelet count;Mean platelet volume;Brain morphology (MOSTest)
+ENSG00000156886	ITGAD	spleen	20.5	0		1	Red cell distribution width;Mean corpuscular hemoglobin;High light scatter reticulocyte count;High light scatter reticulocyte percentage of red cells;Reticulocyte count
+ENSG00000005844	ITGAL	spleen	64.9	1	Integrin subunit alpha L	1	White blood cell count;Lymphocyte count;Ulcerative colitis;Chronic inflammatory diseases (ankylosing spondylitis, Crohns disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy);Lymphocyte percentage of white cells
+ENSG00000160255	ITGB2	spleen	137.2	0		1	Neonatal white matter microstructure;Heel bone mineral density;Lymphocyte count
+ENSG00000139626	ITGB7	spleen	30	1	Integrin subunit beta 7	1	Obesity-related traits;Type 1 diabetes
+ENSG00000078596	ITM2A	spleen	24.5	0		1	Nose size;Graves disease;Height;Birth weight;Thyrotoxic hypokalemic periodic paralysis and Graves disease
+ENSG00000160593	JAML	spleen	60	0		1	Sleep duration (long sleep)
+ENSG00000177272	KCNA3	spleen	6	1	Potassium voltage-gated channel subfamily A member 3	1	Acute lymphoblastic leukemia (childhood)
+ENSG00000111796	KLRB1	spleen	28.9	0		1	Gut microbiota (bacterial taxa, hurdle binary method);Blood protein levels;Obesity (extreme)
+ENSG00000134545	KLRC1	spleen	6.7	0		1	Granulocyte percentage of myeloid white cells;Monocyte percentage of white cells;Monocyte count;High light scatter reticulocyte count;Mean corpuscular hemoglobin
+ENSG00000205809	KLRC2	spleen	5.8	0		1	Neutrophil percentage of white cells;Composite immunoglobulin trait (IgA/IgG);Alanine aminotransferase levels;Aspartate aminotransferase levels;Monocyte count
+ENSG00000134539	KLRD1	spleen	17	0		1	Umami taste perception in obesity with metabolic syndrome
+ENSG00000150045	KLRF1	spleen	18	0		1	Levodopa wearing off effect (time symptoms uncontrolled) in Parkinsons disease (response to zonisamide);Malaria
+ENSG00000139187	KLRG1	spleen	8.8	0		1	Refractive error;Sjögrens syndrome;Type 1 diabetes;Appendicular lean mass
+ENSG00000213809	KLRK1	spleen	42.9	0		1	Interleukin-1-receptor antagonist levels;Psoriasis;Obesity-related traits
+ENSG00000089692	LAG3	spleen	23.6	0		1	Blood protein levels
+ENSG00000162511	LAPTM5	spleen	491.1	0		1	Loneliness;Loneliness (linear analysis);Neutrophil count;White blood cell count
+ENSG00000213658	LAT	spleen	32	0		1	Acne (severe);Educational attainment;Glaucoma;Refractive error;Blood protein levels
+ENSG00000122188	LAX1	spleen	7.2	0		1	Malaria;Male-pattern baldness
+ENSG00000168675	LDLRAD4	spleen	5.6	0		1	Gut microbiota (functional units);Adverse response to drug;Depressive symptom improvement;Serum alkaline phosphatase levels
+ENSG00000104974	LILRA1	spleen	11.9	0		1	Major depressive disorder
+ENSG00000239961	LILRA4	spleen	10.9	0		1	Blood protein levels
+ENSG00000187116	LILRA5	spleen	76.3	0		1	Alzheimers disease or HDL levels (pleiotropy);Blood protein levels;HDL cholesterol;High density lipoprotein cholesterol levels
+ENSG00000244482	LILRA6	spleen	16.9	0		1	Blood protein levels;Post bronchodilator FEV1/FVC ratio
+ENSG00000204577	LILRB3	spleen	49.9	0		1	Takayasu arteritis;Birth weight;Monocyte count
+ENSG00000186818	LILRB4	spleen	18.8	0		1	Response to platinum-based chemotherapy (carboplatin);Inflammatory bowel disease;Clozapine-induced agranulocytosis
+ENSG00000105609	LILRB5	spleen	49.1	0		1	Creatine kinase levels in statin users;Blood protein levels;Lactate dehydrogenase levels;Creatine kinase levels
+ENSG00000064547	LPAR2	spleen	76	0		1	Bipolar II disorder;Bipolar I disorder;Bipolar disorder;Refractive error;Brain morphology (MOSTest)
+ENSG00000153395	LPCAT1	spleen	38.2	0		1	Lung cancer in ever smokers;Lung adenocarcinoma;Multiple sclerosis;Pancreatic cancer
+ENSG00000054219	LY75	spleen	18.4	0		1	Proportion of activated microglia (inferior temporal cortex);Plateletcrit;Myeloid white cell count
+ENSG00000122224	LY9	spleen	26.7	0		1	Lymphocyte percentage of white cells;Lymphocyte count;Blood protein levels;Postoperative atrial fibrillation in coronary artery bypass grafting surgery
+ENSG00000145416	MARCHF1	spleen	25.8	0		1	Heel bone mineral density x serum urate levels interaction
+ENSG00000019169	MARCO	spleen	37.1	0		1	Triglyceride levels;Lung function (FVC);Medication use (adrenergics, inhalants)
+ENSG00000153898	MCOLN2	spleen	6.7	0		1	Serum sulfate level
+ENSG00000204516	MICB	spleen	9.9	0		1	Psychosis (atypical);Cold sores;Triglyceride levels;Asthma;Asthma (childhood onset)
+ENSG00000271605	MILR1	spleen	17	0		1	Pulse pressure;Systolic blood pressure
+ENSG00000197629	MPEG1	spleen	207.4	0		1	Hepatitis B surface antigen seroclearance in chronic hepatitis B infection
+ENSG00000156738	MS4A1	spleen	253.8	1	Membrane spanning 4-domains A1	1	Post bronchodilator FEV1;Supramarginal gyrus volume;Congenital heart disease (maternal effect);Major depressive disorder;Recurrent major depressive disorder
+ENSG00000166927	MS4A7	spleen	196.6	0		1	Iron status biomarkers (ferritin levels);Monocyte count;Monocyte percentage of white cells
+ENSG00000120279	MYCT1	spleen	49.6	0		1	Body mass index;Neurofibrillary tangles;Alanine aminotransferase levels;High light scatter reticulocyte percentage of red cells;High light scatter reticulocyte count
+ENSG00000123338	NCKAP1L	spleen	44.9	0		1	Hip circumference adjusted for BMI;Obesity-related traits
+ENSG00000235568	NFAM1	spleen	19.9	0		1	Risk-taking tendency (4-domain principal component model);Refractive error;Machado-Joseph disease (age at onset);Chronotype
+ENSG00000164128	NPY1R	spleen	119.6	0		1	Metabolite levels;Lung cancer;Erythrocyte cadmium concentration;Triglyceride levels;Daytime nap
+ENSG00000132182	NUP210	spleen	32.5	0		1	Fish- and plant-related diet;Fruit consumption;Cooked vegetable consumption;Platelet distribution width
+ENSG00000078589	P2RY10	spleen	16.6	0		1	Rheumatoid arthritis
+ENSG00000169313	P2RY12	spleen	5.5	1	Purinergic receptor P2Y12	1	Diverticular disease
+ENSG00000171631	P2RY6	spleen	32.5	0		1	Refractive error
+ENSG00000138964	PARVG	spleen	28.9	0		1	Metabolite levels;Survival in colon cancer;Fasting glucose
+ENSG00000118946	PCDH17	spleen	25.1	0		1	Fish- and plant-related diet;Oily fish consumption;Type 2 diabetes;Pork consumption
+ENSG00000188389	PDCD1	spleen	7	1	Programmed cell death 1	1	Schizophrenia;Blood protein levels;White matter hyperintensity burden;Autism spectrum disorder or schizophrenia
+ENSG00000197646	PDCD1LG2	spleen	15.1	0		1	Blood protein levels;Serum alkaline phosphatase levels
+ENSG00000107593	PKD2L1	spleen	7.9	0		1	Serum metabolite levels;Squamous cell lung carcinoma;Low density lipoprotein cholesterol levels;Heel bone mineral density;Refractive error
+ENSG00000166428	PLD4	spleen	10.4	0		1	Rheumatoid arthritis;Cerebrospinal fluid t-tau levels
+ENSG00000169403	PTAFR	spleen	14.4	1	Platelet activating factor receptor	1	Blond vs. brown/black hair color
+ENSG00000171611	PTCRA	spleen	5	0		1	Plasma omega-6 polyunsaturated fatty acid levels (arachidonic acid)
+ENSG00000168229	PTGDR	spleen	6.3	0		1	Inflammatory bowel disease;Fasting glucose
+ENSG00000175354	PTPN2	spleen	28.5	0		1	Vitiligo;Rheumatoid arthritis;Thyroid peroxidase antibody levels
+ENSG00000081237	PTPRC	spleen	202.5	0		1	LDL cholesterol levels;Asthma;Apolipoprotein B levels;Refractive error
+ENSG00000213413	PVRIG	spleen	24.2	0		1	Refractive error;Ticagrelor levels in individuals with acute coronary syndromes treated with ticagrelor;Brain morphology (MOSTest);Subcortical volume (MOSTest);Monocyte count
+ENSG00000125910	S1PR4	spleen	61.1	0		1	Eosinophil percentage of white cells;Sum neutrophil eosinophil counts;White blood cell count;Monocyte percentage of white cells;Granulocyte percentage of myeloid white cells
+ENSG00000161929	SCIMP	spleen	49.2	0		1	Alzheimers disease;Alzheimers disease or family history of Alzheimers disease;Family history of Alzheimers disease;Alzheimers disease (late onset)
+ENSG00000091490	SEL1L3	spleen	63.2	0		1	Systolic blood pressure
+ENSG00000110876	SELPLG	spleen	86.6	0		1	Conduct disorder (symptom count);Acne (severe);Blood protein levels;Brain morphology (MOSTest)
+ENSG00000138623	SEMA7A	spleen	60.1	0		1	Alcohol consumption (drinks per week);HDL cholesterol levels;Hypertension;Apolipoprotein A1 levels;Craniofacial microsomia
+ENSG00000125089	SH3TC1	spleen	14.1	0		1	Idiopathic downbeat nystagmus;Response to metformin (IC50);Response to cognitive-behavioural therapy in major depressive disorder
+ENSG00000105501	SIGLEC5	spleen	12.4	0		1	Aggressive periodontitis;Lymphocyte count;Eosinophil counts;Eosinophil percentage of white cells;Leprosy
+ENSG00000168995	SIGLEC7	spleen	19.2	0		1	Blood protein levels;High light scatter reticulocyte percentage of red cells;Reticulocyte fraction of red cells
+ENSG00000129450	SIGLEC9	spleen	20.7	0		1	Blood protein levels;Monocyte percentage of white cells;Granulocyte percentage of myeloid white cells;Dental caries (decayed, missing and filled tooth surfaces);Body mass index
+ENSG00000101307	SIRPB1	spleen	24.5	0		1	Metabolite levels;Blood protein levels;Mean platelet volume;Lymphocyte percentage of white cells
+ENSG00000196209	SIRPB2	spleen	13.1	0		1	Circulating myeloperoxidase levels (serum)
+ENSG00000089012	SIRPG	spleen	9.4	0		1	Gut microbiota (bacterial taxa, hurdle binary method);Blood protein levels;Intracranial aneurysm;Meningococcal C functional antibody titers post childhood immunization
+ENSG00000137078	SIT1	spleen	23.6	0		1	Adverse response to chemotherapy (neutropenia/leucopenia) (paclitaxel)
+ENSG00000117090	SLAMF1	spleen	6.7	0		1	Memory decline;Multiple sclerosis;Eosinophil percentage of white cells;Eosinophil counts;Microalbuminuria
+ENSG00000162739	SLAMF6	spleen	32.2	0		1	Multiple sclerosis;Blood protein levels;Graves disease;Rheumatoid arthritis
+ENSG00000026751	SLAMF7	spleen	42.3	1	SLAM family member 7	1	Blood protein levels;Microalbuminuria;Inflammatory bowel disease;Multiple sclerosis
+ENSG00000158714	SLAMF8	spleen	11.7	0		1	Crohns disease
+ENSG00000018280	SLC11A1	spleen	46.6	0		1	Inflammatory bowel disease;Ulcerative colitis
+ENSG00000160326	SLC2A6	spleen	13.3	0		1	Gut microbiota (functional units)
+ENSG00000135740	SLC9A5	spleen	17.4	0		1	Refractive error;High light scatter reticulocyte count;High light scatter reticulocyte percentage of red cells;High density lipoprotein cholesterol levels;Mean spheric corpuscular volume
+ENSG00000010327	STAB1	spleen	439.5	0		1	HDL cholesterol;Schizophrenia;Height;Bipolar disorder;Urinary albumin-to-creatinine ratio
+ENSG00000136011	STAB2	spleen	65.9	0		1	Factor VIII levels
+ENSG00000157303	SUSD3	spleen	36.3	0		1	Plateletcrit
+ENSG00000059377	TBXAS1	spleen	57.8	0		1	Amyotrophic lateral sclerosis (sporadic);Heel bone mineral density;Systolic blood pressure;Cerebellum growth;Gray matter volume (schizophrenia interaction)
+ENSG00000174125	TLR1	spleen	24.9	0		1	Self-reported allergy;Asthma;Alcohol consumption;Allergic disease (asthma, hay fever or eczema);Diabetes in response to antihypertensive drug treatment (treatment strategy interaction)
+ENSG00000174123	TLR10	spleen	24.3	0		1	Self-reported allergy;Asthma;Diabetes in response to antihypertensive drug treatment (treatment strategy interaction);Allergic rhinitis
+ENSG00000137462	TLR2	spleen	35.9	1	Toll like receptor 2	1	Body fat mass
+ENSG00000174130	TLR6	spleen	9.7	0		1	Self-reported allergy;Diabetes in response to antihypertensive drug treatment (treatment strategy interaction);Allergy;Allergic sensitization;Asthma or allergic disease (pleiotropy)
+ENSG00000101916	TLR8	spleen	13.3	0		1	Celiac disease
+ENSG00000141524	TMC6	spleen	110.5	0		1	Hemoglobin levels;High light scatter reticulocyte count;Plateletcrit;Reticulocyte count
+ENSG00000121895	TMEM156	spleen	11.1	0		1	Eosinophil counts;Eosinophil percentage of white cells;Monocyte count;Monocyte percentage of white cells;Femur bone mineral density x serum urate levels interaction
+ENSG00000196932	TMEM26	spleen	8.8	0		1	Response to taxane treatment (placlitaxel);Prudent dietary pattern;Heel bone mineral density;Height
+ENSG00000167664	TMIGD2	spleen	6.4	0		1	Post-bronchodilator lung function in asthma (FVC)
+ENSG00000120802	TMPO	spleen	39.1	0		1	Metabolite levels
+ENSG00000173535	TNFRSF10C	spleen	18.4	0		1	Eosinophil counts;White blood cell count;Myeloid white cell count;Sum neutrophil eosinophil counts;Granulocyte count
+ENSG00000048462	TNFRSF17	spleen	20.3	0		1	Phenylephrine infusion rate during anesthesia;Testicular germ cell tumor;QT interval;Blood protein levels
+ENSG00000028137	TNFRSF1B	spleen	53.3	0		1	Blood protein levels in cardiovascular risk;Urate levels (BMI interaction);Eosinophil counts;Eosinophil percentage of white cells;Tuberculosis
+ENSG00000186827	TNFRSF4	spleen	13.3	0		1	Inflammatory bowel disease
+ENSG00000102524	TNFSF13B	spleen	15.9	1	TNF superfamily member 13b	1	Metabolite levels;HDL cholesterol levels;Apolipoprotein A1 levels;White blood cell count;Plateletcrit
+ENSG00000106952	TNFSF8	spleen	7.4	0		1	Eosinophil counts;Chronic inflammatory diseases (ankylosing spondylitis, Crohns disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy);Eosinophil percentage of granulocytes;Neutrophil percentage of granulocytes;Eosinophil percentage of white cells
+ENSG00000009790	TRAF3IP3	spleen	60.1	0		1	Mean corpuscular volume;Red blood cell count;Mean corpuscular hemoglobin;Alopecia areata;Worry too long after an embarrassing experience
+ENSG00000163519	TRAT1	spleen	8.5	0		1	Autoimmune thyroid disease
+ENSG00000124731	TREM1	spleen	11.1	0		1	Blood protein levels;Femur bone mineral density x serum urate levels interaction
+ENSG00000161911	TREML1	spleen	7.3	0		1	Metabolite levels;Blood protein levels
+ENSG00000112195	TREML2	spleen	6.6	0		1	Blood protein levels;Monocyte count;Waist circumference;Calcific aortic valve stenosis
+ENSG00000142185	TRPM2	spleen	18.4	0		1	Parkinsons disease;Anorectal malformation;Dental caries (decayed, missing and filled teeth)
+ENSG00000110057	UNC93B1	spleen	76.7	0		1	Waist circumference adjusted for body mass index;Schizophrenia x sex interaction
+ENSG00000162692	VCAM1	spleen	389.3	0		1	Sjögrens syndrome;Multiple sclerosis
+ENSG00000128815	WDFY4	spleen	17.3	0		1	Airway responsiveness in chronic obstructive pulmonary disease;Systemic lupus erythematosus;Rheumatoid arthritis
+ENSG00000173578	XCR1	spleen	7.2	0		1	Interferon alpha levels in systemic lupus erythematosus;Inflammatory bowel disease;Basophil count;Severe COVID-19 infection with respiratory failure (analysis I);Severe COVID-19 infection with respiratory failure (analysis II)

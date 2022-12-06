@@ -1,0 +1,102 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000130234	ACE2	kidney	87.6	0		1	Glycemic traits (pregnancy);Elevated fasting plasma glucose;Body mass index;Adult body size;Cognitive ability, years of educational attainment or schizophrenia (pleiotropy)
+ENSG00000167107	ACSF2	kidney	142.1	0		1	Heel bone mineral density
+ENSG00000062096	ARSF	kidney	7.6	0		1	Tuberculosis (SNP x SNP interaction)
+ENSG00000143153	ATP1B1	kidney	1337.8	0		1	Electrocardiographic traits;Mitochondrial DNA levels;Fuchss corneal dystrophy;QT interval;Rosacea symptom severity
+ENSG00000126895	AVPR2	kidney	8.1	1	Arginine vasopressin receptor 2	0	
+ENSG00000187244	BCAM	kidney	316.8	0		1	Carotid intima media thickness (mean);Carotid intima media thickness (maximum);Blood protein levels;Alzheimers disease
+ENSG00000162399	BSND	kidney	9.4	0		1	Allergic rhinitis;Carotid intima media thickness x smoking interaction;Coronary artery disease;Mitochondrial DNA copy number
+ENSG00000074410	CA12	kidney	290.2	1	Carbonic anhydrase 12	1	Number of decayed, missing and filled tooth surfaces or use of dentures;Number of decayed, missing and filled tooth surfaces;Dentures;Refractive error;Daytime nap
+ENSG00000166589	CDH16	kidney	250	0		1	HDL cholesterol levels x alcohol consumption (drinkers vs non-drinkers) interaction (2df);HDL cholesterol levels x alcohol consumption (regular vs non-regular drinkers) interaction (2df);HDL cholesterol levels in current drinkers
+ENSG00000113361	CDH6	kidney	14.8	0		1	Heel bone mineral density;General risk tolerance (MTAG);Smoking status (ever vs never smokers);Adventurousness;Sleep (1/3-day periodicity)
+ENSG00000113100	CDH9	kidney	5.7	0		1	Metabolite levels;Response to platinum-based chemotherapy (cisplatin);Number of decayed, missing and filled tooth surfaces or use of dentures;Dentures;Adventurousness
+ENSG00000186510	CLCNKA	kidney	344	0		1	Left ventricular ejection fraction;Waist circumference adjusted for body mass index;Left ventricular global circumferential strain;Left ventricular end-diastolic volume
+ENSG00000184908	CLCNKB	kidney	209.7	0		1	Hemoglobin levels;Red blood cell count;Hematocrit;Hemoglobin
+ENSG00000134873	CLDN10	kidney	135.2	0		1	Metabolite levels;Psychosis proneness (hypomanic personality scale);Iron status biomarkers (ferritin levels);Estimated glomerular filtration rate;Dental caries (decayed and filled deciduous teeth)
+ENSG00000165376	CLDN2	kidney	165.2	0		1	Pancreatitis;Fish- and plant-related diet
+ENSG00000156284	CLDN8	kidney	69.3	0		1	Response to statin therapy
+ENSG00000205279	CTXN3	kidney	79.8	0		1	Plasma amyloid beta peptide concentrations (ABx-42);Brain imaging in schizophrenia (dorsolateral prefrontal cortex interaction)
+ENSG00000166347	CYB5A	kidney	889.6	0		1	Liver enzyme levels (aspartate transaminase);Initial alcohol sensitivity;Blood protein levels
+ENSG00000186115	CYP4F2	kidney	40.9	0		1	Urinary metabolite modules (eigenmetabolites) in chronic kidney disease;Urinary metabolite levels in chronic kidney disease
+ENSG00000173253	DMRT2	kidney	41.2	0		1	Triglyceride levels;HDL cholesterol levels;Nose size;Night sleep phenotypes
+ENSG00000138792	ENPEP	kidney	90	0		1	Systolic blood pressure;Pursuit maintenance gain;Lung cancer;Serum metabolite levels
+ENSG00000125848	FLRT3	kidney	23.2	0		1	Blood protein levels;Mood disorder in prion disease;Bipolar disorder
+ENSG00000010932	FMO1	kidney	199	0		1	Metabolite levels;Type 2 diabetes (age of onset);Sudden cardiac arrest
+ENSG00000150893	FREM2	kidney	7.7	0		1	Blond vs. brown/black hair color;Cytomegalovirus antibody response;PR interval;Yu-Zhi constitution type in type 2 diabetes
+ENSG00000156413	FUT6	kidney	36.1	0		1	Elevated serum carcinoembryonic antigen levels;Vitamin B12 levels;White blood cell count (basophil);Basophil percentage of granulocytes
+ENSG00000137731	FXYD2	kidney	3645.4	1	FXYD domain containing ion transport regulator 2	1	Refractive error;Myopia;Hippocampal volume in Alzheimers disease dementia
+ENSG00000150201	FXYD4	kidney	297.7	0		1	Heel bone mineral density;Telomere length;Metabolite levels;Blood urea nitrogen levels
+ENSG00000178234	GALNT11	kidney	229.5	0		1	Kidney function decline traits;Post bronchodilator FEV1/FVC ratio
+ENSG00000158089	GALNT14	kidney	41.3	0		1	Type 2 diabetes;Vaginal microbiome composition (L. iners);Levodopa-induced dyskinesia in levodopa treated Parkinsons disease;HIV-1 viral setpoint
+ENSG00000182870	GALNT9	kidney	9.4	0		1	Anti-saccade response;Response to antidepressants (symptom improvement);Response to SSRI (symptom remission);Body mass index
+ENSG00000100031	GGT1	kidney	174.8	0		1	Blood metabolite levels;Acne (severe);Serum metabolite levels;Gamma glutamyl transferase levels;Urinary metabolite modules (eigenmetabolites) in chronic kidney disease
+ENSG00000198814	GK	kidney	107.7	0		1	Hypospadias;Cognitive decline (age-related);Metabolite levels;Post-traumatic stress disorder
+ENSG00000138678	GPAT3	kidney	88.4	0		1	Heel bone mineral density;Adverse response to drug;Estimated glomerular filtration rate in diabetes;Plasma omega-3 polyunsaturated fatty acid levels (docosapentaenoic acid)
+ENSG00000105707	HPN	kidney	200.5	0		1	Colorectal cancer;Triglyceride levels;Urinary albumin-to-creatinine ratio in diabetes;Urinary albumin-to-creatinine ratio
+ENSG00000171004	HS6ST2	kidney	13.9	0		1	Periodontitis (Mean PAL);Educational attainment (years of education);Age at first birth
+ENSG00000056736	IL17RB	kidney	59.8	0		1	Refractive error;Blood protein levels;interleukin 17 receptor B levels;Body mass index;Axial length
+ENSG00000115221	ITGB6	kidney	68.3	0		1	Proportion of activated microglia (inferior temporal cortex);Waist circumference adjusted for body mass index;Tourette syndrome;Eosinophil counts
+ENSG00000173826	KCNH6	kidney	7	1	Potassium voltage-gated channel subfamily H member 6	1	Refractive error
+ENSG00000151704	KCNJ1	kidney	198	1	Potassium inwardly rectifying channel subfamily J member 1	1	Metabolite levels;Schizophrenia;Type 2 diabetes
+ENSG00000157551	KCNJ15	kidney	241.6	1	Potassium inwardly rectifying channel subfamily J member 15	1	Metabolite levels;Height;Non-response to antidepressants and depression
+ENSG00000164626	KCNK5	kidney	37.2	0		1	Social communication problems;Urinary albumin-to-creatinine ratio;HDL cholesterol levels;Apolipoprotein A1 levels
+ENSG00000133116	KL	kidney	128.7	0		1	Chronic lymphocytic leukemia;Blood metabolite levels;Glucose homeostasis traits;Eosinophilic esophagitis
+ENSG00000081479	LRP2	kidney	34.8	0		1	Blood pressure (smoking interaction);Venous thromboembolism;Glomerular filtration rate (creatinine);Estimated glomerular filtration rate;Serum creatinine levels
+ENSG00000157890	MEGF11	kidney	8.4	0		1	Adult body size;Major depressive disorder (MTAG);Hodgkins lymphoma;Femur bone mineral density x serum urate levels interaction
+ENSG00000196549	MME	kidney	302.5	1	Membrane metalloendopeptidase	1	Rheumatoid arthritis;Diastolic blood pressure
+ENSG00000185499	MUC1	kidney	485.8	0		1	Apolipoprotein A1 levels;Hemoglobin levels;Body fat distribution (leg fat ratio);Body fat distribution (trunk fat ratio);Nonunion in individuals with fractures
+ENSG00000144035	NAT8	kidney	732.4	0		1	Blood metabolite ratios;Blood metabolite levels
+ENSG00000086991	NOX4	kidney	138	0		1	Fish- and plant-related diet;Height;Pulse pressure;Systolic blood pressure;Diastolic blood pressure
+ENSG00000113389	NPR3	kidney	107.8	0		1	Height;Blood pressure;Systolic blood pressure (cigarette smoking interaction)
+ENSG00000137819	PAQR5	kidney	52.9	0		1	Systolic blood pressure;Diastolic blood pressure;Basophil percentage of white cells;Basophil count;Calcium levels
+ENSG00000162366	PDZK1IP1	kidney	1047	0		1	Clozapine-induced agranulocytosis
+ENSG00000148123	PLPPR1	kidney	15.6	0		1	Hip circumference adjusted for BMI;Triglyceride levels in HIV infection;Epstein-Barr virus copy number in lymphoblastoid cell lines
+ENSG00000128567	PODXL	kidney	96.2	0		1	Schizophrenia;Refractive error;Pulse pressure;Systolic blood pressure;Diastolic blood pressure
+ENSG00000050628	PTGER3	kidney	81.2	1	Prostaglandin E receptor 3	1	Proximal colorectal cancer;Colon cancer;Dental caries (decayed, missing and filled teeth);Verbal declarative memory;Intelligence (MTAG)
+ENSG00000160801	PTH1R	kidney	586.8	1	Parathyroid hormone 1 receptor	1	Birth weight;Refractive error;Microalbuminuria;Offspring birth weight;Type 2 diabetes
+ENSG00000151490	PTPRO	kidney	36.3	0		1	Impaired insulin sensitivity in response to n-3 PUFA supplementation;Obstetric antiphospholipid syndrome;General cognitive ability;Temporal pole volume
+ENSG00000132677	RHBG	kidney	9.8	0		1	Initial pursuit acceleration;Subcutaneous adipose tissue;Visceral adipose tissue adjusted for BMI
+ENSG00000176641	RNF152	kidney	56.5	0		1	Glomerular filtration rate (creatinine);Estimated glomerular filtration rate
+ENSG00000165188	RNF183	kidney	11.5	0		1	Appendicular lean mass
+ENSG00000166828	SCNN1G	kidney	42.4	1	Sodium channel epithelial 1 subunit gamma	1	Heel bone mineral density;Parent of origin effect on receptive language ability (paternal)
+ENSG00000156398	SFXN2	kidney	17.9	0		1	Schizophrenia;Waist-to-hip ratio adjusted for BMI (adjusted for smoking behaviour);White blood cell count;Waist-to-hip ratio adjusted for BMI (age >50)
+ENSG00000178343	SHISA3	kidney	21.4	0		1	Anthracycline-induced cardiotoxicity in early breast cancer;Type 2 diabetes (age of onset);Impulsivity (attentional)
+ENSG00000074803	SLC12A1	kidney	705.6	1	Solute carrier family 12 member 1	1	Systemic lupus erythematosus;Metabolite levels (Pyroglutamine);Lymphocyte count;Lymphocyte percentage of white cells
+ENSG00000070915	SLC12A3	kidney	101.7	1	Solute carrier family 12 member 3	1	HDL cholesterol;HDL cholesterol levels;Phoneme awareness;HDL levels x fish oil supplementation interaction (2df)
+ENSG00000081800	SLC13A1	kidney	81.9	0		1	Systolic blood pressure;High density lipoprotein cholesterol levels;Adverse response to chemotherapy (neutropenia/leucopenia) (docetaxel)
+ENSG00000158296	SLC13A3	kidney	407.6	0		1	Chronic kidney disease;Glomerular filtration rate;Waist-to-hip ratio adjusted for BMI (age <50);Waist-to-hip ratio adjusted for BMI (age >50);Waist-to-hip ratio adjusted for BMI
+ENSG00000168679	SLC16A4	kidney	124.1	0		1	Mean reticulocyte volume
+ENSG00000170190	SLC16A5	kidney	92.8	0		1	Bipolar disorder
+ENSG00000124564	SLC17A3	kidney	164.3	0		1	Blood metabolite ratios;Blood metabolite levels;Blood pressure;Tenofovir clearance in HIV infection
+ENSG00000106688	SLC1A1	kidney	51	0		1	Metabolite levels;Squamous cell lung carcinoma;Response to antipsychotic treatment in schizophrenia;Response to risperidone in schizophrenia;Pancreatic cancer
+ENSG00000197891	SLC22A12	kidney	109.4	1	Solute carrier family 22 member 12	1	Gout (combined type);Urate levels;Urate levels in lean individuals;Urate levels in overweight individuals
+ENSG00000172940	SLC22A13	kidney	9	0		1	Gut microbiota (bacterial taxa)
+ENSG00000112499	SLC22A2	kidney	153.9	0		1	Creatinine levels;Acne (severe);Serum metabolite levels;Refractive error;Kidney stones
+ENSG00000197901	SLC22A6	kidney	196.5	1	Solute carrier family 22 member 6	1	Glucose homeostasis traits;Urate levels
+ENSG00000140284	SLC27A2	kidney	157.7	0		1	Blood metabolite ratios;Verbal declarative memory;Platelet count
+ENSG00000109667	SLC2A9	kidney	29.3	0		1	Blood metabolite ratios;Blood metabolite levels;Serum uric acid levels;Serum metabolite levels
+ENSG00000131183	SLC34A1	kidney	155.4	0		1	Kidney stones;Creatinine levels;Waist-to-hip ratio adjusted for BMI (age <50);Waist-to-hip ratio adjusted for BMI
+ENSG00000138079	SLC3A1	kidney	649.3	0		1	Refractive error;antipsychotic drug dosage in schizophrenia or schizoaffective disorder
+ENSG00000142494	SLC47A1	kidney	100.3	0		1	Lymphocyte count;Glomerular filtration rate (creatinine);Intracranial aneurysm;Chronic kidney disease;Estimated glomerular filtration rate
+ENSG00000180638	SLC47A2	kidney	55.8	0		1	Keratoconus
+ENSG00000088836	SLC4A11	kidney	51.3	0		1	HDL cholesterol levels x loop diuretics use interaction;Refractive error;Night sleep phenotypes;Asthma;Immature fraction of reticulocytes
+ENSG00000080493	SLC4A4	kidney	119.5	0		1	Fractional exhaled nitric oxide (childhood);Heel bone mineral density;Refractive error;Diastolic blood pressure
+ENSG00000154025	SLC5A10	kidney	41.6	0		1	1,5-anhydroglucitol levels
+ENSG00000148942	SLC5A12	kidney	171.7	0		1	Erectile dysfunction;Exhaled nitric oxide output;Exhaled nitric oxide levels;Lean body mass;Dental caries (decayed, missing and filled teeth)
+ENSG00000140675	SLC5A2	kidney	54.2	1	Solute carrier family 5 member 2	1	Glucosuria (moderate to severe);Glucosuria (mild);Glucosuria
+ENSG00000010379	SLC6A13	kidney	153.1	0		1	Blood metabolite ratios;Blood metabolite levels;Serum metabolite levels;Urinary metabolite levels in chronic kidney disease;Refractive error
+ENSG00000164363	SLC6A18	kidney	8.2	0		1	Pancreatic cancer;Renal cell carcinoma
+ENSG00000155465	SLC7A7	kidney	300.6	1	Solute carrier family 7 member 7	1	Intraocular pressure;Type 2 diabetes;Cardiovascular death, myocardial infarction or stroke in response to clopidogrel treatment;Psychological resilience (outcome-based) in high deployment stress exposure;Resting-state electroencephalogram vigilance
+ENSG00000066230	SLC9A3	kidney	62.5	1	Solute carrier family 9 member A3	1	Pulse pressure;Systolic blood pressure;Diastolic blood pressure;Hemoglobin levels;Monocyte percentage of white cells
+ENSG00000173930	SLCO4C1	kidney	41.6	0		1	Pulse pressure x educational attainment (some college) interaction (2df)
+ENSG00000198829	SUCNR1	kidney	39.9	0		1	Gout vs. Hyperuricemia;Male-pattern baldness;Immunoglobulin A
+ENSG00000005108	THSD7A	kidney	7.5	0		1	Bipolar disorder;Glaucoma;Intraocular pressure;Refractive error;Lung function in never smokers (low FEV1 vs high FEV1)
+ENSG00000064115	TM7SF3	kidney	258	0		1	Dimensional psychopathology (Social);Hodgkins lymphoma
+ENSG00000184988	TMEM106A	kidney	21.9	0		1	Blood protein levels
+ENSG00000164325	TMEM174	kidney	153.2	0		1	Monobrow thickness;Eyebrow thickness;Monobrow;Blood urea nitrogen levels;Renal function-related traits (BUN)
+ENSG00000002933	TMEM176A	kidney	377.7	0		1	HDL cholesterol;HDL cholesterol levels;Serum metabolite concentrations in chronic kidney disease;Forced expiratory volume in 1 second (occupational environmental exposures interaction);Metabolite levels
+ENSG00000162460	TMEM82	kidney	11.5	0		1	Alcoholic chronic pancreatitis;Alcohol consumption (heavy vs. light/non-drinkers)
+ENSG00000117472	TSPAN1	kidney	244.3	0		1	Metabolite levels;Response to taxane treatment (placlitaxel);Venous thromboembolism;Height;Red vs. brown/black hair color
+ENSG00000106025	TSPAN12	kidney	91.6	0		1	Heel bone mineral density;Bitter alcoholic beverage consumption
+ENSG00000158457	TSPAN33	kidney	64.8	0		1	Ulcerative colitis;Estimated glomerular filtration rate
+ENSG00000169344	UMOD	kidney	2277.8	0		1	Renal function and chronic kidney disease;Urinary uromodulin levels;Kidney function decline traits

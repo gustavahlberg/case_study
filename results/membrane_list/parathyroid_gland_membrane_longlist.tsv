@@ -1,0 +1,56 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000123983	ACSL3	parathyroid_gland	172.1	0		1	Mild influenza (H1N1) infection
+ENSG00000114948	ADAM23	parathyroid_gland	82.9	0		1	Fish- and plant-related diet;Blood protein levels;Tonsillectomy;Trunk fat mass;Waist-hip ratio
+ENSG00000111863	ADTRP	parathyroid_gland	92.9	0		1	Spatial processing;Apolipoprotein B levels;Refractive error;Daytime sleep phenotypes;Body mass index
+ENSG00000170017	ALCAM	parathyroid_gland	438.9	0		1	Amyotrophic lateral sclerosis (sporadic);Metabolite levels;Plasma omega-6 polyunsaturated fatty acid levels (dihomo-gamma-linolenic acid);Age-related cognitive decline (memory) (slope of z-scores);Apolipoprotein A1 levels
+ENSG00000127249	ATP13A4	parathyroid_gland	58.4	0		1	Obsession score in obsessive compulsive disorder;Major depressive episode treated with electroconvulsive therapy
+ENSG00000163399	ATP1A1	parathyroid_gland	1482.3	1	ATPase Na+/K+ transporting subunit alpha 1	1	HDL cholesterol levels in HIV infection;Coffee consumption;Macular thickness;Hip index
+ENSG00000182220	ATP6AP2	parathyroid_gland	765.1	0		1	Metabolite levels
+ENSG00000036828	CASR	parathyroid_gland	654.4	1	Calcium sensing receptor	1	Phosphorus levels;QT interval;Cardiac Troponin-T levels;Serum parathyroid hormone levels;Eosinophil counts
+ENSG00000156535	CD109	parathyroid_gland	330.4	0		1	Metabolite levels;Heel bone mineral density;Blood protein levels;Coronary artery disease
+ENSG00000010610	CD4	parathyroid_gland	173.8	1	CD4 molecule	1	Schizophrenia;Height;Systemic lupus erythematosus;Rheumatoid arthritis
+ENSG00000039068	CDH1	parathyroid_gland	197.8	0		1	Glucose homeostasis traits;Blood pressure (smoking interaction);Adiponectin levels;Airway responsiveness in chronic obstructive pulmonary disease;Obsessive-compulsive disorder
+ENSG00000122873	CISD1	parathyroid_gland	82.3	0		1	Inflammatory bowel disease;Crohns disease
+ENSG00000148842	CNNM2	parathyroid_gland	31.6	0		1	Schizophrenia;Diastolic blood pressure (cigarette smoking interaction);Systolic blood pressure (cigarette smoking interaction);Number of sexual partners
+ENSG00000173253	DMRT2	parathyroid_gland	46.4	0		1	Triglyceride levels;HDL cholesterol levels;Nose size;Night sleep phenotypes
+ENSG00000183914	DNAH2	parathyroid_gland	10.5	0		1	Height;Hemoglobin levels;Hematocrit;White blood cell count;Plateletcrit
+ENSG00000046604	DSG2	parathyroid_gland	157.8	0		1	Blood protein levels
+ENSG00000159658	EFCAB14	parathyroid_gland	159.5	0		1	Disease progression in age-related macular degeneration
+ENSG00000149547	EI24	parathyroid_gland	461.9	0		1	Lean body mass;Body mass index;Alanine aminotransferase levels
+ENSG00000099219	ERMP1	parathyroid_gland	50.1	0		1	Blond vs. brown/black hair color;Asthma;Waist-hip ratio
+ENSG00000226887	ERVMER34-1	parathyroid_gland	12.9	0		1	Moderate or severe prolonged lymphopenia in dimethyl fumarate-treated relapsing-remitting multiple sclerosis;Response to citalopram or escitalopram and depression;Brain morphology (MOSTest);Subcortical volume (MOSTest);Brain morphology (min-P)
+ENSG00000135472	FAIM2	parathyroid_gland	98.1	0		1	BMI (adjusted for smoking behaviour);Alcohol consumption (drinks per week);Breast size
+ENSG00000109738	GLRB	parathyroid_gland	33	0		1	Triglyceride levels x loop diuretics use interaction;Cognitive decline (age-related)
+ENSG00000173890	GPR160	parathyroid_gland	216.6	0		1	Testicular germ cell tumor;Cadmium levels;Psoriasis
+ENSG00000145103	ILDR1	parathyroid_gland	15.7	0		1	Age-related hearing impairment (high frequency);Multiple sclerosis;Blood urea nitrogen levels;Epstein Barr virus nuclear antigen 1 IgG levels or multiple sclerosis
+ENSG00000144445	KANSL1L	parathyroid_gland	198.9	0		1	Neuroblastoma (pediatric)
+ENSG00000152315	KCNK13	parathyroid_gland	6	0		1	Peak insulin response (BMI and insulin secretion adjusted);Mortality in heart failure;Coronary artery calcification;Seasonality and depression
+ENSG00000133116	KL	parathyroid_gland	135.2	0		1	Chronic lymphocytic leukemia;Blood metabolite levels;Glucose homeostasis traits;Eosinophilic esophagitis
+ENSG00000165379	LRFN5	parathyroid_gland	11.1	0		1	General risk tolerance (MTAG);Adventurousness;Refractive error;Spherical equivalent or myopia (age of diagnosis);Urate levels in obese individuals
+ENSG00000081479	LRP2	parathyroid_gland	44.7	0		1	Blood pressure (smoking interaction);Venous thromboembolism;Glomerular filtration rate (creatinine);Estimated glomerular filtration rate;Serum creatinine levels
+ENSG00000213672	NCKIPSD	parathyroid_gland	121.9	0		1	Ulcerative colitis;Inflammatory bowel disease;Crohns disease;Brain morphology (MOSTest);Subcortical volume (MOSTest)
+ENSG00000188211	NCR3LG1	parathyroid_gland	7.5	0		1	Circulating leptin levels or type 2 diabetes;Body mass index;Body mass index and type 2 diabetes (pairwise);Body mass index and systole blood pressure (pairwise)
+ENSG00000124785	NRN1	parathyroid_gland	81	0		1	Schizophrenia;Night sleep phenotypes;Hippocampal volume in Alzheimers disease dementia;Metabolite levels
+ENSG00000243232	PCDHAC2	parathyroid_gland	42.9	0		1	Schizophrenia
+ENSG00000126460	PRRG2	parathyroid_gland	28.4	0		1	Schizophrenia;Hemoglobin levels;Hematocrit;Red blood cell count
+ENSG00000164620	RELL2	parathyroid_gland	16.1	0		1	Refractive error
+ENSG00000164197	RNF180	parathyroid_gland	25.3	0		1	Metabolite levels;Body mass index;Daytime nap
+ENSG00000146373	RNF217	parathyroid_gland	42.7	0		1	Thoracic aortic calcification levels;Rosacea symptom severity
+ENSG00000185483	ROR1	parathyroid_gland	26.9	0		1	Blood protein levels;Brain morphology (MOSTest);Cortical thickness (MOSTest);Subcortical volume (MOSTest);Brain morphology (min-P)
+ENSG00000198794	SCAMP5	parathyroid_gland	103.1	0		1	Diastolic blood pressure x smoking status (ever vs never) interaction (2df test);Mean corpuscular volume;Systolic blood pressure x smoking status (current vs non-current) interaction (2df test);Diastolic blood pressure x smoking status (current vs non-current) interaction (2df test)
+ENSG00000156398	SFXN2	parathyroid_gland	12.7	0		1	Schizophrenia;Waist-to-hip ratio adjusted for BMI (adjusted for smoking behaviour);White blood cell count;Waist-to-hip ratio adjusted for BMI (age >50)
+ENSG00000119899	SLC17A5	parathyroid_gland	310.5	0		1	Refractive error
+ENSG00000151229	SLC2A13	parathyroid_gland	22.6	0		1	Parkinsons disease;Disability (impaired activities of daily living);Sleep quality;Insomnia;Daytime sleep phenotypes
+ENSG00000123643	SLC36A1	parathyroid_gland	103.2	0		1	Basophil percentage of granulocytes;Basophil percentage of white cells;Basophil count
+ENSG00000003989	SLC7A2	parathyroid_gland	224.1	0		1	Plasma omega-6 polyunsaturated fatty acid levels (adrenic acid);Plasma free amino acid levels (adjusted for twenty other PFAAs);Plasma free amino acid levels (adjusted for one other PFAA)
+ENSG00000092068	SLC7A8	parathyroid_gland	331.1	0		1	Femur bone mineral density x serum urate levels interaction
+ENSG00000101638	ST8SIA5	parathyroid_gland	6.2	0		1	Fruit consumption
+ENSG00000115107	STEAP3	parathyroid_gland	78.9	0		1	Cocaine dependence;Gut microbiota (bacterial taxa, rank normal transformation method);Renal cell carcinoma x sex interaction
+ENSG00000134910	STT3A	parathyroid_gland	391.8	0		1	Schizophrenia;Heel bone mineral density;Breast cancer (survival);Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+ENSG00000159164	SV2A	parathyroid_gland	48.4	1	Synaptic vesicle glycoprotein 2A	1	Height;Lung function (FEV1);Anthropometric traits
+ENSG00000182134	TDRKH	parathyroid_gland	30.1	0		1	Asthma;Hemoglobin;Coronary artery disease
+ENSG00000149256	TENM4	parathyroid_gland	14	0		1	Lung cancer in never smokers;Bipolar I disorder;Bipolar disorder;Right lateral prefrontal cortical growth;Hair greying
+ENSG00000188869	TMC3	parathyroid_gland	83.6	0		1	Height;Spherical equivalent or myopia (age of diagnosis);Paclitaxel disposition in epithelial ovarian cancer;Parkinsons disease;Macular thickness
+ENSG00000261115	TMEM178B	parathyroid_gland	11.9	0		1	Bipolar disorder;Gut microbiota alpha diversity (Chao1 index);Femur bone mineral density x serum urate levels interaction
+ENSG00000164168	TMEM184C	parathyroid_gland	131.7	0		1	Frontotemporal dementia
+ENSG00000092439	TRPM7	parathyroid_gland	108.9	0		1	Pulse pressure;Systolic blood pressure;Chronic obstructive pulmonary disease;Household income (MTAG)

@@ -1,0 +1,163 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000085563	ABCB1	small_intestine	70.7	0		1	Systolic blood pressure in sickle cell anemia;Cholesterol, total;Glycated hemoglobin levels;Type 2 diabetes;Low density lipoprotein cholesterol levels
+ENSG00000023839	ABCC2	small_intestine	40.2	1	ATP binding cassette subfamily C member 2	1	Colorectal cancer;Carboplatin disposition in epthelial ovarian cancer;Stent thrombosis in response to clopidogrel treatment;Serum metabolite levels
+ENSG00000118777	ABCG2	small_intestine	88.3	0		1	Serum uric acid levels;Gout
+ENSG00000159640	ACE	small_intestine	265.1	1	Angiotensin I converting enzyme	1	Blood metabolite ratios;Blood metabolite levels
+ENSG00000130234	ACE2	small_intestine	242.2	0		1	Glycemic traits (pregnancy);Elevated fasting plasma glucose;Body mass index;Adult body size;Cognitive ability, years of educational attainment or schizophrenia (pleiotropy)
+ENSG00000129048	ACKR4	small_intestine	13	0		1	Brain morphology (MOSTest);Subcortical volume (MOSTest);Brain morphology (min-P);Cortical surface area (MOSTest);Neonatal cytokine/chemokine levels (fetal genetic effect)
+ENSG00000197142	ACSL5	small_intestine	418	0		1	High chromosomal aberration frequency (chromosome type) in genotoxic compound exposure;Mean platelet volume;Basophil percentage of white cells
+ENSG00000111863	ADTRP	small_intestine	98.5	0		1	Spatial processing;Apolipoprotein B levels;Refractive error;Daytime sleep phenotypes;Body mass index
+ENSG00000146205	ANO7	small_intestine	14.7	0		1	Neuroblastoma (pediatric);Prostate cancer
+ENSG00000185101	ANO9	small_intestine	30	0		1	Nevus count or cutaneous melanoma;Metastatic colorectal cancer survival in treatment with chemotherapy plus biologics
+ENSG00000143595	AQP10	small_intestine	49.7	0		1	Bipolar disorder;Mean corpuscular volume;Mean corpuscular hemoglobin;Parkinsons disease progression (motor);Serum total protein level
+ENSG00000178301	AQP11	small_intestine	25.3	0		1	Tourette syndrome;Weight loss (gastric bypass surgery)
+ENSG00000118322	ATP10B	small_intestine	21	0		1	Idiopathic downbeat nystagmus;Dermatomyositis or juvenile dermatomyositis;Asthma;Sweet taste preference
+ENSG00000064270	ATP2C2	small_intestine	20.3	1	ATPase secretory pathway Ca2+ transporting 2	1	Metabolite levels;Chronic obstructive pulmonary disease-related biomarkers;Peanut allergy (parent-of-origin effect);Cardiovascular death, myocardial infarction or stroke in response to clopidogrel treatment;Attention deficit hyperactivity disorder
+ENSG00000081923	ATP8B1	small_intestine	38.2	0		1	Hemoglobin levels;Hematocrit;Hemoglobin;Very long-chain saturated fatty acid levels (fatty acid 20:0);Manganese levels
+ENSG00000167080	B4GALNT2	small_intestine	8.4	0		1	Refractive error;Spherical equivalent or myopia (age of diagnosis);Coronary artery disease;Prostate cancer;Monocyte percentage of white cells
+ENSG00000174808	BTC	small_intestine	6.8	0		1	Electroencephalogram traits;Breast size;Chronic obstructive pulmonary disease;Diverticular disease;FEV1
+ENSG00000168903	BTNL3	small_intestine	80.7	0		1	HDL cholesterol levels;Apolipoprotein A1 levels;GIP levels in response to oral glucose tolerance test (120 minutes)
+ENSG00000113303	BTNL8	small_intestine	86.5	0		1	Blood protein levels
+ENSG00000253313	C1orf210	small_intestine	38.7	0		1	Brain morphology (MOSTest);Cortical thickness (MOSTest);Subcortical volume (MOSTest);Brain morphology (min-P);Cortical surface area (MOSTest)
+ENSG00000167434	CA4	small_intestine	11.2	1	Carbonic anhydrase 4	1	Inflammatory skin disease;Apolipoprotein B levels;Non-oily fish consumption;Oily fish consumption;Pork consumption
+ENSG00000151067	CACNA1C	small_intestine	5	1	Calcium voltage-gated channel subunit alpha1 C	1	Fractional exhaled nitric oxide (childhood);Schizophrenia;Schizophrenia or bipolar disorder
+ENSG00000196557	CACNA1H	small_intestine	22.3	1	Calcium voltage-gated channel subunit alpha1 H	1	Mastocytosis (KIT D816V positive);Leukocyte telomere length;Eosinophil counts
+ENSG00000126353	CCR7	small_intestine	21.3	0		1	Allergic disease (asthma, hay fever or eczema);Lymphocyte count;Allergic rhinitis;Eczema
+ENSG00000134256	CD101	small_intestine	6.1	0		1	Neutrophil count
+ENSG00000177675	CD163L1	small_intestine	18.5	0		1	Intracranial aneurysm;Lactate dehydrogenase levels;Blood protein levels
+ENSG00000013725	CD6	small_intestine	13.6	0		1	White coat effect (clinic diastolic blood pressure minus ambulatory diastolic blood pressure);Smoking status (ever vs never smokers);Refractive error;Chronic inflammatory diseases (ankylosing spondylitis, Crohns disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)
+ENSG00000079112	CDH17	small_intestine	270.6	0		1	Fish- and plant-related diet;Oily fish consumption;Type 2 diabetes;Pork consumption
+ENSG00000071991	CDH19	small_intestine	5.4	0		1	Blood pressure (smoking interaction);Non-response to selective serotonin reuptake inhibitors and depression;Metabolite levels;Chronotype;Depression in smokers
+ENSG00000074276	CDHR2	small_intestine	238.3	0		1	Height
+ENSG00000079385	CEACAM1	small_intestine	51	0		1	LDL cholesterol levels;Apolipoprotein B levels;Alzheimers disease or HDL levels (pleiotropy)
+ENSG00000273777	CEACAM20	small_intestine	37.7	0		1	Body mass index x age interaction;Body mass index;Body mass index (age>50);Body mass index x sex x age interaction (4df test);Alzheimers disease or family history of Alzheimers disease
+ENSG00000086548	CEACAM6	small_intestine	24.4	0		1	Serum carcinoembryonic antigen levels
+ENSG00000001626	CFTR	small_intestine	19.9	1	CF transmembrane conductance regulator	1	Response to methotrexate in juvenile idiopathic arthritis;Waist-to-hip ratio adjusted for BMI;Waist-to-hip ratio adjusted for BMI x sex x age interaction (4df test);Barretts esophagus  or Esophageal adenocarcinoma
+ENSG00000175344	CHRNA7	small_intestine	9.7	1	Cholinergic receptor nicotinic alpha 7 subunit	1	Hepatocyte growth factor levels
+ENSG00000135702	CHST5	small_intestine	75.6	0		1	Pancreatic cancer
+ENSG00000016602	CLCA4	small_intestine	29.1	0		1	Fasting glucose
+ENSG00000114859	CLCN2	small_intestine	8.4	1	Chloride voltage-gated channel 2	1	General cognitive ability
+ENSG00000253958	CLDN23	small_intestine	10.1	0		1	Fish- and plant-related diet;General risk tolerance (MTAG)
+ENSG00000165215	CLDN3	small_intestine	169.5	0		1	Platelet distribution width;Mean platelet volume
+ENSG00000181885	CLDN7	small_intestine	248.9	0		1	Birth weight;Multiple sclerosis;Offspring birth weight;Lung function (FVC)
+ENSG00000173546	CSPG4	small_intestine	15.3	0		1	Simvastatin-induced myopathy;Schizophrenia;Intraocular pressure;Estimated glomerular filtration rate;Hip index
+ENSG00000186810	CXCR3	small_intestine	6.4	0		1	Tuberculosis (SNP x SNP interaction)
+ENSG00000106258	CYP3A5	small_intestine	177.7	0		1	Blood metabolite ratios;Blood metabolite levels
+ENSG00000186204	CYP4F12	small_intestine	41.5	0		1	LDL cholesterol levels;Glioma
+ENSG00000186115	CYP4F2	small_intestine	80.2	0		1	Urinary metabolite modules (eigenmetabolites) in chronic kidney disease;Urinary metabolite levels in chronic kidney disease
+ENSG00000168350	DEGS2	small_intestine	34.8	0		1	White matter hyperintensities;White matter hyperintensity volume (adjusted for hypertension);White matter hyperintensity volume;Periventricular white matter hyperintensities
+ENSG00000185000	DGAT1	small_intestine	40.6	0		1	Dupuytrens disease;Fasting glucose
+ENSG00000073737	DHRS9	small_intestine	5.7	0		1	Apolipoprotein A1 levels;Serum alkaline phosphatase levels;Gut microbiota (bacterial taxa, hurdle binary method);Hippocampal volume in Alzheimers disease dementia
+ENSG00000046604	DSG2	small_intestine	84.6	0		1	Blood protein levels
+ENSG00000170571	EMB	small_intestine	68.3	0		1	Metabolite levels;Refractive error;Breast cancer;Electrocardiographic traits (multivariate)
+ENSG00000138792	ENPEP	small_intestine	163.6	0		1	Systolic blood pressure;Pursuit maintenance gain;Lung cancer;Serum metabolite levels
+ENSG00000198018	ENTPD7	small_intestine	14.6	0		1	Colorectal cancer;Crohns disease;Liver enzyme levels (alanine transaminase)
+ENSG00000119888	EPCAM	small_intestine	769.6	1	Epithelial cell adhesion molecule	1	epithelial cell adhesion molecule levels;Severe insulin-deficient type 2 diabetes
+ENSG00000183317	EPHA10	small_intestine	6.7	0		1	Eyebrow thickness;Axial length;Prostate cancer (SNP x SNP interaction)
+ENSG00000133216	EPHB2	small_intestine	21.8	0		1	Refractive error;Blood protein levels
+ENSG00000164251	F2RL1	small_intestine	41	0		1	Serum bilirubin levels x sex interaction in metabolic syndrome
+ENSG00000183844	FAM3B	small_intestine	135	0		1	Glycemic traits (pregnancy);Elevated serum carcinoembryonic antigen levels;Blood protein levels;Tumor biomarkers
+ENSG00000064763	FAR2	small_intestine	19.2	0		1	Triglyceride levels;Refractive error;Heel bone mineral density;Breast cancer;Platelet distribution width
+ENSG00000162769	FLVCR1	small_intestine	19.4	0		1	Hemoglobin levels;Hematocrit;Hemoglobin;High light scatter reticulocyte count;High light scatter reticulocyte percentage of red cells
+ENSG00000086205	FOLH1	small_intestine	82.9	1	Folate hydrolase 1	1	Urinary metabolite levels in chronic kidney disease;Systolic blood pressure x dichotomous lifestyle risk score interaction (2df test);Systolic blood pressure;HDL cholesterol levels;Apolipoprotein A1 levels
+ENSG00000176920	FUT2	small_intestine	21.9	0		1	Vitamin B levels in ischemic stroke;Blood metabolite ratios;Blood metabolite levels;Psoriasis
+ENSG00000171124	FUT3	small_intestine	56.3	0		1	Blood protein levels;Elevated serum carcinoembryonic antigen levels;Vitamin B12 levels
+ENSG00000140297	GCNT3	small_intestine	123.3	0		1	Macular thickness
+ENSG00000167741	GGT6	small_intestine	38.4	0		1	Rheumatoid arthritis;Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)
+ENSG00000198814	GK	small_intestine	90.7	0		1	Hypospadias;Cognitive decline (age-related);Metabolite levels;Post-traumatic stress disorder
+ENSG00000065325	GLP2R	small_intestine	8.2	1	Glucagon like peptide 2 receptor	1	Type 2 diabetes;GIP levels in response to oral glucose tolerance test (fasting);Iron status biomarkers (ferritin levels);Femur bone mineral density x serum urate levels interaction
+ENSG00000143167	GPA33	small_intestine	136.9	0		1	Eosinophilic granulomatosis with polyangiitis (ANCA negative)
+ENSG00000154165	GPR15	small_intestine	10.2	0		1	Energy expenditure (24h);Hepatitis C (spontaneous viral clearance);Circulating leptin levels in high cardiovascular risk;Refractive error
+ENSG00000144230	GPR17	small_intestine	6	0		1	Bone mineral density;Proportion of activated microglia (inferior temporal cortex);Logical memory (immediate recall) in normal cognition;Ovarian cancer;Metabolite levels
+ENSG00000178623	GPR35	small_intestine	38.2	0		1	Granulocyte percentage of myeloid white cells;Monocyte percentage of white cells;Monocyte count;Chronic inflammatory diseases (ankylosing spondylitis, Crohns disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)
+ENSG00000070019	GUCY2C	small_intestine	66.5	1	Guanylate cyclase 2C	0	
+ENSG00000089472	HEPH	small_intestine	81.6	0		1	Erectile dysfunction and prostate cancer treatment;Obesity-related traits;Male-pattern baldness
+ENSG00000114455	HHLA2	small_intestine	129.9	0		1	Regular attendance at a religious group
+ENSG00000242574	HLA-DMB	small_intestine	78.8	0		1	Squamous cell lung carcinoma;Asthma;Autism spectrum disorder or schizophrenia;Lung cancer
+ENSG00000163701	IL17RE	small_intestine	20.4	0		1	Acne (severe);Ulcerative colitis;Heel bone mineral density x serum urate levels interaction
+ENSG00000147168	IL2RG	small_intestine	82.8	1	Interleukin 2 receptor subunit gamma	0	
+ENSG00000213949	ITGA1	small_intestine	12.5	0		1	Response to platinum-based agents;Alzheimers disease biomarkers;Serum thyroid-stimulating hormone levels;Acne (severe);Metabolite levels
+ENSG00000161638	ITGA5	small_intestine	87.6	0		1	Waist-to-hip ratio adjusted for BMI x sex x age interaction (4df test)
+ENSG00000083457	ITGAE	small_intestine	5.9	0		1	Attention deficit hyperactivity disorder
+ENSG00000135916	ITM2C	small_intestine	329.3	0		1	Mean corpuscular hemoglobin;Mean corpuscular volume;Mean spheric corpuscular volume;Mean reticulocyte volume
+ENSG00000175538	KCNE3	small_intestine	40	0		1	Neuritic plaque;Corneal astigmatism
+ENSG00000164626	KCNK5	small_intestine	35.4	0		1	Social communication problems;Urinary albumin-to-creatinine ratio;HDL cholesterol levels;Apolipoprotein A1 levels
+ENSG00000145936	KCNMB1	small_intestine	14.3	1	Potassium calcium-activated channel subfamily M regulatory beta subunit 1	1	Acne (severe);Liver transplant-free survival in primary sclerosing cholangitis (time to event)
+ENSG00000115850	LCT	small_intestine	136.3	0		1	Metabolite levels;Urinary metabolite levels in chronic kidney disease;Blood protein levels;Refractive error;Body mass index
+ENSG00000062524	LTK	small_intestine	13.2	0		1	Type 2 diabetes;Apolipoprotein A1 levels;High density lipoprotein cholesterol levels;Household income (MTAG)
+ENSG00000122224	LY9	small_intestine	12	0		1	Lymphocyte percentage of white cells;Lymphocyte count;Blood protein levels;Postoperative atrial fibrillation in coronary artery bypass grafting surgery
+ENSG00000204740	MALRD1	small_intestine	31.1	0		1	Gut microbiota (bacterial taxa, hurdle binary method);Gut microbiota relative abundance (unclassified genus belonging to family Clostridiaceae);Pulse pressure
+ENSG00000189221	MAOA	small_intestine	230.3	1	Monoamine oxidase A	1	Smoking behavior;Tuberculosis (SNP x SNP interaction)
+ENSG00000140832	MARVELD3	small_intestine	33.1	0		1	LDL cholesterol levels;Pulse pressure;Refractive error;Post bronchodilator FEV1;Estimated glomerular filtration rate
+ENSG00000153898	MCOLN2	small_intestine	5.5	0		1	Serum sulfate level
+ENSG00000141434	MEP1B	small_intestine	363.9	0		1	Metabolite levels;TRAIL levels
+ENSG00000257335	MGAM	small_intestine	87.6	1	Maltase-glucoamylase	1	Blood metabolite levels;Idiopathic dilated cardiomyopathy;Anorexia nervosa;1,5-anhydroglucitol levels
+ENSG00000196549	MME	small_intestine	289.7	1	Membrane metalloendopeptidase	1	Rheumatoid arthritis;Diastolic blood pressure
+ENSG00000169876	MUC17	small_intestine	42.7	0		1	Apolipoprotein A1 levels;Nonunion in individuals with fractures;Chronic kidney disease
+ENSG00000169894	MUC3A	small_intestine	33.5	0		1	LDL cholesterol levels;Nonunion in individuals with fractures
+ENSG00000118257	NRP2	small_intestine	14.9	0		1	Blood protein levels;Craniofacial microsomia;Diisocyanate-induced asthma;Neuropathy x type 2 diabetes interaction;Daytime nap
+ENSG00000162896	PIGR	small_intestine	809.8	0		1	Blood protein levels;Coronary atherosclerosis (increased number of diseased vessels) (traffic exposure interaction);Precuneus cortex volume;Inflammatory bowel disease
+ENSG00000163803	PLB1	small_intestine	39	0		1	Heel bone mineral density;Proportion of activated microglia (inferior temporal cortex);Eosinophil percentage of granulocytes;Neutrophil percentage of granulocytes;Eosinophil percentage of white cells
+ENSG00000175785	PRIMA1	small_intestine	21.6	0		1	Body mass index;Sleep duration;Self-reported risk-taking behaviour
+ENSG00000106772	PRUNE2	small_intestine	27.7	0		1	Number of decayed, missing and filled tooth surfaces or use of dentures;Dentures;Antisaccade task score;Trunk fat mass;Waist-hip ratio
+ENSG00000183134	PTGDR2	small_intestine	6.9	0		1	Inflammatory bowel disease
+ENSG00000080031	PTPRH	small_intestine	68.6	0		1	Plateletcrit;Serum metabolite levels;Mean spheric corpuscular volume
+ENSG00000153233	PTPRR	small_intestine	7.6	0		1	Uterine fibroids;Refractive error;HDL cholesterol levels;Apolipoprotein A1 levels
+ENSG00000213413	PVRIG	small_intestine	10.7	0		1	Refractive error;Ticagrelor levels in individuals with acute coronary syndromes treated with ticagrelor;Brain morphology (MOSTest);Subcortical volume (MOSTest);Monocyte count
+ENSG00000133135	RNF128	small_intestine	60.8	0		1	Alcoholic chronic pancreatitis;Creatinine levels
+ENSG00000178828	RNF186	small_intestine	44.8	0		1	Ulcerative colitis;Inflammatory bowel disease;Chronic inflammatory diseases (ankylosing spondylitis, Crohns disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)
+ENSG00000108375	RNF43	small_intestine	16.9	0		1	Vitamin D levels;Refractive error;Prostate cancer;Hemoglobin levels;Mean corpuscular volume
+ENSG00000141574	SECTM1	small_intestine	90.4	0		1	Blood protein levels;Monocyte percentage of white cells
+ENSG00000095539	SEMA4G	small_intestine	41.2	0		1	Regular attendance at a pub or social club
+ENSG00000137872	SEMA6D	small_intestine	38.5	0		1	Response to radiotherapy in cancer (late toxicity);Lung cancer;Fish- and plant-related diet;Oily fish consumption
+ENSG00000090402	SI	small_intestine	448.2	1	Sucrase-isomaltase	1	Vitamin B levels in ischemic stroke;Height;Inflammatory skin disease;Metabolite levels
+ENSG00000026751	SLAMF7	small_intestine	25.5	1	SLAM family member 7	1	Blood protein levels;Microalbuminuria;Inflammatory bowel disease;Multiple sclerosis
+ENSG00000125255	SLC10A2	small_intestine	80.8	0		1	Amyotrophic lateral sclerosis (sporadic);Metabolite levels;epithelial cell adhesion molecule levels;Venous thromboembolism adjusted for sickle cell variant rs77121243-T;Serum metabolite levels
+ENSG00000088386	SLC15A1	small_intestine	203	0		1	Educational attainment;Refractive error;QRS interval (sulfonylurea treatment interaction);Blood urea nitrogen levels;Immune reponse to smallpox (secreted IL-1beta)
+ENSG00000106688	SLC1A1	small_intestine	64.7	0		1	Metabolite levels;Squamous cell lung carcinoma;Response to antipsychotic treatment in schizophrenia;Response to risperidone in schizophrenia;Pancreatic cancer
+ENSG00000110628	SLC22A18	small_intestine	28	0		1	High density lipoprotein cholesterol levels;HDL cholesterol levels;Apolipoprotein A1 levels;Autism spectrum disorders (repetitive sensory-motor behaviour);Total bilirubin levels
+ENSG00000102743	SLC25A15	small_intestine	26.7	0		1	Crohns disease;Keratoconus
+ENSG00000155850	SLC26A2	small_intestine	16.1	0		1	Triglyceride levels;Feeling hurt
+ENSG00000091138	SLC26A3	small_intestine	118.5	0		1	Waist-to-hip ratio adjusted for BMI;Waist-to-hip ratio adjusted for BMI x sex x age interaction (4df test);Chronic inflammatory diseases (ankylosing spondylitis, Crohns disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy);Ulcerative colitis;Inflammatory bowel disease
+ENSG00000137860	SLC28A2	small_intestine	92.3	0		1	Urinary metabolite levels in chronic kidney disease;Uric acid levels;Estimated glomerular filtration rate
+ENSG00000196660	SLC30A10	small_intestine	8.9	0		1	Triglyceride levels;Refractive error;HDL cholesterol levels;Apolipoprotein A1 levels
+ENSG00000176273	SLC35G1	small_intestine	33.4	0		1	Response to (pegylated) interferon in chronic hepatitis B;Cannabis dependence symptom count
+ENSG00000147804	SLC39A4	small_intestine	74.9	0		1	Height;Liver enzyme levels (alkaline phosphatase)
+ENSG00000138079	SLC3A1	small_intestine	136.2	0		1	Refractive error;antipsychotic drug dosage in schizophrenia or schizoaffective disorder
+ENSG00000204385	SLC44A4	small_intestine	86.8	0		1	Metabolite levels;Telomere length;Lung cancer in ever smokers;Asthma;Asthma (childhood onset)
+ENSG00000076351	SLC46A1	small_intestine	40.5	0		1	Osteoprotegerin levels;HDL cholesterol
+ENSG00000139508	SLC46A3	small_intestine	76	0		1	Non-alcoholic fatty liver disease histology (other);Obesity-related traits
+ENSG00000033867	SLC4A7	small_intestine	17.4	0		1	Breast cancer (early onset);Hypertension;Systolic blood pressure;Diastolic blood pressure;Systolic blood pressure (cigarette smoking interaction)
+ENSG00000186198	SLC51B	small_intestine	107.1	0		1	White matter hyperintensities
+ENSG00000101276	SLC52A3	small_intestine	19.2	0		1	Prostate cancer;Helping behaviour (self reported)
+ENSG00000100170	SLC5A1	small_intestine	302.4	0		1	Blood metabolite levels;Lupus nephritis in systemic lupus erythematosus;Urinary metabolite levels in chronic kidney disease;Erectile dysfunction
+ENSG00000148942	SLC5A12	small_intestine	30.1	0		1	Erectile dysfunction;Exhaled nitric oxide output;Exhaled nitric oxide levels;Lean body mass;Dental caries (decayed, missing and filled teeth)
+ENSG00000100191	SLC5A4	small_intestine	19.8	0		1	Loneliness (multivariate analysis);Intracranial aneurysm
+ENSG00000117834	SLC5A9	small_intestine	42	0		1	Metabolite levels;Urinary metabolite levels in chronic kidney disease;Attention deficit hyperactivity disorder (inattention symptoms)
+ENSG00000155465	SLC7A7	small_intestine	131.6	1	Solute carrier family 7 member 7	1	Intraocular pressure;Type 2 diabetes;Cardiovascular death, myocardial infarction or stroke in response to clopidogrel treatment;Psychological resilience (outcome-based) in high deployment stress exposure;Resting-state electroencephalogram vigilance
+ENSG00000066230	SLC9A3	small_intestine	68.1	1	Solute carrier family 9 member A3	1	Pulse pressure;Systolic blood pressure;Diastolic blood pressure;Hemoglobin levels;Monocyte percentage of white cells
+ENSG00000103056	SMPD3	small_intestine	57.7	0		1	Height;Refractive error;Hemoglobin levels;Offspring birth weight;Birth weight
+ENSG00000167780	SOAT2	small_intestine	19.5	0		1	Disease progression in age-related macular degeneration (adjusted for baseline);Appendicular lean mass
+ENSG00000139874	SSTR1	small_intestine	8.2	1	Somatostatin receptor 1	1	Chromium levels;Coronary artery aneurysm in Kawasaki disease;Metabolite levels (5-HIAA/ MHPG Ratio)
+ENSG00000149418	ST14	small_intestine	144.8	0		1	Refractive error;Adverse response to drug;Malaria
+ENSG00000168955	TM4SF20	small_intestine	144.5	0		1	Triglyceride levels in HIV infection;Phoneme awareness
+ENSG00000103534	TMC5	small_intestine	53.4	0		1	Sleep duration;Nicotine dependence symptom count;Gut microbiota (bacterial taxa, rank normal transformation method);HDL cholesterol;Parkinsons disease motor subtype (tremor dominant vs postural instability/gait difficulty)
+ENSG00000148483	TMEM236	small_intestine	33.5	0		1	Allergic disease (asthma, hay fever or eczema)
+ENSG00000151715	TMEM45B	small_intestine	127.4	0		1	Night sleep phenotypes;Serum metabolite levels;Spontaneous preterm birth with premature rupture of membranes;Obesity-related traits;Type 2 diabetes
+ENSG00000121900	TMEM54	small_intestine	123.1	0		1	Mosaic loss of chromosome Y (Y chromosome dosage)
+ENSG00000162460	TMEM82	small_intestine	18.9	0		1	Alcoholic chronic pancreatitis;Alcohol consumption (heavy vs. light/non-drinkers)
+ENSG00000167105	TMEM92	small_intestine	19	0		1	Heel bone mineral density
+ENSG00000182271	TMIGD1	small_intestine	140.5	0		1	Apolipoprotein A1 levels;Appendicular lean mass
+ENSG00000137648	TMPRSS4	small_intestine	22.4	0		1	Lean body mass
+ENSG00000141655	TNFRSF11A	small_intestine	18.6	0		1	Pagets disease;Bone mineral density (paediatric, skull);Heel bone mineral density
+ENSG00000048462	TNFRSF17	small_intestine	15.2	0		1	Phenylephrine infusion rate during anesthesia;Testicular germ cell tumor;QT interval;Blood protein levels
+ENSG00000104321	TRPA1	small_intestine	7.4	1	Transient receptor potential cation channel subfamily A member 1	1	Metabolite levels;Lung cancer in ever smokers;Waist-to-hip ratio adjusted for BMI;Waist-to-hip ratio adjusted for BMI x sex x age interaction (4df test);Coronary artery disease
+ENSG00000167723	TRPV3	small_intestine	5.2	1	Transient receptor potential cation channel subfamily V member 3	0	
+ENSG00000117472	TSPAN1	small_intestine	96.7	0		1	Metabolite levels;Response to taxane treatment (placlitaxel);Venous thromboembolism;Height;Red vs. brown/black hair color
+ENSG00000110900	TSPAN11	small_intestine	9.6	0		1	Carotid plaque burden;Optic disc size;Triglyceride levels in HIV infection;Post bronchodilator FEV1 in COPD;Disease progression in age-related macular degeneration
+ENSG00000134198	TSPAN2	small_intestine	11	0		1	Large artery stroke (CCSp classification)j;Large artery stroke (CCS and TOAST classification);Large artery stroke (CCS or TOAST classification);Migraine;Ischemic stroke (large artery atherosclerosis)
+ENSG00000127324	TSPAN8	small_intestine	848.3	0		1	Type 2 diabetes;Refractive error;Monobrow
+ENSG00000242515	UGT1A10	small_intestine	53.1	0		1	Serum metabolite levels
+ENSG00000240224	UGT1A5	small_intestine	6.1	0		1	Serum metabolite levels
+ENSG00000047597	XK	small_intestine	10.6	0		1	Eosinophilic esophagitis;Serum thyroid-stimulating hormone levels;Cholesterol, total;Rheumatoid arthritis;Lung cancer in ever smokers
+ENSG00000221947	XKR9	small_intestine	5.3	0		1	Chin dimples;Erythrocyte cadmium concentration in never smokers;Heel bone mineral density

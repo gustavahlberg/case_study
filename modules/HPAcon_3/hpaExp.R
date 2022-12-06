@@ -74,6 +74,32 @@ rownames(hpaToiSecSpec) <- NULL
 #
 
 
+sum(unique(hpaTOI[hpaTOI$Gene.name %in% memProTisSpec$Gene,]$Gene.name) %in% bpoi)
+hpaToimem <- hpaTOI[hpaTOI$Gene.name %in% memProTisSpec$Gene,]
+
+all(hpaToimem$Gene.name %in% names(memTissues) )
+
+memGenes <- unique(hpaToimem$Gene.name)
+
+hpaToimemL <- split(hpaToimem, f = hpaToimem$Gene.name)
+
+
+for(memGene in memGenes) {
+  tis54 <- unlist(tissueKey[memTissues[[memGene]]])
+  hpaToimemL[[memGene]] <-  hpaToimemL[[memGene]][hpaToimemL[[memGene]]$Tissue 
+                                                  %in% tis54,]
+}
+
+idxRm <- which(do.call(rbind,lapply(hpaToimemL, dim))[,1] == 0)
+hpaToimemSpecL <- hpaToimemL[-idxRm]
+
+
+# membrane proteins with tissue specificity and in IGF2R
+# interesting tissues
+hpaToimemSpec <- do.call(rbind,hpaToimemSpecL)
+rownames(hpaToimemSpec) <- NULL
+
+
 
 
 

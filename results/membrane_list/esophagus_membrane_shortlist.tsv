@@ -1,0 +1,9 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000142627	EPHA2	esophagus	147.9	1	EPH receptor A2	1	Blood protein levels;Gamma glutamyl transferase levels;Liver enzyme levels (gamma-glutamyl transferase);Alanine aminotransferase levels;Aspartate aminotransferase levels
+ENSG00000068078	FGFR3	esophagus	139.7	1	Fibroblast growth factor receptor 3	1	Bladder cancer;Chronic obstructive pulmonary disease-related biomarkers;Plateletcrit;Neutrophil percentage of white cells
+ENSG00000094755	GABRP	esophagus	171.5	1	Gamma-aminobutyric acid type A receptor subunit pi	1	Response to immune checkpoint inhibitors in melanoma (immune-related adverse events);Femur bone mineral density x serum urate levels interaction
+ENSG00000182782	HCAR2	esophagus	40.8	1	Hydroxycarboxylic acid receptor 2	1	Metabolic syndrome;Lead levels;High altitude adaptation;Reticulocyte count
+ENSG00000255398	HCAR3	esophagus	16.8	1	Hydroxycarboxylic acid receptor 3	1	Thrombin-activatable fibrinolysis inhibitor levels;Waist-to-hip ratio adjusted for BMI (recessive genetic model);Waist-to-hip ratio adjusted for BMI
+ENSG00000168447	SCNN1B	esophagus	82.8	1	Sodium channel epithelial 1 subunit beta	1	Kidney stones
+ENSG00000184292	TACSTD2	esophagus	989.6	1	Tumor associated calcium signal transducer 2	1	Calcific aortic valve stenosis;Nickel levels
+ENSG00000100300	TSPO	esophagus	690.1	1	Translocator protein	1	Metabolite levels;Monocyte percentage of white cells;Monocyte count;Alzheimers disease (late onset);Gastric cancer

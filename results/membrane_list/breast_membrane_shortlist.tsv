@@ -1,0 +1,3 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000094755	GABRP	breast	152.3	1	Gamma-aminobutyric acid type A receptor subunit pi	1	Response to immune checkpoint inhibitors in melanoma (immune-related adverse events);Femur bone mineral density x serum urate levels interaction
+ENSG00000157404	KIT	breast	114.9	1	KIT proto-oncogene, receptor tyrosine kinase	1	Breastfeeding duration;Mean corpuscular volume;Mean corpuscular hemoglobin;Red blood cell count;Triglyceride levels

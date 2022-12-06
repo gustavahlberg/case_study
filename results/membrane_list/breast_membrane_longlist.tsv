@@ -1,0 +1,24 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000121270	ABCC11	breast	46.4	0		1	Fasting plasma glucose;Excessive sweating
+ENSG00000213088	ACKR1	breast	278.2	0		1	Midgestational total 25-hydroxyvitamin D levels (fetal genetic effect);Monocyte chemoattractant protein-1 levels;Growth-regulated protein alpha levels;Eotaxin levels
+ENSG00000166743	ACSM1	breast	225.3	0		1	Schizophrenia;Prudent dietary pattern
+ENSG00000165269	AQP7	breast	104.9	0		1	Lung adenocarcinoma;Urinary albumin excretion
+ENSG00000124557	BTN1A1	breast	32.5	0		1	Fish- and plant-related diet
+ENSG00000165810	BTNL9	breast	200	0		1	Metabolite levels
+ENSG00000184601	C14orf180	breast	26.7	0		1	Bipolar I disorder;Bipolar disorder;Rheumatoid arthritis
+ENSG00000174807	CD248	breast	155.5	0		1	Triglyceride levels;Bipolar disorder
+ENSG00000161649	CD300LG	breast	111.8	0		1	Triglyceride levels;HDL cholesterol levels;Apolipoprotein A1 levels;HDL cholesterol
+ENSG00000156284	CLDN8	breast	68.9	0		1	Response to statin therapy
+ENSG00000006210	CX3CL1	breast	104.8	0		1	Blood protein levels in cardiovascular risk;Blood protein levels;Eosinophil counts;Eosinophil percentage of white cells;Sensory peripheral neuropathy in microtubule targeting agent-treated breast cancer
+ENSG00000186160	CYP4Z1	breast	6.3	0		1	Parkinsons disease motor subtype (tremor dominant vs postural instability/gait difficulty)
+ENSG00000094755	GABRP	breast	152.3	1	Gamma-aminobutyric acid type A receptor subunit pi	1	Response to immune checkpoint inhibitors in melanoma (immune-related adverse events);Femur bone mineral density x serum urate levels interaction
+ENSG00000176402	GJC3	breast	8.7	0		1	Refractive error
+ENSG00000179921	GPBAR1	breast	17.8	0		1	Heel bone mineral density;Inflammatory bowel disease;High light scatter reticulocyte count;Pyoderma gangrenosum in inflammatory bowel disease;Monocyte count
+ENSG00000016402	IL20RA	breast	26.4	0		1	Type 2 diabetes;Multiple sclerosis
+ENSG00000157404	KIT	breast	114.9	1	KIT proto-oncogene, receptor tyrosine kinase	1	Breastfeeding duration;Mean corpuscular volume;Mean corpuscular hemoglobin;Red blood cell count;Triglyceride levels
+ENSG00000172927	MYEOV	breast	5.3	0		1	Height;Pulse pressure;Diastolic blood pressure
+ENSG00000204301	NOTCH4	breast	19.8	0		1	Squamous cell lung carcinoma;Lung cancer in ever smokers;Bipolar disorder;Asthma
+ENSG00000135917	SLC19A3	breast	28.4	0		1	Allergic disease (asthma, hay fever and/or eczema) (multivariate analysis);Allergic disease (asthma, hay fever and/or eczema) (age of onset);Obesity-related traits;Type 2 diabetes (SNP x SNP interaction, 2df);Asthma onset (childhood vs adult)
+ENSG00000213759	UGT2B11	breast	239.4	0		1	Metabolite levels;Disease progression in age-related macular degeneration (adjusted for baseline);Plasma clozapine-norclozapine ratio in treatment-resistant schizophrenia
+ENSG00000135226	UGT2B28	breast	198.5	0		1	Metabolite levels;Lean body mass;Plasma clozapine-norclozapine ratio in treatment-resistant schizophrenia
+ENSG00000134258	VTCN1	breast	100.9	0		1	Arthritis (juvenile idiopathic);Triglyceride levels x SSRI levels (escitalopram or citalopram) interaction in schizophrenia or bipolar disorder

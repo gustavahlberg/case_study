@@ -1,0 +1,26 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000023839	ABCC2	small_intestine	40.2	1	ATP binding cassette subfamily C member 2	1	Colorectal cancer;Carboplatin disposition in epthelial ovarian cancer;Stent thrombosis in response to clopidogrel treatment;Serum metabolite levels
+ENSG00000159640	ACE	small_intestine	265.1	1	Angiotensin I converting enzyme	1	Blood metabolite ratios;Blood metabolite levels
+ENSG00000064270	ATP2C2	small_intestine	20.3	1	ATPase secretory pathway Ca2+ transporting 2	1	Metabolite levels;Chronic obstructive pulmonary disease-related biomarkers;Peanut allergy (parent-of-origin effect);Cardiovascular death, myocardial infarction or stroke in response to clopidogrel treatment;Attention deficit hyperactivity disorder
+ENSG00000167434	CA4	small_intestine	11.2	1	Carbonic anhydrase 4	1	Inflammatory skin disease;Apolipoprotein B levels;Non-oily fish consumption;Oily fish consumption;Pork consumption
+ENSG00000151067	CACNA1C	small_intestine	5	1	Calcium voltage-gated channel subunit alpha1 C	1	Fractional exhaled nitric oxide (childhood);Schizophrenia;Schizophrenia or bipolar disorder
+ENSG00000196557	CACNA1H	small_intestine	22.3	1	Calcium voltage-gated channel subunit alpha1 H	1	Mastocytosis (KIT D816V positive);Leukocyte telomere length;Eosinophil counts
+ENSG00000001626	CFTR	small_intestine	19.9	1	CF transmembrane conductance regulator	1	Response to methotrexate in juvenile idiopathic arthritis;Waist-to-hip ratio adjusted for BMI;Waist-to-hip ratio adjusted for BMI x sex x age interaction (4df test);Barretts esophagus  or Esophageal adenocarcinoma
+ENSG00000175344	CHRNA7	small_intestine	9.7	1	Cholinergic receptor nicotinic alpha 7 subunit	1	Hepatocyte growth factor levels
+ENSG00000114859	CLCN2	small_intestine	8.4	1	Chloride voltage-gated channel 2	1	General cognitive ability
+ENSG00000119888	EPCAM	small_intestine	769.6	1	Epithelial cell adhesion molecule	1	epithelial cell adhesion molecule levels;Severe insulin-deficient type 2 diabetes
+ENSG00000086205	FOLH1	small_intestine	82.9	1	Folate hydrolase 1	1	Urinary metabolite levels in chronic kidney disease;Systolic blood pressure x dichotomous lifestyle risk score interaction (2df test);Systolic blood pressure;HDL cholesterol levels;Apolipoprotein A1 levels
+ENSG00000065325	GLP2R	small_intestine	8.2	1	Glucagon like peptide 2 receptor	1	Type 2 diabetes;GIP levels in response to oral glucose tolerance test (fasting);Iron status biomarkers (ferritin levels);Femur bone mineral density x serum urate levels interaction
+ENSG00000070019	GUCY2C	small_intestine	66.5	1	Guanylate cyclase 2C	0	
+ENSG00000147168	IL2RG	small_intestine	82.8	1	Interleukin 2 receptor subunit gamma	0	
+ENSG00000145936	KCNMB1	small_intestine	14.3	1	Potassium calcium-activated channel subfamily M regulatory beta subunit 1	1	Acne (severe);Liver transplant-free survival in primary sclerosing cholangitis (time to event)
+ENSG00000189221	MAOA	small_intestine	230.3	1	Monoamine oxidase A	1	Smoking behavior;Tuberculosis (SNP x SNP interaction)
+ENSG00000257335	MGAM	small_intestine	87.6	1	Maltase-glucoamylase	1	Blood metabolite levels;Idiopathic dilated cardiomyopathy;Anorexia nervosa;1,5-anhydroglucitol levels
+ENSG00000196549	MME	small_intestine	289.7	1	Membrane metalloendopeptidase	1	Rheumatoid arthritis;Diastolic blood pressure
+ENSG00000090402	SI	small_intestine	448.2	1	Sucrase-isomaltase	1	Vitamin B levels in ischemic stroke;Height;Inflammatory skin disease;Metabolite levels
+ENSG00000026751	SLAMF7	small_intestine	25.5	1	SLAM family member 7	1	Blood protein levels;Microalbuminuria;Inflammatory bowel disease;Multiple sclerosis
+ENSG00000155465	SLC7A7	small_intestine	131.6	1	Solute carrier family 7 member 7	1	Intraocular pressure;Type 2 diabetes;Cardiovascular death, myocardial infarction or stroke in response to clopidogrel treatment;Psychological resilience (outcome-based) in high deployment stress exposure;Resting-state electroencephalogram vigilance
+ENSG00000066230	SLC9A3	small_intestine	68.1	1	Solute carrier family 9 member A3	1	Pulse pressure;Systolic blood pressure;Diastolic blood pressure;Hemoglobin levels;Monocyte percentage of white cells
+ENSG00000139874	SSTR1	small_intestine	8.2	1	Somatostatin receptor 1	1	Chromium levels;Coronary artery aneurysm in Kawasaki disease;Metabolite levels (5-HIAA/ MHPG Ratio)
+ENSG00000104321	TRPA1	small_intestine	7.4	1	Transient receptor potential cation channel subfamily A member 1	1	Metabolite levels;Lung cancer in ever smokers;Waist-to-hip ratio adjusted for BMI;Waist-to-hip ratio adjusted for BMI x sex x age interaction (4df test);Coronary artery disease
+ENSG00000167723	TRPV3	small_intestine	5.2	1	Transient receptor potential cation channel subfamily V member 3	0	

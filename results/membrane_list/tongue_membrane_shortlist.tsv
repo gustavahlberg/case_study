@@ -1,0 +1,10 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000118298	CA14	tongue	47.4	1	Carbonic anhydrase 14	1	Schizophrenia;Bipolar disorder;Refractive error;Brain morphology (MOSTest);Cortical thickness (MOSTest)
+ENSG00000153956	CACNA2D1	tongue	98.5	1	Calcium voltage-gated channel auxiliary subunit alpha2delta 1	1	Response to taxane treatment (docetaxel);Energy expenditure (24h);Spontaneous preterm birth (maternal effect);Gestational age at birth (maternal effect);Glaucoma (primary open-angle)
+ENSG00000157445	CACNA2D3	tongue	10.7	1	Calcium voltage-gated channel auxiliary subunit alpha2delta 3	1	Endometrial cancer;Lung cancer in ever smokers;Type 2 diabetes;Obsessive compulsive disorder severity;Nose size
+ENSG00000171503	ETFDH	tongue	186.9	1	Electron transfer flavoprotein dehydrogenase	1	Blood metabolite ratios;Blood metabolite levels;Serum metabolite levels
+ENSG00000112992	NNT	tongue	384	1	Nicotinamide nucleotide transhydrogenase	1	Diastolic blood pressure (cigarette smoking interaction);Systolic blood pressure (cigarette smoking interaction);Height;Apolipoprotein A1 levels;Cardiac Troponin-T levels
+ENSG00000162409	PRKAA2	tongue	36.4	1	Protein kinase AMP-activated catalytic subunit alpha 2	1	Lymphocyte count
+ENSG00000122420	PTGFR	tongue	20.1	1	Prostaglandin F receptor	1	Systolic blood pressure (alcohol consumption interaction);Lung cancer in ever smokers;Type 2 diabetes;Lung function in never smokers (high FEV1 vs average FEV1);Gout (normal type)
+ENSG00000105711	SCN1B	tongue	227.8	1	Sodium voltage-gated channel beta subunit 1	1	Metabolite levels;Serum albumin levels
+ENSG00000177098	SCN4B	tongue	56.8	1	Sodium voltage-gated channel beta subunit 4	0	

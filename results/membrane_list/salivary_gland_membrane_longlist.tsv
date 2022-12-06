@@ -1,0 +1,56 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000131620	ANO1	salivary_gland	180.5	1	Anoctamin 1	1	Systolic blood pressure;Childhood ear infection;Monobrow;Eosinophil counts;Basophil count
+ENSG00000198768	APCDD1L	salivary_gland	19.2	0		1	Triglyceride levels;Cardiovascular risk factors (age interaction);Type 2 diabetes
+ENSG00000161798	AQP5	salivary_gland	622.6	0		1	Allergic rhinitis;Asthma
+ENSG00000074370	ATP2A3	salivary_gland	185.3	0		1	Glucose homeostasis traits;Metabolite levels;Refractive error;Apolipoprotein A1 levels;Diastolic blood pressure
+ENSG00000157087	ATP2B2	salivary_gland	33.2	1	ATPase plasma membrane Ca2+ transporting 2	1	Amyotrophic lateral sclerosis (sporadic);Bipolar disorder;Autism spectrum disorder or schizophrenia;Manganese levels;Cognitive decline rate in late mild cognitive impairment
+ENSG00000182240	BACE2	salivary_gland	26.8	0		1	Glycemic traits (pregnancy);Elevated fasting plasma glucose;Body mass index;Adult body size;Cognitive ability, years of educational attainment or schizophrenia (pleiotropy)
+ENSG00000100290	BIK	salivary_gland	17.5	0		1	Prostate cancer;Prostate cancer (SNP x SNP interaction)
+ENSG00000174950	CD164L2	salivary_gland	13.5	0		1	Psoriasis
+ENSG00000026508	CD44	salivary_gland	504.2	1	CD44 molecule (Indian blood group)	1	Systemic lupus erythematosus;Uterine fibroids;Total body bone mineral density;Intake of sweets;Thiazide-induced adverse metabolic effects in hypertensive patients
+ENSG00000086548	CEACAM6	salivary_gland	177.6	0		1	Serum carcinoembryonic antigen levels
+ENSG00000133019	CHRM3	salivary_gland	17.5	1	Cholinergic receptor muscarinic 3	1	Electroencephalogram traits;Interleukin-6 (red blood cell fatty acid level interaction);Hallucinations in long-term cannabis use;Generalized epilepsy
+ENSG00000154080	CHST9	salivary_gland	13.8	0		1	Response to anti-retroviral therapy (ddI/d4T) in HIV-1 infection (Grade 3 peripheral neuropathy);Metabolite levels;Bronchopulmonary dysplasia;Breast cancer
+ENSG00000134873	CLDN10	salivary_gland	91.5	0		1	Metabolite levels;Psychosis proneness (hypomanic personality scale);Iron status biomarkers (ferritin levels);Estimated glomerular filtration rate;Dental caries (decayed and filled deciduous teeth)
+ENSG00000156284	CLDN8	salivary_gland	40.1	0		1	Response to statin therapy
+ENSG00000157613	CREB3L1	salivary_gland	83	0		1	Systolic blood pressure;Peripheral artery disease;HDL cholesterol levels;Apolipoprotein A1 levels;Autism spectrum disorder or schizophrenia
+ENSG00000099958	DERL3	salivary_gland	51.1	0		1	IgG galactosylation phenotypes (multivariate analysis);IgG digalactosylation phenotypes (multivariate analysis);IgG bisecting N-acetyl glucosamine phenotypes (multivariate analysis);IgG sialylation phenotypes (multivariate analysis);IgG disialylation phenotypes (multivariate analysis)
+ENSG00000168032	ENTPD3	salivary_gland	22.4	0		1	Eosinophil percentage of white cells;Neuroticism
+ENSG00000183844	FAM3B	salivary_gland	119.4	0		1	Glycemic traits (pregnancy);Elevated serum carcinoembryonic antigen levels;Blood protein levels;Tumor biomarkers
+ENSG00000140564	FURIN	salivary_gland	220.5	0		1	Schizophrenia;Systolic blood pressure (cigarette smoking interaction);Diastolic blood pressure (cigarette smoking interaction);Risk-taking tendency (4-domain principal component model);General risk tolerance (MTAG)
+ENSG00000176920	FUT2	salivary_gland	66.2	0		1	Vitamin B levels in ischemic stroke;Blood metabolite ratios;Blood metabolite levels;Psoriasis
+ENSG00000171124	FUT3	salivary_gland	84.2	0		1	Blood protein levels;Elevated serum carcinoembryonic antigen levels;Vitamin B12 levels
+ENSG00000156413	FUT6	salivary_gland	45.7	0		1	Elevated serum carcinoembryonic antigen levels;Vitamin B12 levels;White blood cell count (basophil);Basophil percentage of granulocytes
+ENSG00000140297	GCNT3	salivary_gland	55.8	0		1	Macular thickness
+ENSG00000167741	GGT6	salivary_gland	55.8	0		1	Rheumatoid arthritis;Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)
+ENSG00000176402	GJC3	salivary_gland	11.7	0		1	Refractive error
+ENSG00000166736	HTR3A	salivary_gland	5	1	5-hydroxytryptamine receptor 3A	1	Multiple sclerosis;Chronic kidney disease;Diisocyanate-induced asthma;Type 2 diabetes or prostate cancer (pleiotropy)
+ENSG00000104783	KCNN4	salivary_gland	130.8	1	Potassium calcium-activated channel subfamily N member 4	1	Hemoglobin levels;Monocyte percentage of white cells;Granulocyte percentage of myeloid white cells;Monocyte count;Mean corpuscular hemoglobin concentration
+ENSG00000062524	LTK	salivary_gland	11.8	0		1	Type 2 diabetes;Apolipoprotein A1 levels;High density lipoprotein cholesterol levels;Household income (MTAG)
+ENSG00000111261	MANSC1	salivary_gland	70	0		1	Blood protein levels;Tandem gait;Femur bone mineral density x serum urate levels interaction
+ENSG00000165795	NDRG2	salivary_gland	2081.6	0		1	Hip circumference adjusted for BMI;Resting heart rate;Heart rate response to exercise
+ENSG00000162896	PIGR	salivary_gland	1645.1	0		1	Blood protein levels;Coronary atherosclerosis (increased number of diseased vessels) (traffic exposure interaction);Precuneus cortex volume;Inflammatory bowel disease
+ENSG00000153246	PLA2R1	salivary_gland	39.1	0		1	Membranous nephropathy;Refractive error;Blood protein levels
+ENSG00000052344	PRSS8	salivary_gland	245.4	0		1	Bipolar I disorder;Bipolar disorder;Waist circumference
+ENSG00000111319	SCNN1A	salivary_gland	157.3	1	Sodium channel epithelial 1 subunit alpha	1	Primary biliary cirrhosis;Alopecia areata
+ENSG00000072858	SIDT1	salivary_gland	10.8	0		1	Mean platelet volume;Multiple sclerosis;Dental caries;Prostate cancer
+ENSG00000064651	SLC12A2	salivary_gland	75.6	1	Solute carrier family 12 member 2	1	Height;HDL cholesterol levels;Apolipoprotein A1 levels;Body fat distribution (arm fat ratio)
+ENSG00000163053	SLC16A14	salivary_gland	18.6	0		1	Cholangiocarcinoma in primary sclerosing cholangitis (time to event)
+ENSG00000197506	SLC28A3	salivary_gland	12	0		1	Amyotrophic lateral sclerosis (sporadic);Smoking status (ever vs never smokers);Gout (normal type);Body mass index;Multiple system atrophy
+ENSG00000110660	SLC35F2	salivary_gland	37.4	0		1	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+ENSG00000134955	SLC37A2	salivary_gland	78.8	0		1	Heel bone mineral density;Breast cancer (survival)
+ENSG00000088836	SLC4A11	salivary_gland	54	0		1	HDL cholesterol levels x loop diuretics use interaction;Refractive error;Night sleep phenotypes;Asthma;Immature fraction of reticulocytes
+ENSG00000268104	SLC6A14	salivary_gland	20.6	0		1	Meconium ileus in cystic fibrosis;Lung disease severity in cystic fibrosis
+ENSG00000090020	SLC9A1	salivary_gland	76.5	0		1	Lateral ventricle volume
+ENSG00000184564	SLITRK6	salivary_gland	27.7	0		1	Bipolar disorder (mania);Trunk fat mass adjusted for trunk lean mass;Femoral neck bone mineral density and trunk fat mass adjusted by trunk lean mass;Male sexual orientation;Initial alcohol sensitivity
+ENSG00000166002	SMCO4	salivary_gland	195.8	0		1	Insulin levels in response to oral glucose tolerance test (30 minutes);Adult body size;Liver enzyme levels (alanine transaminase)
+ENSG00000011347	SYT7	salivary_gland	57	0		1	Metabolite levels;Plasma omega-6 polyunsaturated fatty acid levels (linoleic acid);Plasma omega-6 polyunsaturated fatty acid levels (arachidonic acid)
+ENSG00000184292	TACSTD2	salivary_gland	468.5	1	Tumor associated calcium signal transducer 2	1	Calcific aortic valve stenosis;Nickel levels
+ENSG00000169962	TAS1R3	salivary_gland	7.9	0		1	Ulcerative colitis;Inflammatory bowel disease
+ENSG00000162065	TBC1D24	salivary_gland	16.5	0		1	Mean reticulocyte volume;Age-related hearing impairment
+ENSG00000166557	TMED3	salivary_gland	409.4	0		1	Epstein-Barr virus copy number in lymphoblastoid cell lines
+ENSG00000141655	TNFRSF11A	salivary_gland	25.4	0		1	Pagets disease;Bone mineral density (paediatric, skull);Heel bone mineral density
+ENSG00000127863	TNFRSF19	salivary_gland	55.3	0		1	Blood pressure (smoking interaction);Heel bone mineral density;Nasopharyngeal carcinoma;Blood protein levels
+ENSG00000111199	TRPV4	salivary_gland	19.2	0		1	White matter hyperintensity volume (adjusted for hypertension);White matter hyperintensity volume;Creatinine levels
+ENSG00000165125	TRPV6	salivary_gland	69.3	0		1	Anxiety;Mastocytosis;Alcoholic chronic pancreatitis;Cancer
+ENSG00000186806	VSIG10L	salivary_gland	23.5	0		1	Appendicular lean mass

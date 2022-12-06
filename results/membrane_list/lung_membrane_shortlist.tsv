@@ -1,0 +1,11 @@
+Gene	Gene.name	Tissue	nTPM	fda	fdaGeneDesc	gwcat	gwasTraits
+ENSG00000043591	ADRB1	lung	13.1	1	Adrenoceptor beta 1	1	Birth weight;Diastolic blood pressure (cigarette smoking interaction);Systolic blood pressure (cigarette smoking interaction)
+ENSG00000064989	CALCRL	lung	76.8	1	Calcitonin receptor like receptor	1	Waist-to-hip ratio adjusted for BMI (adjusted for smoking behaviour);Heel bone mineral density;Serum immune biomarker levels;Waist-to-hip ratio adjusted for body mass index
+ENSG00000120217	CD274	lung	16.8	1	CD274 molecule	1	Blood protein levels
+ENSG00000203747	FCGR3A	lung	206.3	1	Fc fragment of IgG receptor IIIa	1	Functional impairment in major depressive disorder, bipolar disorder and schizophrenia;Ulcerative colitis;Inflammatory bowel disease;Basophil count
+ENSG00000160867	FGFR4	lung	65.4	1	Fibroblast growth factor receptor 4	1	Height;Waist circumference adjusted for BMI (adjusted for smoking behaviour);Waist-to-hip ratio adjusted for BMI (joint analysis main effects and smoking interaction);Waist-to-hip ratio adjusted for BMI (adjusted for smoking behaviour)
+ENSG00000090339	ICAM1	lung	219.3	1	Intercellular adhesion molecule 1	1	Height;Pulse pressure;Lymphocyte count;Inflammatory bowel disease;Vitiligo
+ENSG00000260314	MRC1	lung	122.3	1	Mannose receptor C-type 1	1	Osteoarthritis biomarkers;Blood protein levels;Childhood and early adolescence aggressive behavior;Aspartate aminotransferase levels
+ENSG00000149534	MS4A2	lung	12.6	1	Membrane spanning 4-domains A2	1	Alzheimers disease
+ENSG00000160013	PTGIR	lung	55.5	1	Prostaglandin I2 receptor	1	Crohns disease
+ENSG00000122679	RAMP3	lung	144.6	1	Receptor activity modifying protein 3	1	Hepatic lipid content in extreme obesity
