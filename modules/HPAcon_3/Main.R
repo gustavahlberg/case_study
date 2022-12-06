@@ -1,43 +1,35 @@
 #
 # HPA module
 # 
-# 1) QC
-# 2) GO annotate
-# 3) co-expression
-# 4) combine w/ WGNC modules 
-# 
+# 1) load (QC)
+# 2) drug FDA targets tissue enrichment
+## # 3) calc tissue enrichment score
+# 4) subset to secreted & membrane & evidence at protein level & group/tissue 
+#  enriched enchanced
+# 5) co-expression w/ IGF2R
+# 6) in gwas catalog
+# 8) check if drug FDA targets in short list
 # --------------------------------
 #
-# load data
+# load data tables and libraries
 #
 
-library(tidyr)
-library(org.Hs.eg.db)
-library("biomaRt")
-library(matrixStats)
-
-poi <- "IGF2R"
-bpoi <- c("PCSK9" ,"TARDBP" ,"UCP2", "DCN", "APOD")
-hpacon <- read.table("../../data/rna_tissue_consensus.tsv",
-                     header = T,
-                     sep = "\t")
-sclocation <- read.table("../../data/subcellular_location.tsv",
-                     header = T,
-                     sep = "\t")
-
-paTab <- read.table("../../data/proteinatlas.tsv",
-                         header = T,
-                         sep = "\t")
-
-
+source("load.R")
 
 
 # --------------------------------
 #
-# Filter by GO annotations
+# FDA approved target tissues spec.
 #
 
-source("addGOannotation.R")
+source("fdaTargets.R")
+
+# --------------------------------
+#
+# Get set of genes that meet assumptions
+#
+
+source("subset.R")
 
 
 # --------------------------------
@@ -45,7 +37,7 @@ source("addGOannotation.R")
 #  id gene highly expressed in tisses w/ IGF2R
 #
 
-source("hpaQC.R")
+source("hpaExp.R")
 
 
 # --------------------------------
