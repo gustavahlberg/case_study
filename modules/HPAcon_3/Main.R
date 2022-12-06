@@ -34,10 +34,24 @@ source("subset.R")
 
 # --------------------------------
 #
-#  id gene highly expressed in tisses w/ IGF2R
+#  id gene highly expressed in tissues w/ IGF2R
 #
 
 source("hpaExp.R")
+
+
+# --------------------------------
+#
+#  annotate w/ gwas catalog
+#
+
+
+
+# --------------------------------
+#
+#  print results
+#
+
 
 
 # --------------------------------
